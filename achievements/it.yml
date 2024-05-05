@@ -1,0 +1,349 @@
+it:
+  NEW_ACHIEVEMENT_6_0_NAME: >
+    Il gioco perfetto
+  NEW_ACHIEVEMENT_6_0_DESC: >
+    Ottenere 100/100
+  NEW_ACHIEVEMENT_6_1_NAME: >
+    Più che perfetto
+  NEW_ACHIEVEMENT_6_1_DESC: >
+    Ottenere 110/100
+  NEW_ACHIEVEMENT_6_2_NAME: >
+    Il peggior gioco di sempre
+  NEW_ACHIEVEMENT_6_2_DESC: >
+    Ottenere 5/100 (o meno)
+  NEW_ACHIEVEMENT_6_3_NAME: >
+    Creare un gioco famoso
+  NEW_ACHIEVEMENT_6_3_DESC: >
+    Ciao, amico mio. Rimani un po' ad ascoltare
+  NEW_ACHIEVEMENT_6_4_NAME: >
+    Crea un gioco famoso
+  NEW_ACHIEVEMENT_6_4_DESC: >
+    NON PUOI RIDURRE I FONDI! TE NE PENTIRAI!
+  NEW_ACHIEVEMENT_6_5_NAME: >
+    Crea un gioco famoso
+  NEW_ACHIEVEMENT_6_5_DESC: >
+    Le parole hanno il potere di distruggere e di guarire. Quando le parole sono vere e gentili, possono cambiare il nostro mondo.
+  NEW_ACHIEVEMENT_6_6_NAME: >
+    Crea un gioco famoso
+  NEW_ACHIEVEMENT_6_6_DESC: >
+    Veni vidi vici
+  NEW_ACHIEVEMENT_6_7_NAME: >
+    Crea un gioco famoso
+  NEW_ACHIEVEMENT_6_7_DESC: >
+    Primo round! LOTTA!
+  NEW_ACHIEVEMENT_6_8_NAME: >
+    Crea un gioco famoso
+  NEW_ACHIEVEMENT_6_8_DESC: >
+    Wololo
+  NEW_ACHIEVEMENT_6_9_NAME: >
+    Crea un gioco famoso
+  NEW_ACHIEVEMENT_6_9_DESC: >
+    Un trabocchetto, attenzione!
+  NEW_ACHIEVEMENT_6_10_NAME: >
+    Crea un gioco famoso
+  NEW_ACHIEVEMENT_6_10_DESC: >
+    La scienza non riguarda il PERCHE', ma il PERCHE' NON!
+  NEW_ACHIEVEMENT_6_11_NAME: >
+    Crea un gioco famoso
+  NEW_ACHIEVEMENT_6_11_DESC: >
+    La tua principessa è in un altro castello
+  NEW_ACHIEVEMENT_6_12_NAME: >
+    Crea un gioco famoso
+  NEW_ACHIEVEMENT_6_12_DESC: >
+    Non sei solo
+  NEW_ACHIEVEMENT_6_13_NAME: >
+    Crea un gioco famoso
+  NEW_ACHIEVEMENT_6_13_DESC: >
+    Mayday mayday!
+  NEW_ACHIEVEMENT_6_14_NAME: >
+    Sei una leggenda
+  NEW_ACHIEVEMENT_6_14_DESC: >
+    Sblocca un genere di gioco unico
+  NEW_ACHIEVEMENT_6_15_NAME: >
+    Sii generoso
+  NEW_ACHIEVEMENT_6_15_DESC: >
+    Adotta un gatto
+  NEW_ACHIEVEMENT_6_16_NAME: >
+    Si tratta del gioco!
+  NEW_ACHIEVEMENT_6_16_DESC: >
+    Genera a caso il nome del gioco
+  NEW_ACHIEVEMENT_6_17_NAME: >
+    GOVERNARE!!!
+  NEW_ACHIEVEMENT_6_17_DESC: >
+    Prezzo massimo
+  NEW_ACHIEVEMENT_6_18_NAME: >
+    Generoso!
+  NEW_ACHIEVEMENT_6_18_DESC: >
+    Prezzo minimo
+  NEW_ACHIEVEMENT_6_19_NAME: >
+    Studio di gioco della città
+  NEW_ACHIEVEMENT_6_19_DESC: >
+    Finisci il gioco
+  NEW_ACHIEVEMENT_6_20_NAME: >
+    Gioco da commercializzare
+  NEW_ACHIEVEMENT_6_20_DESC: >
+    Commercializzare un gioco
+  NEW_ACHIEVEMENT_6_21_NAME: >
+    Il tuo primo fan
+  NEW_ACHIEVEMENT_6_21_DESC: >
+    Ottenere il primo fan
+  NEW_ACHIEVEMENT_6_22_NAME: >
+    Una piccola folla
+  NEW_ACHIEVEMENT_6_22_DESC: >
+    Ottenere 1000 fan
+  NEW_ACHIEVEMENT_6_23_NAME: >
+    Una piccola folla
+  NEW_ACHIEVEMENT_6_23_DESC: >
+    Ottieni 10 000 fan
+  NEW_ACHIEVEMENT_6_24_NAME: >
+    Folla regolare
+  NEW_ACHIEVEMENT_6_24_DESC: >
+    Ottieni 100 000 fan
+  NEW_ACHIEVEMENT_6_25_NAME: >
+    Grande folla
+  NEW_ACHIEVEMENT_6_25_DESC: >
+    Ottieni 500 000 fan
+  NEW_ACHIEVEMENT_6_26_NAME: >
+    Folla enorme
+  NEW_ACHIEVEMENT_6_26_DESC: >
+    Ottenere 1 000 000 di fan
+  NEW_ACHIEVEMENT_6_27_NAME: >
+    È un bel posto
+  NEW_ACHIEVEMENT_6_27_DESC: >
+    Aprire il primo studio
+  NEW_ACHIEVEMENT_6_28_NAME: >
+    Compriamo alcuni edifici
+  NEW_ACHIEVEMENT_6_28_DESC: >
+    Aprire 5 studi
+  NEW_ACHIEVEMENT_6_29_NAME: >
+    Possediamo una città?
+  NEW_ACHIEVEMENT_6_29_DESC: >
+    Aprire 10 studi
+  NEW_ACHIEVEMENT_6_30_NAME: >
+    Creiamo un nuovo gioco!
+  NEW_ACHIEVEMENT_6_30_DESC: >
+    Sblocca un nuovo genere di gioco
+  NEW_ACHIEVEMENT_6_31_NAME: >
+    Creiamo un nuovo gioco!
+  NEW_ACHIEVEMENT_6_31_DESC: >
+    Sblocca 5 generi di gioco
+  NEW_ACHIEVEMENT_11_0_NAME: >
+    Creiamo un nuovo gioco!
+  NEW_ACHIEVEMENT_11_0_DESC: >
+    Sblocca 10 giochi di genere
+  NEW_ACHIEVEMENT_11_1_NAME: >
+    Creiamo un nuovo gioco!
+  NEW_ACHIEVEMENT_11_1_DESC: >
+    Sblocca 30 giochi di genere
+  NEW_ACHIEVEMENT_11_2_NAME: >
+    Voglio di più!
+  NEW_ACHIEVEMENT_11_2_DESC: >
+    Sblocca una piattaforma
+  NEW_ACHIEVEMENT_11_3_NAME: >
+    Voglio di più!
+  NEW_ACHIEVEMENT_11_3_DESC: >
+    Sblocca 5 piattaforme
+  NEW_ACHIEVEMENT_11_4_NAME: >
+    Voglio di più!
+  NEW_ACHIEVEMENT_11_4_DESC: >
+    Sblocca 10 piattaforme
+  NEW_ACHIEVEMENT_11_5_NAME: >
+    Voglio di più!!!
+  NEW_ACHIEVEMENT_11_5_DESC: >
+    Sblocca 15 piattaforme
+  NEW_ACHIEVEMENT_11_6_NAME: >
+    Voglio di più!!!
+  NEW_ACHIEVEMENT_11_6_DESC: >
+    Sblocca 20 piattaforme
+  NEW_ACHIEVEMENT_11_7_NAME: >
+    Voglio di più!!!
+  NEW_ACHIEVEMENT_11_7_DESC: >
+    Sblocca 25 piattaforme
+  NEW_ACHIEVEMENT_11_8_NAME: >
+    Voglio di più!!!
+  NEW_ACHIEVEMENT_11_8_DESC: >
+    Sblocca 30 piattaforme
+  NEW_ACHIEVEMENT_11_9_NAME: >
+    VOGLIO DI PIÙ!
+  NEW_ACHIEVEMENT_11_9_DESC: >
+    Sblocca 45 piattaforme
+  NEW_ACHIEVEMENT_11_10_NAME: >
+    VOGLIO DI PIÙ!
+  NEW_ACHIEVEMENT_11_10_DESC: >
+    Sblocca 60 piattaforme
+  NEW_ACHIEVEMENT_11_11_NAME: >
+    VOGLIO DI PIÙ!
+  NEW_ACHIEVEMENT_11_11_DESC: >
+    Sbloccare 75 piattaforme
+  NEW_ACHIEVEMENT_11_12_NAME: >
+    È un buon inizio
+  NEW_ACHIEVEMENT_11_12_DESC: >
+    Vendi 100.000 copie del tuo gioco
+  NEW_ACHIEVEMENT_11_13_NAME: >
+    Non male
+  NEW_ACHIEVEMENT_11_13_DESC: >
+    Vendi 500k copie del tuo gioco
+  NEW_ACHIEVEMENT_11_14_NAME: >
+    WoW!!!
+  NEW_ACHIEVEMENT_11_14_DESC: >
+    Vendi 1 milione di copie del tuo gioco
+  NEW_ACHIEVEMENT_11_15_NAME: >
+    Dammi di più!
+  NEW_ACHIEVEMENT_11_15_DESC: >
+    Vendi 10 milioni di copie del tuo gioco
+  NEW_ACHIEVEMENT_11_16_NAME: >
+    Voglio di più!
+  NEW_ACHIEVEMENT_11_16_DESC: >
+    Vendi 100 milioni di copie del tuo gioco
+  NEW_ACHIEVEMENT_11_17_NAME: >
+    Oh Dio!
+  NEW_ACHIEVEMENT_11_17_DESC: >
+    Vendi 500 milioni di copie del tuo gioco
+  NEW_ACHIEVEMENT_11_18_NAME: >
+    Posso comprare la luna, per favore?
+  NEW_ACHIEVEMENT_11_18_DESC: >
+    Vendi 1000 milioni di copie del tuo gioco
+  NEW_ACHIEVEMENT_11_19_NAME: >
+    È un gioco INDIE
+  NEW_ACHIEVEMENT_11_19_DESC: >
+    Rilasciare un gioco
+  NEW_ACHIEVEMENT_11_20_NAME: >
+    Il lavoro dei miei sogni
+  NEW_ACHIEVEMENT_11_20_DESC: >
+    Rilasciare 10 giochi
+  NEW_ACHIEVEMENT_11_21_NAME: >
+    È tempo di espandersi
+  NEW_ACHIEVEMENT_11_21_DESC: >
+    Rilasciare 25 giochi
+  NEW_ACHIEVEMENT_11_22_NAME: >
+    Un altro?
+  NEW_ACHIEVEMENT_11_22_DESC: >
+    Rilasciare 50 giochi
+  NEW_ACHIEVEMENT_11_23_NAME: >
+    Sei una fabbrica di giochi!
+  NEW_ACHIEVEMENT_11_23_DESC: >
+    Rilascia 100 giochi
+  NEW_ACHIEVEMENT_11_24_NAME: >
+    Un altro gioco indie
+  NEW_ACHIEVEMENT_11_24_DESC: >
+    Rilascia 250 giochi
+  NEW_ACHIEVEMENT_11_25_NAME: >
+    È un gioco INDIE :)
+  NEW_ACHIEVEMENT_11_25_DESC: >
+    Rilascia 500 giochi
+  NEW_ACHIEVEMENT_11_26_NAME: >
+    Fabbrica di giochi
+  NEW_ACHIEVEMENT_11_26_DESC: >
+    Rilascia 1000 giochi
+  NEW_ACHIEVEMENT_11_27_NAME: >
+    Che succede Doc?
+  NEW_ACHIEVEMENT_11_27_DESC: >
+    Crea un rapporto di gioco per un gioco
+  NEW_ACHIEVEMENT_11_28_NAME: >
+    È vivo! VIVO!
+  NEW_ACHIEVEMENT_11_28_DESC: >
+    Crea un rapporto di gioco per 10 partite
+  NEW_ACHIEVEMENT_11_29_NAME: >
+    È vivo! VIVO!
+  NEW_ACHIEVEMENT_11_29_DESC: >
+    Crea un report di gioco per 25 partite
+  NEW_ACHIEVEMENT_11_30_NAME: >
+    È vivo! VIVO!
+  NEW_ACHIEVEMENT_11_30_DESC: >
+    Crea un rapporto di gioco per 50 partite
+  NEW_ACHIEVEMENT_11_31_NAME: >
+    È vivo! VIVO!
+  NEW_ACHIEVEMENT_11_31_DESC: >
+    Crea un report di gioco per 100 partite
+  NEW_ACHIEVEMENT_12_0_NAME: >
+    È vivo! VIVO!
+  NEW_ACHIEVEMENT_12_0_DESC: >
+    Crea un report di gioco per 250 partite
+  NEW_ACHIEVEMENT_12_1_NAME: >
+    È vivo! VIVO!
+  NEW_ACHIEVEMENT_12_1_DESC: >
+    Crea un rapporto di gioco per 500 partite
+  NEW_ACHIEVEMENT_12_2_NAME: >
+    È vivo! VIVO!
+  NEW_ACHIEVEMENT_12_2_DESC: >
+    Crea un rapporto di gioco per 1000 partite
+  NEW_ACHIEVEMENT_12_3_NAME: >
+    Funzionalità completa
+  NEW_ACHIEVEMENT_12_3_DESC: >
+    Negozio digitale completo
+  NEW_ACHIEVEMENT_12_4_NAME: >
+    Server fumanti
+  NEW_ACHIEVEMENT_12_4_DESC: >
+    Non può gestire di più!!!
+  NEW_ACHIEVEMENT_12_5_NAME: >
+    Gioco dell'anno!
+  NEW_ACHIEVEMENT_12_5_DESC: >
+    Vincere il premio Gioco dell'anno
+  NEW_ACHIEVEMENT_12_6_NAME: >
+    Crackare un gioco
+  NEW_ACHIEVEMENT_12_6_DESC: >
+    Congratulazioni, ora sei un Cracker
+  NEW_ACHIEVEMENT_12_7_NAME: >
+    Hacker
+  NEW_ACHIEVEMENT_12_7_DESC: >
+    Spiare un concorrente
+  NEW_ACHIEVEMENT_12_8_NAME: >
+    Creare un motore di gioco
+  NEW_ACHIEVEMENT_12_8_DESC: >
+    Creare un motore di gioco
+  NEW_ACHIEVEMENT_12_9_NAME: >
+    Creare un motore di gioco FOSS
+  NEW_ACHIEVEMENT_12_9_DESC: >
+    Creare un motore di gioco FOSS
+  NEW_ACHIEVEMENT_12_10_NAME: >
+    Che motore?
+  NEW_ACHIEVEMENT_12_10_DESC: >
+    Un concorrente pubblica un gioco che usa il tuo motore
+  NEW_ACHIEVEMENT_12_11_NAME: >
+    La tua console?
+  NEW_ACHIEVEMENT_12_11_DESC: >
+    Crea la tua piattaforma personalizzata
+  NEW_ACHIEVEMENT_12_12_NAME: >
+    Così popolare
+  NEW_ACHIEVEMENT_12_12_DESC: >
+    Un concorrente ha pubblicato un gioco sulla vostra piattaforma personalizzata
+  NEW_ACHIEVEMENT_12_13_NAME: >
+    Andiamo!
+  NEW_ACHIEVEMENT_12_13_DESC: >
+    Pubblicate un gioco sulla vostra piattaforma
+  NEW_ACHIEVEMENT_12_14_NAME: >
+    100k unità vendute
+  NEW_ACHIEVEMENT_12_14_DESC: >
+    100k unità vendute
+  NEW_ACHIEVEMENT_12_15_NAME: >
+    500k unità vendute
+  NEW_ACHIEVEMENT_12_15_DESC: >
+    500k unità vendute
+  NEW_ACHIEVEMENT_12_16_NAME: >
+    1 milione di unità vendute
+  NEW_ACHIEVEMENT_12_16_DESC: >
+    1 milione di unità vendute
+  NEW_ACHIEVEMENT_12_17_NAME: >
+    10 milioni di unità vendute
+  NEW_ACHIEVEMENT_12_17_DESC: >
+    10 milioni di unità vendute
+  NEW_ACHIEVEMENT_12_18_NAME: >
+    100 milioni di unità vendute
+  NEW_ACHIEVEMENT_12_18_DESC: >
+    100 milioni di unità vendute
+  NEW_ACHIEVEMENT_12_19_NAME: >
+    Sono stati commessi degli errori
+  NEW_ACHIEVEMENT_12_19_DESC: >
+    Firmare un contratto di esclusività di 96 mesi per il Joycast
+  NEW_ACHIEVEMENT_12_22_NAME: >
+    Impressionante
+  NEW_ACHIEVEMENT_12_22_DESC: >
+    Un milione di giocatori che usano il tuo negozio digitale
+  NEW_ACHIEVEMENT_12_20_NAME: >
+    Così grande
+  NEW_ACHIEVEMENT_12_20_DESC: >
+    Creare un gioco AAA negli anni '90
+  NEW_ACHIEVEMENT_12_21_NAME: >
+    Sei mozzafiato
+  NEW_ACHIEVEMENT_12_21_DESC: >
+    Creare una piattaforma personalizzata negli anni '90

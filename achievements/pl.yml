@@ -1,0 +1,349 @@
+pl:
+  NEW_ACHIEVEMENT_6_0_NAME: >
+    Doskonała gra
+  NEW_ACHIEVEMENT_6_0_DESC: >
+    Uzyskać wynik 100/100
+  NEW_ACHIEVEMENT_6_1_NAME: >
+    Perfekcyjna gra
+  NEW_ACHIEVEMENT_6_1_DESC: >
+    Uzyskać niewiarygodną ocenę 110/100
+  NEW_ACHIEVEMENT_6_2_NAME: >
+    Najgorsza gra w historii
+  NEW_ACHIEVEMENT_6_2_DESC: >
+    Co poszło nie tak? Uzyskać wynik 5/100 (lub gorszy)
+  NEW_ACHIEVEMENT_6_3_NAME: >
+    Stwórz słynną grę
+  NEW_ACHIEVEMENT_6_3_DESC: >
+    Witaj, mój przyjacielu. Zostań na chwilę i posłuchaj
+  NEW_ACHIEVEMENT_6_4_NAME: >
+    Stwórz słynną grę
+  NEW_ACHIEVEMENT_6_4_DESC: >
+    NIE MOŻNA OGRANICZAĆ FINANSOWANIA! BĘDZIECIE TEGO ŻAŁOWAĆ!
+  NEW_ACHIEVEMENT_6_5_NAME: >
+    Stwórz słynną grę
+  NEW_ACHIEVEMENT_6_5_DESC: >
+    Słowa mają moc zarówno niszczenia, jak i uzdrawiania. Kiedy słowa są zarówno prawdziwe, jak i życzliwe, mogą zmienić nasz świat.
+  NEW_ACHIEVEMENT_6_6_NAME: >
+    Stwórz słynną grę
+  NEW_ACHIEVEMENT_6_6_DESC: >
+    Niech się dzieje, co chce.
+  NEW_ACHIEVEMENT_6_7_NAME: >
+    Stwórz słynną grę
+  NEW_ACHIEVEMENT_6_7_DESC: >
+    Round 1! FIGHT!
+  NEW_ACHIEVEMENT_6_8_NAME: >
+    Stwórz słynną grę
+  NEW_ACHIEVEMENT_6_8_DESC: >
+    Wololo
+  NEW_ACHIEVEMENT_6_9_NAME: >
+    Stwórz słynną grę
+  NEW_ACHIEVEMENT_6_9_DESC: >
+    Pułapka, uważaj!
+  NEW_ACHIEVEMENT_6_10_NAME: >
+    Stwórz słynną grę
+  NEW_ACHIEVEMENT_6_10_DESC: >
+    Nauka nie jest od tego, DLACZEGO, ale od tego, DLACZEGO NIE!
+  NEW_ACHIEVEMENT_6_11_NAME: >
+    Stwórz słynną grę
+  NEW_ACHIEVEMENT_6_11_DESC: >
+    Twoja księżniczka jest w innym zamku
+  NEW_ACHIEVEMENT_6_12_NAME: >
+    Stwórz słynną grę
+  NEW_ACHIEVEMENT_6_12_DESC: >
+    Nie jesteś sam.
+  NEW_ACHIEVEMENT_6_13_NAME: >
+    Stwórz słynną grę
+  NEW_ACHIEVEMENT_6_13_DESC: >
+    Mayday mayday!
+  NEW_ACHIEVEMENT_6_14_NAME: >
+    Jesteś legendą
+  NEW_ACHIEVEMENT_6_14_DESC: >
+    Odblokuj unikalny gatunek gry
+  NEW_ACHIEVEMENT_6_15_NAME: >
+    Bądź hojny
+  NEW_ACHIEVEMENT_6_15_DESC: >
+    Adoptuj kota
+  NEW_ACHIEVEMENT_6_16_NAME: >
+    Tu chodzi o grę!
+  NEW_ACHIEVEMENT_6_16_DESC: >
+    Losowo wygeneruj nazwę gry
+  NEW_ACHIEVEMENT_6_17_NAME: >
+    ZACHŁANNY!!!
+  NEW_ACHIEVEMENT_6_17_DESC: >
+    Maksymalna cena
+  NEW_ACHIEVEMENT_6_18_NAME: >
+    Hojnie!
+  NEW_ACHIEVEMENT_6_18_DESC: >
+    Cena minimalna
+  NEW_ACHIEVEMENT_6_19_NAME: >
+    City Game Studio
+  NEW_ACHIEVEMENT_6_19_DESC: >
+    Ukończ grę
+  NEW_ACHIEVEMENT_6_20_NAME: >
+    Gra na rynku
+  NEW_ACHIEVEMENT_6_20_DESC: >
+    Wprowadzanie gry na rynek
+  NEW_ACHIEVEMENT_6_21_NAME: >
+    Twój pierwszy fan
+  NEW_ACHIEVEMENT_6_21_DESC: >
+    Zdobądź swojego pierwszego fana
+  NEW_ACHIEVEMENT_6_22_NAME: >
+    Malutki tłum
+  NEW_ACHIEVEMENT_6_22_DESC: >
+    Zdobycie 1000 fanów
+  NEW_ACHIEVEMENT_6_23_NAME: >
+    Mały tłum
+  NEW_ACHIEVEMENT_6_23_DESC: >
+    Zdobądź 10 000 fanów
+  NEW_ACHIEVEMENT_6_24_NAME: >
+    Regularny tłum
+  NEW_ACHIEVEMENT_6_24_DESC: >
+    Zdobądź 100 000 fanów
+  NEW_ACHIEVEMENT_6_25_NAME: >
+    Wielki tłum
+  NEW_ACHIEVEMENT_6_25_DESC: >
+    Zdobądź 500 000 fanów
+  NEW_ACHIEVEMENT_6_26_NAME: >
+    Ogromny tłum
+  NEW_ACHIEVEMENT_6_26_DESC: >
+    Zdobądź 1 000 000 fanów
+  NEW_ACHIEVEMENT_6_27_NAME: >
+    To fajne miejsce
+  NEW_ACHIEVEMENT_6_27_DESC: >
+    Otwórz swoją pierwszą pracownię
+  NEW_ACHIEVEMENT_6_28_NAME: >
+    Kupmy kilka budynków
+  NEW_ACHIEVEMENT_6_28_DESC: >
+    Otwórz 5 pracowni
+  NEW_ACHIEVEMENT_6_29_NAME: >
+    Czy my jesteśmy właścicielami miasta?
+  NEW_ACHIEVEMENT_6_29_DESC: >
+    Otwórz 10 pracowni
+  NEW_ACHIEVEMENT_6_30_NAME: >
+    Stwórzmy nową grę!
+  NEW_ACHIEVEMENT_6_30_DESC: >
+    Odblokuj nowy gatunek gry
+  NEW_ACHIEVEMENT_6_31_NAME: >
+    Stwórzmy nową grę!
+  NEW_ACHIEVEMENT_6_31_DESC: >
+    Odblokuj 5 gatunków gier
+  NEW_ACHIEVEMENT_11_0_NAME: >
+    Stwórzmy nową grę!
+  NEW_ACHIEVEMENT_11_0_DESC: >
+    Odblokuj 10 gatunków gier
+  NEW_ACHIEVEMENT_11_1_NAME: >
+    Stwórzmy nową grę!
+  NEW_ACHIEVEMENT_11_1_DESC: >
+    Odblokuj 30 gatunków gier
+  NEW_ACHIEVEMENT_11_2_NAME: >
+    Chcę więcej!
+  NEW_ACHIEVEMENT_11_2_DESC: >
+    Odblokuj 1 platformę
+  NEW_ACHIEVEMENT_11_3_NAME: >
+    Chcę więcej!
+  NEW_ACHIEVEMENT_11_3_DESC: >
+    Odblokuj 5 platform
+  NEW_ACHIEVEMENT_11_4_NAME: >
+    Chcę więcej!
+  NEW_ACHIEVEMENT_11_4_DESC: >
+    Odblokuj 10 platform
+  NEW_ACHIEVEMENT_11_5_NAME: >
+    Chcę więcej!!!
+  NEW_ACHIEVEMENT_11_5_DESC: >
+    Odblokuj 15 platform
+  NEW_ACHIEVEMENT_11_6_NAME: >
+    Chcę więcej!!!
+  NEW_ACHIEVEMENT_11_6_DESC: >
+    Odblokuj 20 platform
+  NEW_ACHIEVEMENT_11_7_NAME: >
+    Chcę więcej!!!
+  NEW_ACHIEVEMENT_11_7_DESC: >
+    Odblokuj 25 platform
+  NEW_ACHIEVEMENT_11_8_NAME: >
+    Chcę więcej!!!
+  NEW_ACHIEVEMENT_11_8_DESC: >
+    Odblokuj 30 platform
+  NEW_ACHIEVEMENT_11_9_NAME: >
+    CHCĘ WIĘCEJ!
+  NEW_ACHIEVEMENT_11_9_DESC: >
+    Odblokuj 45 platform
+  NEW_ACHIEVEMENT_11_10_NAME: >
+    CHCĘ WIĘCEJ!
+  NEW_ACHIEVEMENT_11_10_DESC: >
+    Odblokuj 60 platform
+  NEW_ACHIEVEMENT_11_11_NAME: >
+    CHCĘ WIĘCEJ!
+  NEW_ACHIEVEMENT_11_11_DESC: >
+    Odblokuj 75 platform
+  NEW_ACHIEVEMENT_11_12_NAME: >
+    To dobry początek.
+  NEW_ACHIEVEMENT_11_12_DESC: >
+    Sprzedaj 100 tys. kopii swojej gry
+  NEW_ACHIEVEMENT_11_13_NAME: >
+    Nieźle
+  NEW_ACHIEVEMENT_11_13_DESC: >
+    Sprzedaj 500 tys. kopii swojej gry
+  NEW_ACHIEVEMENT_11_14_NAME: >
+    WoW!!
+  NEW_ACHIEVEMENT_11_14_DESC: >
+    Sprzedaj 1 mln kopii swojej gry
+  NEW_ACHIEVEMENT_11_15_NAME: >
+    Dajcie mi więcej!
+  NEW_ACHIEVEMENT_11_15_DESC: >
+    Sprzedaj 10 mln kopii swojej gry
+  NEW_ACHIEVEMENT_11_16_NAME: >
+    Chcę więcej!
+  NEW_ACHIEVEMENT_11_16_DESC: >
+    Sprzedaj 100 mln kopii swojej gry
+  NEW_ACHIEVEMENT_11_17_NAME: >
+    O, kurcze!
+  NEW_ACHIEVEMENT_11_17_DESC: >
+    Sprzedaj 500 mln kopii swojej gry
+  NEW_ACHIEVEMENT_11_18_NAME: >
+    Czy mogę kupić księżyc?
+  NEW_ACHIEVEMENT_11_18_DESC: >
+    Sprzedaj 1000 mln kopii swojej gry
+  NEW_ACHIEVEMENT_11_19_NAME: >
+    To jest gra Indywidualna
+  NEW_ACHIEVEMENT_11_19_DESC: >
+    Wypuść jedną grę
+  NEW_ACHIEVEMENT_11_20_NAME: >
+    Moja wymarzona praca
+  NEW_ACHIEVEMENT_11_20_DESC: >
+    Wypuszczenie 10 gier
+  NEW_ACHIEVEMENT_11_21_NAME: >
+    Nadszedł czas na rozszerzenie
+  NEW_ACHIEVEMENT_11_21_DESC: >
+    Wypuszczenie 25 gier
+  NEW_ACHIEVEMENT_11_22_NAME: >
+    Jeszcze jeden?
+  NEW_ACHIEVEMENT_11_22_DESC: >
+    Wypuszczenie 50 gier
+  NEW_ACHIEVEMENT_11_23_NAME: >
+    Jesteście fabryką gier!
+  NEW_ACHIEVEMENT_11_23_DESC: >
+    Wypuszczenie 100 gier
+  NEW_ACHIEVEMENT_11_24_NAME: >
+    To kolejna gra niezależna
+  NEW_ACHIEVEMENT_11_24_DESC: >
+    Wypuszczenie 250 gier
+  NEW_ACHIEVEMENT_11_25_NAME: >
+    Jest to gra INDYWIDUALNA :)
+  NEW_ACHIEVEMENT_11_25_DESC: >
+    Wypuszczenie 500 gier
+  NEW_ACHIEVEMENT_11_26_NAME: >
+    Fabryka gier
+  NEW_ACHIEVEMENT_11_26_DESC: >
+    Wypuszczenie 1000 gier
+  NEW_ACHIEVEMENT_11_27_NAME: >
+    Co słychać, doktorku?
+  NEW_ACHIEVEMENT_11_27_DESC: >
+    Utwórz sprawozdanie dla 1 gry
+  NEW_ACHIEVEMENT_11_28_NAME: >
+    To jest żywe! ŻYJE!
+  NEW_ACHIEVEMENT_11_28_DESC: >
+    Utwórz sprawozdanie dla 10 gier
+  NEW_ACHIEVEMENT_11_29_NAME: >
+    To jest żywe! ŻYJE!
+  NEW_ACHIEVEMENT_11_29_DESC: >
+    Utwórz sprawozdanie dla 25 gier
+  NEW_ACHIEVEMENT_11_30_NAME: >
+    To jest żywe! ŻYJE!
+  NEW_ACHIEVEMENT_11_30_DESC: >
+    Utwórz sprawozdanie dla 50 gier
+  NEW_ACHIEVEMENT_11_31_NAME: >
+    To jest żywe! ŻYJE!
+  NEW_ACHIEVEMENT_11_31_DESC: >
+    Utwórz sprawozdanie dla 100 gier
+  NEW_ACHIEVEMENT_12_0_NAME: >
+    To jest żywe! ŻYJE!
+  NEW_ACHIEVEMENT_12_0_DESC: >
+    Utwórz sprawozdanie dla 250 gier
+  NEW_ACHIEVEMENT_12_1_NAME: >
+    To jest żywe! ŻYJE!
+  NEW_ACHIEVEMENT_12_1_DESC: >
+    Utwórz sprawozdanie dla 500 gier
+  NEW_ACHIEVEMENT_12_2_NAME: >
+    To jest żywe! ŻYJE!
+  NEW_ACHIEVEMENT_12_2_DESC: >
+    Utwórz sprawozdanie dla 1000 gier
+  NEW_ACHIEVEMENT_12_3_NAME: >
+    Wszystko w komplecie!
+  NEW_ACHIEVEMENT_12_3_DESC: >
+    Sklep cyfrowy z pełną funkcjonalnością
+  NEW_ACHIEVEMENT_12_4_NAME: >
+    Przeciążone serwery
+  NEW_ACHIEVEMENT_12_4_DESC: >
+    Czy tu jest gorąco, czy to tylko u mnie?
+  NEW_ACHIEVEMENT_12_5_NAME: >
+    Gra Roku!
+  NEW_ACHIEVEMENT_12_5_DESC: >
+    Wygraj nagrodę Gra roku
+  NEW_ACHIEVEMENT_12_6_NAME: >
+    Złam grę
+  NEW_ACHIEVEMENT_12_6_DESC: >
+    Gratulacje, jesteś teraz Crackerem
+  NEW_ACHIEVEMENT_12_7_NAME: >
+    Haker
+  NEW_ACHIEVEMENT_12_7_DESC: >
+    Szpiegowanie konkurencję
+  NEW_ACHIEVEMENT_12_8_NAME: >
+    Wymyśl silnik gry
+  NEW_ACHIEVEMENT_12_8_DESC: >
+    Utwórz silnik gry
+  NEW_ACHIEVEMENT_12_9_NAME: >
+    Zaprojektuj silnik gry FOSS
+  NEW_ACHIEVEMENT_12_9_DESC: >
+    Tworzenie silnika gry opartego na otwartym kodzie źródłowym
+  NEW_ACHIEVEMENT_12_10_NAME: >
+    Co to za silnik?!
+  NEW_ACHIEVEMENT_12_10_DESC: >
+    Konkurencja wydaje grę na Twoim silniku
+  NEW_ACHIEVEMENT_12_11_NAME: >
+    Własna konsola?
+  NEW_ACHIEVEMENT_12_11_DESC: >
+    Stwórz swoją własną platformę
+  NEW_ACHIEVEMENT_12_12_NAME: >
+    Tak bardzo popularny
+  NEW_ACHIEVEMENT_12_12_DESC: >
+    Konkurencja wydała grę na Twoją platformę
+  NEW_ACHIEVEMENT_12_13_NAME: >
+    Ruszamy!
+  NEW_ACHIEVEMENT_12_13_DESC: >
+    Wydać grę na własnej platformie
+  NEW_ACHIEVEMENT_12_14_NAME: >
+    100 tys. sprzedanych sztuk
+  NEW_ACHIEVEMENT_12_14_DESC: >
+    100 tys. sprzedanych sztuk
+  NEW_ACHIEVEMENT_12_15_NAME: >
+    500 tys. sprzedanych sztuk
+  NEW_ACHIEVEMENT_12_15_DESC: >
+    500 tys. sprzedanych sztuk
+  NEW_ACHIEVEMENT_12_16_NAME: >
+    1 milion sprzedanych sztuk
+  NEW_ACHIEVEMENT_12_16_DESC: >
+    1 milion sprzedanych sztuk
+  NEW_ACHIEVEMENT_12_17_NAME: >
+    10 mln sprzedanych sztuk
+  NEW_ACHIEVEMENT_12_17_DESC: >
+    10 mln sprzedanych sztuk
+  NEW_ACHIEVEMENT_12_18_NAME: >
+    100 mln sprzedanych sztuk
+  NEW_ACHIEVEMENT_12_18_DESC: >
+    100 mln sprzedanych sztuk
+  NEW_ACHIEVEMENT_12_19_NAME: >
+    Popełniono błędy
+  NEW_ACHIEVEMENT_12_19_DESC: >
+    Podpisać umowę na wyłączność na Joycast na 96 miesięcy.
+  NEW_ACHIEVEMENT_12_22_NAME: >
+    To imponujące.
+  NEW_ACHIEVEMENT_12_22_DESC: >
+    Zdobyć 1 milion graczy korzystających z twojego cyfrowego sklepu.
+  NEW_ACHIEVEMENT_12_20_NAME: >
+    Tak duże.
+  NEW_ACHIEVEMENT_12_20_DESC: >
+    Zrób grę AAA w latach 90.
+  NEW_ACHIEVEMENT_12_21_NAME: >
+    Zapiera dech w piersiach.
+  NEW_ACHIEVEMENT_12_21_DESC: >
+    Zrób niestandardową platformę w latach 90.

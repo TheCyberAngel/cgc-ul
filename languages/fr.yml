@@ -1,0 +1,2609 @@
+fr:
+  # Buttons actions verbs
+  BUTTON_ACQUIRE: Acquérir
+  BUTTON_READ: Lire
+  BUTTON_ANNOUNCE: Annoncer le jeu
+  BUTTON_NEW_GAME: Nouvelle partie
+  BUTTON_HIRE: Engager
+  BUTTON_APPLY: Appliquer
+  BUTTON_BACK: Précédent
+  BUTTON_BUILD_MODE: Construire
+  BUTTON_BUILDING_RENT: Louer
+  BUTTON_CANCEL: Annuler
+  BUTTON_CANCEL_ALL: Tout annuler
+  BUTTON_CLOSE: Fermer
+  BUTTON_CREDITS: Crédits
+  BUTTON_EXIT: Quitter
+  BUTTON_FIRE: Renvoyer
+  BUTTON_LOAD: Charger
+  BUTTON_LOAD_GAME: Charger une partie
+  BUTTON_MAIN_MENU: Menu principal
+  BUTTON_NEXT: Suivant
+  BUTTON_OK: Ok
+  BUTTON_OPTIONS: Options
+  BUTTON_RESET: Reset
+  BUTTON_SKIP: Passer
+  BUTTON_START: Commencer
+  BUTTON_NEED_STUDIO: Aucun studio disponible
+  BUTTON_CLEAR_EVENTS: Effacer
+  BUTTON_TOO_BAD: C'est dommage!
+  BUTTON_BUY_ANOTHER_ONE: En acheter une autre
+  BUTTON_ADOPT: Adopter
+  BUTTON_ABANDON: Abandonner
+  BUTTON_ASSIGN_EMPLOYEE: Assigner
+  BUTTON_WITHDRAW_SPECIALISTS: Retirer tous les spécialistes
+  BUTTON_KEEP_PLAYING: Continuer à jouer
+  BUTTON_LEADERBOARD: Tableau des scores
+  BUTTON_GIVEUP: Abandonner
+  BUTTON_LOAN: Emprunter
+  BUTTON_REPAY: Rembourser
+  BUTTON_ZOOM: Zoom
+  BUTTON_BUY: Acheter
+  BUTTON_SELL: Vendre
+  BUTTON_RENT: Louer
+  BUTTON_CONFIRM: Confirmer
+  BUTTON_BANKRUPTCY: Banqueroute
+  BUTTON_RESTORE: Restaurer
+  BUTTON_DELETE: Effacer
+  BUTTON_DELETE_ALL: Tout effacer
+  BUTTON_SPAM: Marquer comme indésirable
+  BUTTON_UNSPAM: Marquer comme normal
+  BUTTON_HOLIDAY: Envoyer le studio en vacances
+  BUTTON_HOLIDAY_SOLO: Envoyer en vacances
+  BUTTON_MODS: Mods
+  BUTTON_BUGREPORT: Rapport de bug
+  BUTTON_FEEDBACK: Donner votre avis
+  BUTTON_SELECT: Sélectionner
+  DROPDOWN_LANGUAGE: Langues
+  BUTTON_CRACK_GAME: Pirater ce jeu
+  BUTTON_FORCE_STUDIO_SELL: Forcer la vente d'un studio
+  BUTTON_SPY: Espionner
+  BUTTON_HIRE_THEIR_EMPLOYE: Débaucher un employé
+  BUTTON_SAVEGAME: Sauvegarder la partie
+  BUTTON_SELL_ITEMS: Vendre le mobilier
+  BUTTON_CONTINUE: Continuer
+  BUTTON_DETAILS: Détails
+  BUTTON_CHARTS: Graphiques
+  BUTTON_CREATE: Créer
+  BUTTON_GRID: Afficher la grille
+  BUTTON_EDIT_LOGO: Modifier le logo
+  BUTTON_BUILD: Construire
+  BUTTON_PAY: Payer
+  BUTTON_UPDATE: Mettre à jour
+  BUTTON_EDIT: Modifier
+  BUTTON_CONFINE_MOUSE: Confiner le curseur de la souris
+  BUTTON_SHOW_STUDIO: Montrer le studio
+  BUTTON_CANCEL_GAME: Annuler le jeu
+  BUTTON_VIEW_SEQUEL: Voir la suite
+  BUTTON_COPY: Copier
+  BUTTON_HIRE_ALL: Embaucher tout le monde
+  BUTTON_HIRE_AND_ASSIGN: Embaucher et affecter
+  BUTTON_TRAINING_START: Commencer la formation
+  BUTTON_TRAINING_STOP: Arrêter la formation
+  BUTTON_CANCEL_CONTRACT: Annuler le contrat
+  BUTTON_CANCEL_GAMEPORT: Annuler le port du jeu
+  BUTTON_CANCEL_FEATURE: Annuler la fonctionnalité
+  BUTTON_CANCEL_GAMEENGINE: Annuler le moteur de jeu
+  BUTTON_CANCEL_GAMEUPDATE: Annuler la mise à jour gratuite
+  BUTTON_CANCEL_DLC: Annuler la mise à jour payante
+  BUTTON_UNASSIGN: Détacher
+  BUTTON_REMAKE_CREATE: Créer le remake
+  BUTTON_VIEW_REMAKE: Voir le remake
+  BUTTON_VIEW_ORIGINAL_GAME: Voir le jeu original
+  BUTTON_ACCEPT: Accepter
+  BUTTON_REFUSE: Refuser
+  BUTTON_IMPORT_IMAGE: Importer une image
+  BUTTON_ROADMAP: Feuille de route
+  BUTTON_VIEW_MODS: Voir les mods
+  BUTTON_DEMOLISH_STUDIO: Démolir le bâtiment
+  BUTTON_SAVEGAMEAS: Nouvelle sauvegarde
+  BUTTON_TWITCH_INTEGRATION: Twitch
+
+  # Labels, descriptive
+  TOOLTIP_CUSTOM_PLATFORM_PRICING: |
+    Trouver le bon prix pour une console n'est pas facile et peut vous mener droit à la faillite.
+
+    Le prix de la console influence les ventes.
+    Un prix élevé va faire baisser les ventes.
+    Un prix faible va augmenter les ventes mais cela va coûter très cher.
+  LABEL_CONVENTION_LIST_NONE_ATTENDED: >
+    Vous ne participez à aucune convention, et il n'y a aucune convention annoncée à laquelle vous pourriez participer.
+  LABEL_CONVENTION_LIST_NONE_AVAILABLE: >
+    Il y a des conventions annoncées auxquelles vous pourriez participer, et le bouton ci-dessus vous y conduira. Mais pour l'instant, vous ne participez à aucune convention.
+  LABEL_CUSTOM_PLATFORM_MATCH_PREVIEW: >
+    Liste des genres de jeux et leur correspondance pour votre future console.
+  TOOLTIP_CUSTOM_PLATFORM_GENRE_MATCH: Sélection aléatoire entre %s / %s
+  TOOLTIP_CUSTOM_PLATFORM_CATALOG_GAME_LIST: |
+    Cette section énumère les jeux publiés sur votre console par vous et vos concurrents directs.
+    Elle ne contient pas tous les jeux publiés sur votre console.
+  LABEL_CUSTOM_PLATFORM_SUGGESTED_PRICE: Prix de vente conseillé.
+  TOOLTIP_CUSTOM_PLATFORM_SUGGESTED_PRICE: |
+    Ce prix comprend les coûts de fabrication, l'interpolation des coûts pour les remboursements des consoles.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_00_19: >
+    Vous avez vu le temps qu'il fait?
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_20_39: >
+    Cette console sort avec 10 ans de retard
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_40_59: >
+    On a vu mieux...
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_60_79: >
+    Une console qui se démarque
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_80_100: >
+    Si la perfection avait un nom
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_00_19: |
+    %s nous propose une nouvelle console.
+
+    La %s n'est clairement pas à la hauteur de la concurrence.
+    Même si elle était gratuit je n'en voudrais pas.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_20_39: |
+    %s fait des efforts et il y a encore du chemin à parcourir.
+
+    La %s sort avec quelques années de retard. Technologiquement parlant cette console aura du mal à faire tourner les derniers jeux.
+    Les parts de marchés de cette consoles ne devraient pas dépasser les paquerettes.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_40_59: |
+    %s propose un choix, pas le meilleur certe, mais c'est là.
+
+    La %s est une des consoles les moins puissantes du marché.
+    Certe elle permet de faire tourner les derniers jeux, mais un peu plus de puissance sous le capot n'aurait pas été de trop.
+    Il va falloir un catalogue de jeu exceptionnel pour que les parts de marché de cette console décollent.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_60_79: |
+    %s est présent, et fait sa place dans le milieu.
+
+    La %s offre des performance intéressantes. Ce n'est pas la meilleure offre présente sur le marché, mais avec un prix ajusté et un catalogue de jeu décent,
+    cette console pourrait atteindre des parts de marchés correctes.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_80_100: |
+    %s nous a créé une pépite.
+
+    La %s est une console next-gen. Non seulement elle fait tourner les derniers jeux, mais elle a de beaux jours devant elle.
+    Avec un prix adapté et un catalogue de jeu correct, cette console pourrait devenir culte.
+  LABEL_CUSTOM_PLATFORM_PERFECT_GPU: >
+    Époustouflant, une console qui propose des capacités graphiques incroyables.
+  LABEL_CUSTOM_PLATFORM_GOOD_GPU: >
+    Les capacités graphiques de cette consoles sont dans la moyenne.
+  LABEL_CUSTOM_PLATFORM_BAD_GPU: >
+    Graphiquement on est à l'ãge de pierre.
+  LABEL_CUSTOM_PLATFORM_PERFECT_CPU: >
+    Une puissance de calcul phénoménale, voilà une console qui va durer des années!
+  LABEL_CUSTOM_PLATFORM_GOOD_CPU: >
+    La puissance de calcul de cette console est dans la moyenne, c'est déjà pas si mal.
+  LABEL_CUSTOM_PLATFORM_BAD_CPU: >
+    Cette console manque de puissance de calcul
+  LABEL_CUSTOM_PLATFORM_PERFECT_ONLINE: >
+    Pouvoir jouer sur Internet avec des amis a l'autre bout du monde, c'est une expérience incroyable et exceptionnelle.
+  LABEL_CUSTOM_PLATFORM_GOOD_ONLINE: >
+    Voilà une console qui bénéficie d'une connexion Internet, c'est la moindre des choses de nos jours
+  LABEL_CUSTOM_PLATFORM_BAD_ONLINE: >
+    L'absence de connexion Internet se fait sentir. Cela va impacter les ventes.
+  TOOLTIP_CUSTOM_PLATFORM_INVALID_MANUFACTURER: Veuillez sélectionner un fabricant de console
+  LABEL_CUSTOMPLATFORM_DATA: Informations de la console
+  LABEL_PREVIEW_CONSOLE: Aperçu de la console
+  LABEL_NOT_YET_IMPLEMENTED: Pas encore implémenté
+  LABEL_DEMOLISH_BUILDING_CONFIRM_DIALOG: |
+    Vous êtes sur le point de démolir le bâtiment [b]%s[/b].
+    Voulez-vous continuer ?
+  LABEL_CANCEL_GAME_AND_PORT_CONFIRM_DIALOG: |
+    Vous êtes sur le point d'annuler le jeu appelé [b]%s[/b] ainsi que tous les portages qui ont été faits.
+    Voulez-vous vraiment continuer ?
+  LABEL_CANCEL_GAMEPORT_CONFIRM_DIALOG: |
+    Vous êtes sur le point d'annuler le portage de [b]%s[/b] sur la console [b]%s[/b].
+    Voulez-vous vraiment continuer ?
+  LABEL_CANCEL_FREE_UPDATE_CONFIRM_DIALOG: |
+    Vous êtes sur le point d'annuler une mise à jour gratuite de [b]%s[/b].
+    Voulez-vous continuer ?
+  LABEL_CANCEL_CONFIRM_DIALOG: |
+    Vous êtes sur le point d'annuler [b]%s[/b].
+    Voulez-vous continuer ?
+  LABEL_PUBLISHER_DONT_GET_TIPS_OR_FANS: >
+    En tant qu'éditeur, vous ne récupérer aucune astuce des rapport de jeu et vous ne récupérez aucun fan.
+    Ceci dit vous ne perdez aucun fan non plus.
+  LABEL_CANNOT_HIRE_AND_ASSIGN: |
+    Il faut un bureau disponible pour engager et assigner un employé.
+  LABEL_DEMOLISH_STUDIO_DESCRIPTION: |
+    Vous êtes sur le point de démolir le studio [b]%s[/b].
+    Voulez-vous continuer ?
+  LABEL_CURRENT: actuellement
+  LABEL_MAXIMUM: maximum
+  LABEL_PLATFORM_GENERATION: Génération
+  LABEL_MODS_NOT_LOADED: Certains mods ne sont pas chargés
+  LABEL_MOD_LOADING: Chargement des mods (%s / %s)
+  LABEL_MOD_LOADED: Mods chargés (%s / %s)
+  LABEL_IN_GAME_ACHIEVEMENT: Désactiver les succès
+  LABEL_REACH_YEAR: "Atteindre l'année %s"
+  LABEL_NUMBER_SERVER: Nombre de serveurs
+  LABEL_GAME_NAME_EMPTY: Le nom du jeu est invalide
+  LABEL_ACCESSORY_COLOR: Couleur des l'accessoires
+  LABEL_OWNED_SERVERS: Serveurs possédés
+  LABEL_RENTED_SERVERS: Serveurs loués
+  LABEL_CUSTOMIZATION: Personnalisation
+  LABEL_SKIN_COLOR: Couleur de peau
+  LABEL_ACCESSORY_STYLE: Accessoires
+  LABEL_HAIR_COLOR: Couleur des cheveux
+  LABEL_HAIR_STYLE: Style de cheveux
+  LABEL_SHIRT_COLOR: Couleur de chemise
+  LABEL_PANT_COLOR: Couleur du pantalon
+  LABEL_SHOES_COLOR: Couleur des chaussures
+  LABEL_PUBLISHED_SAME_COMBO_TOO_FAST: |
+    Vous avez déjà publié un jeu de [b]%s-%s[/b] en moins de [b]%s[/b] mois.
+    En créant des jeux identiques, vous vous mettez à dos les critiques qui s'attendent à du neuf le plus souvent possible.
+
+  TOOLTIP_GAME_GENRE_EAGER_NEW_GENRE: |
+    Les employés de ce studio ne veulent plus faire des jeux de type: "%s".
+    Ils ont envie de travailler sur un nouveau genre de jeu.
+
+    En choisissant de faire un jeu de type "%s", les employés de ce studio vont s'ennuyer.
+    Par conséquent ils seront moins productifs et partiront plus souvent en vacances.
+  TOOLTIP_GAME_GENRE_EAGER_SAME_GENRE: |
+    Les employés de ce studio sont heureux de travailler sur un jeu de type: "%s".
+  LABEL_GENRE_INTEREST: Intérêt pour le genre de jeu sélectionné
+  LABEL_POPUP_ANIMATION: Animations des popups
+  LABEL_TRANS_SINE: Sine
+  LABEL_TRANS_EXPO: Expo
+  LABEL_TRANS_CUBIC: Cubique
+  LABEL_TRANS_QUAD: Quadruple
+  LABEL_TRANS_BOUNCE: Rebond
+  LABEL_TRANS_QUINT: Quint
+  LABEL_TRANS_QUART: Quart
+  LABEL_TRANS_LINEAR: Linéaire
+  LABEL_TRANS_ELASTIC: Elastique
+  LABEL_TRANS_BACK: Retour
+  LABEL_TRANS_CIRC: Circ
+  TOOLTIP_MAXIMUM_MORTGAGE_AVAILABLE: |
+    Vous pouvez emprunter au maximum %s$
+  LABEL_FURNITURES: Meubles
+  LABEL_UI_DESIGNER: UI Designer
+  TOOLTIP_AUTOFURNISH_MODE: |
+    Permet de choisir entre meubler automatiquement un studio et placer les meubles manuellement.
+  LABEL_GAUGE_GOOD: |
+    Vous avez su allouer la bonne charge de travail pour cette jauge
+  LABEL_GAUGE_OK: |
+    La charge de travail pour cette jauge pourrait être améliorée
+  LABEL_GAUGE_POOR: |
+    Mauvaise estimation de la charge de travail nécessaire pour cette jauge
+  LABEL_BACKWARD_COMPATIBILITY: Rétro-compatible
+  TOOLTIP_BACKWARD_COMPATIBILITY: |
+    Pour pouvoir faire une console rétro-compatible il faut que vous ayiez déjà conçu une console du même genre.
+    Autrement dit, si vous faites une console portable, et que vous souhaitez la rendre rétro-compatible,
+    alors vous devez avoir déjà sortie une console portable auparavant.
+    Elle sera rétro-compatible avec la dernière console du même genre que vous avez conçu.
+
+    Rendre une console rétro-compatible permet d'accélérer la vitesse et la qualité des ports des jeux de la console précédente.
+    En contrepartie, cela demande beaucoup de points de développements pour la console actuelle.
+
+    Il n'est pas possible de rendre une console rétro-compatible si vous n'avez pas déjà publié une console du même genre auparavant.
+  LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_TITLE: Faites une mise à jour!
+  LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_DESCRIPTION: |
+    Bonjour [b]%s[/b],
+
+    Une petite communauté s'est formée autour de [b]%s[/b].
+    Ils s'échangent des stratégies et scrutent les nouvelles de votre compagnie attendant avec impatience des nouvelles de [b]%s[/b].
+
+    Si vous publiez une mise à jour dans les [b]%d mois[/b], cela devrait leur faire plaisir!
+  LABEL_EVENT_GAME_NEEDS_UPDATE_DONE_TITLE: Superbe mise à jour!
+  LABEL_EVENT_GAME_NEEDS_UPDATE_DONE_DESCRIPTION: |
+    Félicitations vous avez su répondre aux attentes de vos fans.
+
+    Ils sont heureux de cette mise à jour!
+    Ils en parlent autour d'eux, amplifiant l'enthousiasme autour de [b]%s[/b], cela va impacter les ventes.
+
+    Super boulot, vous pouvez être fier de vous.
+  LABEL_EVENT_GAME_NEEDS_UPDATE_CANCEL_TITLE: C'est trop tard...
+  LABEL_EVENT_GAME_NEEDS_UPDATE_CANCEL_DESCRIPTION: |
+    Cela fait déjà plusieurs mois que [b]%s[/b] est sorti.
+    L'enthousiasme autour du jeu est retombé, d'autres jeux similaires sont sortis entre temps.
+
+    Vous avez manqué cette opportunité, ne manquez pas la prochaine.
+  LABEL_EVENT_GAME_SEQUEL_ASK_TITLE: A quand la suite?
+  LABEL_EVENT_GAME_SEQUEL_ASK_DESCRIPTION: |
+    Monsieur [b]%s[/b],
+
+    Avec mes amis on adore jouer à [b]%s[/b]!
+    Cela fait plus de [b]%s[/b] ans qu'il est sorti, et on aimerait que vous fassiez une suite!
+
+    On adore ce jeu, et on va y jouer pendant des années encore!
+    Alors si vous faites une suite maintenant, on va l'acheter et en parler à nos amis!
+    
+    S'il vous plaît, faites une suite!
+    Avec votre talent on ne pourra pas être déçu!
+
+    Le Joueur De La Cave
+  LABEL_EVENT_GAME_SEQUEL_GET_SAD_TITLE: Une suite ça?!
+  LABEL_EVENT_GAME_SEQUEL_GET_SAD_DESCRIPTION: |
+    Je suis déçu, vraiment. Mes amis et moi avons joué à [b]%s[/b] et ça n'a rien a voir avec l'original!
+
+    Bon, on l'a quand meme acheté, et on l'a quand meme fini, mais on aurait aimé un jeu de meilleure qualité
+
+    Le Joueur De La Cave
+  LABEL_EVENT_GAME_SEQUEL_GET_OK_TITLE: "%s est super!"
+  LABEL_EVENT_GAME_SEQUEL_GET_OK_DESCRIPTION: |
+    C'est ça qu'on voulait! Ce jeu est une suite extra!
+    On en a parlé avec mes amis, et je crois qu'on va beaucoup y jouer.
+
+    [b]%s[/b] est à la hauteur de mes attentes, et franchement merci beaucoup!
+
+    Le Joueur de la Cave
+  LABEL_EVENT_GAME_SEQUEL_GET_HAPPY_TITLE: INCROYABLE!!
+  LABEL_EVENT_GAME_SEQUEL_GET_HAPPY_DESCRIPTION: |
+    [b]%s[/b] est époustouflant!
+
+    Les graphismes, le gameplay, la musique, tout est parfait.
+    Vous êtes passé maître dans l'art de faire des jeux!
+
+    On est tellement heureux de cette suite, je l'ai acheté 10 fois pour l'offrir a tous mes proches!
+
+    Vous êtes le meilleur!
+    Merci mille fois!
+
+    Le Joueur de la Cave
+  LABEL_EVENT_GAME_THEME_TRENDING_TITLE: "%s est tendance"
+  LABEL_EVENT_GAME_THEME_TRENDING_DESCRIPTION: |
+    Bonjour [b]%s[/b],
+    
+    La sortie de [b]%s[/b] est un véritable bouleversement dans les tendances actuelles
+    Les gens en veulent plus, encore et toujours. Ils veulent absoluement des jeux
+    de "[b]%s[/b]".
+    
+    C'est la nouvelle tendance, et ça ne va pas durer très longtemps, il vaudrait mieux essayer d'en tirer profit
+    rapidement.
+  LABEL_PLATFORM_NEWS: Actualité des consoles
+  LABEL_SERVER_LOAD_FROM_ONLINE_GAMES_ONLY: Charge due aux jeux en ligne
+  LABEL_SERVER_LOAD_FROM_DIGITAL_STORE_ONLY: Charge due au magasin dématérialisé
+  TOOLTIP_SERVER_LOAD_FROM_ONLINE_GAMES_ONLY: |
+    Cela n'inclue que la charge serveur générée par les jeux qui ne sont pas publiés
+    sur le magasin dématérialisé.
+    
+    Ainsi, la charge des jeux en lignes qui sont publiés sur le magasin dématérialisé
+    n'est donc pas prise en compte ici mais directement dans la charge du magasin
+    dématérialisé.
+  LABEL_PAID_UPDATE_SALES: Ventes de DLC
+  LABEL_CUSTOMPLATFORM_EDIT_CONSOLE_CASE: Changer la couleur de la console
+  LABEL_EVENT_LAST_YEAR_INVITATION_TITLE: Gala de fin d'année
+  LABEL_EVENT_LAST_YEAR_INVITATION_DESCRIPTION: |
+    Cher [b]%s[/b],
+
+    La confrérie des developpeurs de jeux indépendants à le plaisir de vous inviter à son gala de fin d'année.
+    Votre compagnie [b]%s[/b] sera évaluée et son score sera calculé puis envoyé dans un classement mondial.
+
+    On se revoit bientôt.
+
+    PS:
+    Le jeu se termine à la fin de cette année. Vous pourrez continuer à jouer après cette date, cependant il n'y aura plus de nouvelles consoles ni de nouveaux composants
+  LABEL_PINBALL_CITY_GAME_STUDIO: Flipper City Game Studio
+  LABEL_PINBALL_SNEAK_IN: Flipper Sneak In
+  LABEL_SUBMIT_TO_ALL_COMPETITORS: Contacter tous les concurrents restants
+  LABEL_GRANTENDO_DENY_PARTNERSHIP: Partenariat Grantendo/Deny
+  LABEL_GRANTENDO_DENY_PROTOTYPE_ANNOUNCEMENT:  |
+    Le mot est passé, et ce mot est CD-ROM pour la SGES!
+
+    [b]Grantendo[/b] a annoncé qu'un lecteur de CD-ROM destiné à être utilisé avec la Super [b]Grantendo[/b] serait lancé en janvier 1993. Peu de temps après, les développeurs sous licence tiers de [b]Grantendo[/b] ont reçu les spécifications techniques du nouveau lecteur et ont été invités à une conférence consacrée à l'explication détaillée du nouveau matériel.
+
+    Ils y découvriront les capacités exceptionnelles du lecteur de CD-ROM Super Grantendo, notamment le plein écran, la vidéo en temps réel, la compatibilité XA et les 8 mégas de mémoire vive de l'appareil.
+
+    Toutefois, si vous n'êtes pas ingénieur, ce jargon technique risque de ne pas signifier grand-chose.
+    [center][img]res://texture/platforms/512x261/grantendo-gamestation.tex[/img][/center]
+  LABEL_GRANTENDO_DENY_PROTOTYPE_CANCELATION:  |
+    Un jour après que [b]Deny[/b] ait annoncé un accord avec [b]Grantendo[/b], pour fabriquer des consoles de jeux électroniques, [b]Grantendo[/b] a annoncé qu'elle avait conclu un accord avec [b]Moris[/b], l'un des principaux rivaux de [b]Deny[/b].
+
+    La société [b]Grantendo[/b] s'est manifestement tournée vers [b]Moris[/b], le géant néerlandais de l'électronique, pour tenter de maintenir sa domination sur le marché des jeux vidéo, qui représente 4,7 milliards de dollars, après avoir signé ce que certains experts considèrent comme un accord défavorable avec la société [b]Deny[/b].
+
+    Pour les consommateurs, il en résulte un énième choix déroutant lorsque les consoles de jeu arriveront sur le marché l'année prochaine. [b]Deny[/b] prévoit de sortir ses propres jeux sur disques compacts pour la [b]Gamestation[/b].
+
+    Les annonces de [b]Moris[/b] et la confusion qui s'en est suivie au sujet des relations entre [b]Grantendo[/b] et [b]Deny[/b] ont perturbé le lancement prévu de longue date par [b]Grantendo[/b] d'une version plus puissante de son système de jeu vidéo populaire. 
+    [center][img]res://texture/platforms/512x261/grantendo-gamestation.tex[/img][/center]
+  LABEL_SAGA_PROTYPE_VR: Saga annonce la première console VR
+  LABEL_SAGA_RV_ANNOUNCEMENT: |
+    Réalité virtuelle.
+    
+    Partant d'un concept de science-fiction dans lequel des opérateurs informatiques s'immergeaient dans un environnement artificiel, le terme de réalité virtuelle (ou VR) a été adopté par la communauté marketing et utilisé avec plus ou moins de pertinence - des centres de jeux virtuels au dernier jeu à la première personne. Les puristes soutiennent qu'elle doit au moins fournir un environnement audiovisuel en 3D qui semble entourer le joueur et avec lequel il peut interagir.
+
+    [center][img]res://texture/platforms/512x261/saga-rv.tex[/img][/center]
+
+    [b]Saga[/b] a annoncé qu'un casque VR était en préparation, pour être utilisé avec son système de console. Sa sortie est actuellement prévue pour le printemps 1993. Des systèmes beaucoup plus élaborés (et coûteux) sont en cours de développement, avec des capteurs de mouvements et des gantelets, des chambres avec vidéo environnante et son multi-source.
+
+    Pour l'instant, la communauté des joueurs devra se contenter de lunettes et d'écouteurs à la maison.
+  LABEL_SAGA_RV_VANISHES: |
+    Après avoir été présenté dans plusieurs magazines, ainsi que dans de nombreux salons professionnels, le casque a fait sa dernière apparition en 1993. Il a été présenté à huis clos à un public totalement déçu, un journaliste le décrivant comme étant une bouillie de pixel qui a rapidement perdue tout attrait.
+
+    Le projet n'a jamais dépassé le stade du prototype et [b]Saga[/b] a officiellement déclaré qu'il avait été arrêté parce que les utilisateurs se blessaient en bougeant avec le casque. Ils ont déclaré que l'immersion était si réaliste que les enfants qui y jouaient pouvaient potentiellement se blesser en manoeuvrant. Cependant, si vous aviez joué à cette console pendant plus de dix minutes, vous sauriez que c'est impossible, étant donné les limitations du matériel.
+
+    Le scénario le plus probable est probablement lié à l'incapacité de l'appareil à produire un environnement suffisamment immersif. Il a été rapporté que des testeurs ont eu le mal des transports en jouant et que 40%% des utilisateurs ont eu le "cyber-mal". Aucun des quatre jeux annoncés n'a été montré au public et aucun autre titre n'a été annoncé. Incapable de créer le véritable sentiment d'immersion réaliste qu'elle avait promis, [b]Saga[/b] a sagement mis fin à ce prototype en 1994, faisant sombrer la [b]Saga VR[/b] dans l'oubli.
+
+    [center][img]res://texture/platforms/512x261/saga-rv.tex[/img][/center]
+  LABEL_MINI_GAMES_FX: Effets visuels des mini-jeux
+  LABEL_RESTART_REQUIRED: Redémarrage requis
+  LABEL_DARK_MODE: Thème sombre
+  LABEL_LAST_12_MONTHS: 12 derniers mois
+  LABEL_GOTY_PROBABILITY: "Chances d'être élu jeu de l'année"
+  LABEL_EVENT_STOCK_YEARLY_TITLE: Versement des dividendes annuels
+  LABEL_EVENT_STOCK_YEARLY_DESCRIPTION: |
+    Bonjour [b]%s[/b],
+
+    Comme tous les ans, à cette période de l'année c'est avec
+    un grand plaisir que nous reversons les dividendes aux actionnaires.    
+
+    %s
+
+    Avec les dividendes viennent les taxes,
+    soit [b]%s[/b]$ de taxes ont éte prélevés sur vos dividendes,
+    vous allez percevoir [b]%s[/b]$ net d'impôts.
+
+    En vous souhaitant une agréable journée.
+    Binogure
+  LABEL_EVENT_STOCK_YEARLY_DESCRIPTION_ITEM: |
+    ‣ [b]%s[/b]: Vous possédez [b]%s[/b] parts, ce qui vous rapporte [b]%s[/b]$.
+  LABEL_EVENT_STOCK_CONCURRENT_BUY_DESCRIPTION_EXTEND: |
+    [i]Comme vous possédez [b]%s[/b] parts de [b]%s[/b],[/i]
+    [i]vous percevez [b]%s[/b]$, soit [b]%s[/b]$ par part.[/i]
+  LABEL_EVENT_STOCK_CONCURRENT_BUY_TITLE: "%s souhaite racheter %s"
+  LABEL_EVENT_STOCK_CONCURRENT_BUY_DESCRIPTION: |
+    Bonjour [b]%s[/b],
+
+    Nous souhaitons racheter [b]%s[/b]. Mais voilà, vous possédez plus de 50%% des actions.
+    Il me sera impossible de le racheter sans votre accord préalable.
+
+    Sachez que nous sommes généreux, la valeur de vos actions s'élève aujourd'hui à [b]%s[/b]$,
+    et nous vous proposons de les racheter pour [b]%s[/b]$.
+    Ainsi vous gagneriez beaucoup d'argent et nous, nous n'aurions plus qu'à gérer [b]%s[/b].
+
+    Voyez le bon côté des choses, ça vous fait un concurrent en moins à gérer.
+
+    Dans le cas malencontreux où vous ne souhaiteriez pas vendre,
+    nous serions prêt à nous rendre au tribunal.
+
+    [i]Ceci est une offre finale, vous ne pouvez pas négocier.[/i]
+    [i]Vous avez [b]%s[/b]$ à la banque[/i]
+  BUTTON_ORDER_SENT: Ordre envoyé
+  LABEL_STOCK_MARKET: Marché boursier
+  LABEL_CONCURRENT_BUY_STOCK: Acheter des actions de concurrents
+  LABEL_TRADING_PANEL: Panneau des négociations
+  LABEL_STOCKS_QUANTITY_TO_BUY: Quantité d'actions à acheter
+  LABEL_STOCKS_QUANTITY_TO_SELL: Quantité d'actions à vendre
+  LABEL_STOCKS_COSTS: Coûts d'une action
+  LABEL_STOCKS_OWNED: Nombre d'actions possédées
+  LABEL_STOCKS_VALUE: Valeur des actions
+  LABEL_STOCKS_QUANTITY: Quantité d'actions
+  LABEL_STOCKS_BUY_PRICE: Prix d'une action à l'achat
+  LABEL_STOCKS_SELL_PRICE: Prix d'une action à la vente
+  LABEL_TRADE_HELP: Aide
+  LABEL_DEVKITS: Kits de développement
+  LABEL_NO_CONCURRENT_REMAINING: Aucun concurrent restant
+  LABEL_END_OF_EXCLUSIVITY: Fin de l'exclusivité
+  LABEL_AMOUNT_EDITED_GAME_ESTIMATION: Estimation du nombre de jeu
+  LABEL_NUMBER_OF_DEVKITS: Nombre de dev kits
+  LABEL_NUMBER_OF_DEVKITS_REMAINING: Nombre de dev kits restants
+  LABEL_EXCLUSIVITY_DURATION: Durée de l'exclusivité
+  LABEL_FILTER_NONE: Aucun
+  LABEL_FILTER_ONLY_NO_CONTRACTS: Sans contrat
+  LABEL_FILTER_ONLY_CONTRACTS: Sous contrat
+  TOOLTIP_SELECT_DIFFICULTY: |
+    Veuillez sélectionner un niveau de difficulté
+  LABEL_EASY: Facile
+  LABEL_HARD: Difficile
+  LABEL_REMAKE_ENGINE_BAD: >
+    Ce remake n'apporte rien de neuf. On pourrait croire que c'est le même jeu.
+  LABEL_REMAKE_ENGINE_OK: >
+    Ils ont su exploiter les dernières technologies, et ça rend bien.
+  LABEL_REMAKE_ENGINE_GOOD: >
+    Ils ont parfaitement exploité les dernières technologies, quel brio!
+  LABEL_REMAKE_ORIGINAL_GAME_CONSOLE_CAPACITIES: Utilisation des capacités de la console par le jeu original.
+  LABEL_REMAKE_CPU_USAGE: Utilisation du CPU du jeu original
+  LABEL_REMAKE_GPU_USAGE: Utilisation du GPU du jeu original
+  LABEL_REMAKE_TOOLTIP: |
+    Veuillez sélectionner les fonctionnalités du moteur de jeu à ajouter au remake.
+    Pour faire un bon remake, vous devez utiliser des fonctionnalités plus récentes que le jeu original.
+  LABEL_REMAKE_REVIEW: Évaluations globales
+  LABEL_DEVELOPPER_NAME: Développement
+  LABEL_REMAKE_REVIEW_OVERWHELMINGLY_POSITIVE: Extrêmement positive
+  LABEL_REMAKE_REVIEW_VERY_POSITIVE: Très positive
+  LABEL_REMAKE_REVIEW_MOSTLY_POSITIVE: Plutôt positive
+  LABEL_REMAKE_REVIEW_MIXED: Variable
+  LABEL_REMAKE_REVIEW_MOSTLY_NEGATIVE: Plutôt négative
+  LABEL_REMAKE_REVIEW_VERY_NEGATIVE: Très négative
+  LABEL_REMAKE_REVIEW_OVERWHELMINGLY_NEGATIVE: Extrêmement négative
+  LABEL_REMAKE: Remake
+  LABEL_REMAKE_DESCRIPTION_0: |
+    En regardant vos premiers jeux, vous vous dites qu'il faudrait faire quelque chose.
+    Et pourquoi pas les refaire?
+  LABEL_REMAKE_DESCRIPTION_1: |
+    Vous pouvez maintenant faire des remake de vos anciens jeux.
+    Pour qu'un remake soit réussi il faut utiliser les dernières fonctionnalités de votre moteur de jeu.
+  LABEL_TRAINING_REQUIRE_UNIVERSITY: |
+    Une université est nécessaire pour entrainer ses employés.
+
+    Aucune université n'est disponible actuellement, vous devez en construire une
+    pour pouvoir entrainer vos employés.
+  LABEL_TRAINING_REQUIRE_EMPLOYEE: |
+    Il faut sélectionner au minimum un employé.
+  LABEL_TRAINING_REQUIRE_CAPACITIES: |
+    Il faut sélectionner au minimum une capacité.
+    (Design/Développement ou Polissage)
+  LABEL_NEW_COMPETITOR_TITLE: Un nouveau concurrent débarque
+  LABEL_NEW_COMPETITOR_DESCRIPTION: |
+    [center][img]%s[/img][/center]
+
+    Ce matin nous avons appris que le fondateur désormais millionaire de [b]%s[/b] a décidé de venir s'établir dans la grande ville de City Game Studio.
+
+    Le maire de City Game Studio est ravis:
+    [code]Un nouvel investisseur ici chez nous! C'est la preuve que nous faisons bien notre travail. Attirer des grandes entreprises n'est pas chose aisée [...][/code]
+
+    Il reste à voir comment cela va impacter les entreprises de jeux vidéo déjà présentes dans City Game Studio.
+  LABEL_MINIGAME_DEFEND_ANNOUNCE: |
+    Boss, [b]%s[/b] est en train de se faire pirater.
+    Il faut faire intervenir avant qu'il ne soit trop tard!
+    Vous n'avez qu'un seul mot à dire!
+  LABEL_MINIGAME_DEFEND_START: |
+    C'est parti
+  LABEL_MINIGAME_DEFEND_GIVEUP: |
+    Laissez les faire
+  LABEL_MINIGAME_LOSE: |
+    Votre jeu est maintenant disponible gratuitement sur le marché.
+    Les ventes vont être impactées.
+  LABEL_MINIGAME_DEFEND_WIN: |
+    Félicitations vous vous êtes bien défendu!
+  BUTTON_CLICK_ME: Cliquez sur moi
+  LABEL_FIREWALL_SIMULATOR_TITLE: Simulateur de contre-piratage
+  LABEL_FIREWALL_SIMULATOR_DESCRIPTION: |
+    Votre objectif, protéger votre jeu, sinon il sera piraté.
+    Pour atteindre cet objectif, cliquez sur les boutons bleus afin qu'ils atteignent 0 pour protéger le réseau.
+
+    C'est simple, mais il faut aller vite !
+  LABEL_GAME_UPDATE_NB: Nombre de mise à jour
+  LABEL_GAME_UPDATE_LAST: Dernière mise à jour du jeu
+  LABEL_SELLING_PRICE: Prix à la revente
+  LABEL_EMPLOYEE: Employé
+  LABEL_MARKET_RESEARCH_NEW: Nouvelle étude de marché
+  TOOLTIP_REQUIRE_MARKETING_MANAGER: |
+    Un responsable du marketing est nécessaire.
+    Plus le responsable marketing est compétent, plus l'étude de marché sera rapide.
+  LABEL_MARKET_RESEARCH: Étude de marché
+  LABEL_MARKET_RESEARCH_TYPE: Type d'étude de marché
+  LABEL_GAME_TYPE_LIST: Liste des genres de jeux
+  LABEL_MARKET_RESEARCH_TARGET_AUDIENCE: Analyser les publics cibles
+  LABEL_MARKET_RESEARCH_NONE: Pas d'étude de marché active
+  LABEL_UNIVERSITY_TRAINING_ENDED_TITLE: Une salle de cours se libère.
+  LABEL_UNIVERSITY_TRAINING_ENDED_DESCRIPTION: |
+    Félicitations, une formation vient de se terminer.
+    Vous avez au moins une salle de cours libre si vous souhaitez organiser une nouvelle session d'entrainement.
+  LABEL_UNIVERSITY_TRAINING: Formation
+  LABEL_UNIVERSITY_LECTURE_HALL_NAME: Salle de formation
+  LABEL_UNIVERSITY_SIT: Nombre de places
+  LABEL_UNIVERSITY: Université
+  LABEL_UNIVERSITY_MANAGE_TRAINING: Gérer les formations
+  LABEL_UNIVERSITY_TRAINING_TYPE: Type de formation
+  LABEL_UNIVERSITY_LECTURE_HALL: Nombre de salles de cours
+  LABEL_UNIVERSITY_AUTOTRAINING: Autoformation
+  LABEL_UNIVERSITY_ABANDON: Abandonner le bâtiment
+  LABEL_UNIVERSITY_DESTROY: Détruire le bâtiment
+  LABEL_UNIVERSITY_GLOBAL_TRAINING: Formation générale
+  LABEL_UNIVERSITY_SPECIFIC_TRAINING: Formation spécifique
+  LABEL_UNIVERSITY_TRAINING_LIST: Liste des formations
+  LABEL_UNIVERSITY_TRAINING_NO_TRAINING: Aucune formation
+  LABEL_SOFA: Canapé
+  LABEL_MISC: Divers
+  LABEL_MINUTES: minutes
+  LABEL_VIEW_MORE: Voir plus...
+  LABEL_GAME_INDUSTRY_NEWS: Actualités de l'industrie du jeu
+  LABEL_COMPETITOR_BUY_COMPETITOR_TITLE: "%s rachète %s pour %s"
+  LABEL_COMPETITOR_BUY_COMPETITOR_DESCRIPTION: |
+    Le développeur et éditeur de jeux vidéo à l'origine de [b]%s[/b] a été racheté par [b]%s[/b] pour une offre évaluée à [b]%s[/b].
+
+    [b]%s[/b] a publié un communiqué indiquant qu'il paiera [b]%s[/b] dollars par action pour la société et que l'opération devrait être conclue au cours du premier trimestre de l'année.
+    Ce rachat permettra d'augmenter le catalogue de jeux sous la bannière d'[b]%s[/b].
+    Le PDG d'[b]%s[/b], a commenté l'acquisition en déclarant:
+    [indent]Notre industrie est en pleine croissance, et ensemble, nous serons positionnés pour mener une nouvelle ère de divertissement.[/indent]
+  LABEL_GAMEENGINE_NOT_ENOUGH: >
+    Ce jeu n'a pas tiré pleinement parti des capacités de la console.
+  LABEL_MARKETSHARE_KRASHING: >
+    Cette console souffre d'une réputation exécrable ce qui va plomber les ventes. Il vaudrait mieux l'éviter dorénavant.
+  LABEL_LOSING_MONEY_DESCRIPTION: |
+    Voici vos résultats financiers. Il liste toutes vos dépenses ainsi que vos recettes.
+  LABEL_LOSING_MONEY_DESCRIPTION_RENT: |
+    Les coûts des loyers constituent des dépenses importantes.
+    Vous pouvez essayer d'acheter les bâtiments ou en louer des plus petits en fermant ceux qui vous coûtent le plus.
+  LABEL_LOSING_MONEY_DESCRIPTION_SALARY: |
+    La masse salariale constitue des dépenses importantes.
+    Vous devriez envisager de licencier du personnel.
+  LABEL_LOSING_MONEY_DESCRIPTION_MAINTENANCE: |
+    Vous avez beaucoup de machines à café/distributeurs, et cela pèse sur votre budget
+  LABEL_LOSING_MONEY_DESCRIPTION_SERVER: |
+    Les serveurs vous coûtent chers.
+    Si vous avez des serveurs inutilisés, vous devriez les revendre.
+  LABEL_LOSING_MONEY_DESCRIPTION_MARKETING: |
+    Vous dépensez beaucoup en campagne marketing.
+    Peut-être que vous devriez mettre un terme à certaines campagnes marketing ou aux conventions.
+  LABEL_LOSING_MONEY_DESCRIPTION_MORTGAGE: |
+    Il semble que vos hypothèques vous coûtent cher.
+    Si vous le pouvez remboursez-les en contractant une hypothèque plus importante et plus longue.
+  LABEL_LOSING_MONEY_HARD: >
+    Vous dépensez plus d'argent que vous n'en gagnez.
+    Pour savoir ce qui vous coûte le plus vous pouvez consulter les détails des finances.
+  LABEL_SUBSCRIPTION: Abonnement
+  LABEL_PLATFORM_NOT_POWERFULL: >
+    Cette plateforme n'est pas assez puissante
+  BUTTON_RELEASE_ALL: Tout publier
+  TOOLTIP_RELEASE_ALL_BUTTON: |
+    Publie tous les jeux, contrats et consoles
+    qui sont prêts à être publiés.    
+  LABEL_PLATFORM_LIST_GAME: Lister les jeux vidéo
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_UPCOMING_TITLE: Composants à venir
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_TITLE: Nouvelles de l'industrie
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_DESCRIPTION: |
+    Bonjour %s,
+
+    J'ai l'immense plaisir de vous annoncer la sortie d'un tout nouveau composant.
+    Il s'agit du tout nouveau [b]%s[/b]. Les ingénieurs qui l'ont conçu sont fiers de vous le présenter ici.
+    [center][img]%s[/img][/center]
+    En vous souhaitant une agréable journée,
+
+    Cordialement
+    Binogure
+  LABEL_PLATFORM_COST_REDUCTION_TITLE: Rapport de vente des consoles
+  LABEL_PLATFORM_COST_REDUCTION_DESCRIPTION: |
+    Bonjour %s,
+
+    Encore un courriel qui vient remplir ta boîte aux lettres. Mais c'est pour la bonne cause.
+    Je viens t'annoncer une réduction des coûts de fabrication.
+
+    %s
+
+    Ce sera tout,
+    Bonne journée
+    Binogure
+  LABEL_PLATFORM_COST_REDUCTION_ANNOUNCED_ITEM: >
+    [b]%s[/b] voit son coût de fabrication réduit de [b]%s%%[/b]
+  LABEL_PLATFORM_NOT_RELEASED: |
+    %s n'est pas encore disponible
+  LABEL_PLATFORM_NO_COMPONENT: |
+    Pas de composant sélectionné
+  LABEL_PLATFORM_MAKINGCOSTS_REDUCTION: Réduction des coûts de fabrication
+  LABEL_FILTER_PLATFORM_RELEASED: Consoles publiées
+  LABEL_FILTER_PLATFORM_DISCONTINUED: Consoles arrêtées
+  LABEL_PLATFORM_QUALITY_TOOLTIP: |
+    Définit la qualité de la console.
+    
+    Une console de mauvaise manufacture tombera en panne plus souvent.
+    Les utilisateurs qui ont acheté une console défectueuse ont le droit à un remboursement.
+  LABEL_PLATFORM_DISCONTINUE: Arrêter la production
+  LABEL_PLATFORM_CHANGE_PRICE: Modifier le prix
+  LABEL_PLATFORM_UNIT_RETURNED: Unités restituées 
+  LABEL_PLATFORM_COST_RATIO: Ratio des coûts
+  LABEL_PLATFORM_COMPONENT_CONTROLLER: Manette
+  LABEL_PLATFORM_COMPONENT_CPU: Processeur
+  LABEL_PLATFORM_COMPONENT_CARTRIDGE: Cartouche
+  LABEL_PLATFORM_COMPONENT_MEMORY: Mémoire
+  LABEL_PLATFORM_COMPONENT_GPU: Carte graphique
+  LABEL_PLATFORM_COMPONENT_SCREEN: Écran
+  LABEL_PLATFORM_COMPONENT_BOX: Boîtier de console
+  LABEL_PLATFORM_COMPONENT_HARDDRIVE: Disque dur
+  LABEL_PLATFORM_MAKING_COSTS: Coûts de fabrication
+  LABEL_PLATFORM_UNLOCK_COSTS: Coûts de déverrouillage
+  LABEL_PLATFORM_DEVELOPMENT_POINTS: Coûts de développement
+  LABEL_PLATFORM_QUALITY: Qualité
+  LABEL_PLATFORM_COMPUTED_MAKING_COSTS: Coûts de fabrication estimés
+  LABEL_PLATFORM_UNIT_PROFIT: Bénéfice par unité
+  LABEL_PLATFORM_NAME: Nom de la plateforme 
+  LABEL_TRADE_PUBLISH_TOOLTIP: |
+    Cette offre de publication est subventionnée à hauteur de %s$.
+    Une pénalité de %s$ sera appliquée si vous n'obtenez pas au minimum %d%%.
+  LABEL_CANNOT_HIRE_NO_DESK: |
+    Vous devez avoir un bureau de libre pour pouvoir assigner un spécialiste.
+  LABEL_CUSTOM_CONSOLE: Développement de consoles
+  LABEL_PLATFORM_MAKE_DESCRIPTION_0: |
+    Créez votre propre console de jeu vidéo.
+  LABEL_PLATFORM_MAKE_DESCRIPTION_1: |
+    Choisissez les composants puis assemblez votre console enfin préparez la campagne marketing!
+    Vous aurez besoin d'un responsable marketing et d'un comptable pour maximiser vos chances.
+  LABEL_INCOMPATIBLE_VERSION: >
+    Impossible d'ouvrir la sauvegarde car elle a été créée avec une version plus récente du jeu
+  LABEL_GAME_CANCELED: Jeu annulé
+  LABEL_EMPLOYEE_FIRED: Employé licencié
+  LABEL_ASSIGN_SPECIALIST: Assigner des spécialistes
+  LABEL_ACCOUNTANT_TOOLTIP: |
+    Assigner un comptable pour réduire les taxes à payer
+  LABEL_MARKETING_MANAGER_TOOLTIP: |
+    Assigner un responsable marketing pour augmenter la popularité d'un jeu
+  LABEL_PRODUCER_ASSIGN_TOOLTIP: |
+    Confier à un producteur le soin de déterminer le nombre de points requis
+  LABEL_PRODUCER_TOOLTIP: |
+    Les producteurs créent des jeux de grande envergure et augmentent la productivité des développeurs.
+    Ils se spécialisent dans un genre particulier, ce qui optimise les zones bleues des jauges et
+    double l'augmentation de la productivité si le jeu que vous créez correspond à sa spécialité.
+  LABEL_PRODUCER_PERFECTER_GAUGE_TOOLTIP: |
+    Vous avez choisi le bon producteur pour réaliser votre jeu.
+    Et cela vous donne encore plus de conseils que d'habitude.
+  LABEL_NETWORK_ADMIN_TOOLTIP: |
+    Assigner un administrateur réseau vous permet d'optimiser la charge serveur nécessaire par joueur.
+  LABEL_INTERVIEW_INDIE: |
+    Salut,
+    Je suis Bruno Trigger. Tous les mercredis j'anime l'émission [i]3615 Dorian[/i] qui aborde des jeux vidéo indépendants. 
+    Étant un grand fan de [b]%s[/b] j'aimerais vous poser quelques questions pour notre grande soirée "Jeux de [b]%s[/b]".
+    Est-ce que vous avez 5 petites minutes à m'accorder?
+  LABEL_INTERVIEW_INDIE_QUESTION: |
+    Je rêve de me lancer dans l'aventure du développement de jeux indépendants! Être mon propre boss, ne répondre qu'à une communauté aimante et bienveillante, quel rêve!
+    Notre petite communauté étant fans de jeux de [b]%s[/b], d'après-vous sur quoi devrions-nous nous concentrer si nous voulions faire un jeu?
+  LABEL_INTERVIEW_INDIE_RIGHT: |
+    Notre expert Dorian est bien d'accord, et la communauté de [i]3615 Dorian[/i] l'est également.
+    [b]%s[/b] est la pépite que nous attendions tous!
+  LABEL_INTERVIEW_BIG: |
+    Bonjour,
+    Gio Tard, je travaille pour le [i]Rock Paper Pistol[/i]. [b]%s[/b] semble prometteur,
+    j'aimerai vous poser quelques questions pour un article.
+    Est-ce que vous avez 5 minutes a m'accorder?
+  LABEL_INTERVIEW_BIG_QUESTION: |
+    Après [b]%d[/b] années d'existence vous publiez votre premier AAA. Avec [b]%s[/b], vous entrez dans la cour des grands de l'industrie. 
+    Nous aimerions savoir, est-ce que [b]%s[/b] va être nommé Jeu de l'année [b]%d[/b]?
+  LABEL_INTERVIEW_BIG_ANSWER_RIGHT: |
+    [b]%s[/b] doivent avoir une boule de cristal! Pouvoir prédire a l'avance qui va être nominé Jeu de l'année n'est pas facile!
+    Pour être aussi clairvoyant, ils doivent bien connaître les rouages de l'industrie!
+  LABEL_INTERVIEW_BIG_ANSWER_WRONG: |
+    Tout le monde peut se tromper, vous, moi, tout le monde. Mais ce qui est sûr c'est que [b]%s[/b] n'a pas su prédire l'avenir!
+    On apprend plus de nos erreurs que de nos succès. En tout cas, on doit entendre ça souvent chez [b]%s[/b].
+  LABEL_INTERVIEW_BIG_YES: |
+    Après tant d'efforts, c'est sûr que oui
+  LABEL_INTERVIEW_BIG_NO: |
+    Nous serions les premiers surpris si c'était le cas!
+  LABEL_INTERVIEW_REFUSAL: |
+    Désolé de vous avoir fait perdre votre temps
+  LABEL_INTERVIEW_ACCEPT: |
+    Bien sûr.
+  LABEL_ADVANCED_START_TOOLTIP: |
+    Il est préférable de laisser cette case décochée si c'est votre première partie.
+
+    Le départ avancé débloque toutes les fonctionnalités dès le début de la partie.
+  LABEL_NUMBER_OF_PRODUCED_POINTS: Nombre de points produits
+  LABEL_REQUIRE_FANBASE: Nécessite %s fans pour stimuler les ventes
+  LABEL_MAINTENANCE: Maintenance
+  LABEL_PLATFORM_COMPATIBILITY: Compatibilité
+  LABEL_DETAILS_MAIN: Détails des jeux
+  LABEL_DETAILS_SHOWN: Afficher tous les graphiques et détails
+  LABEL_DETAILS_HIDDEN: Cacher tous les graphiques et détails
+  LABEL_AUTO_ADJUST: Ajustement automatique
+  LABEL_MISC_SETTINGS: Paramètres divers
+  LABEL_MOD_FILTER_SUBSCRIBED_ONLY: Afficher uniquement les mods auxquels vous êtes abonnés
+  LABEL_MOD_UNSUBSCRIBE: Se désabonner
+  LABEL_MOD_BRANCH: Multi-branches
+  LABEL_MOD_BRANCH_TOOLTIP: |
+    Veuillez cocher cette option dans le cas ou le mod gère plusieurs branches Steam.
+    Vous devrez alors créer un répertoire par branche Steam (default, unstable ou oldstable)
+  LABEL_MOD_MISSING: >
+    Mods manquants, la sauvegarde ne peut être chargée
+  LABEL_MOD_BANNED: Mod banni
+  LABEL_MOD_AGREEMENT: |
+    En soumettant cet item, vous acceptez les [url="https://steamcommunity.com/sharedfiles/workshoplegalagreement"]conditions d'utilisation du Workshop[/url]
+  LABEL_MOD_VERSION: Version
+  LABEL_MOD_CREATE: Créer un mod
+  LABEL_MOD_LIST: Liste des mods
+  LABEL_MOD_NAME: Nom
+  LABEL_MOD_DESCRIPTION: Description
+  LABEL_MOD_LANGUAGE: Langue
+  LABEL_MOD_VISIBILITY: Visibilité
+  LABEL_MOD_VISIBILITY_PUBLIC: Public
+  LABEL_MOD_VISIBILITY_FRIENDS: Amis seulement
+  LABEL_MOD_VISIBILITY_PRIVATE: Privé
+  LABEL_MOD_VISIBILITY_UNLISTED: Non listé
+  LABEL_MOD_IMAGE_PREVIEW: Image de prévisualisation
+  LABEL_MOD_VIDEO_PREVIEW: Vidéo de présentation
+  LABEL_MOD_PATH: Le chemin absolu
+  LABEL_MOD_PUBLISHED_DATE: Date de publication
+  LABEL_MOD_UPDATE: Mettre à jour
+  LABEL_MOD_VALIDATE: Valider
+  LABEL_MOD_NOT_VALID: Invalide
+  LABEL_MOD_CREATED: Mod créé
+  LABEL_MOD_UPDATED: Mod mis à jour
+  TOOLTIP_HOLD_TO_CLICK: |
+    Maintenir pour cliquer
+  LABEL_GAME_EXCLUSIVITY: >
+    Ce jeu est une exclusivité %s
+  LABEL_PLATFORM_GAME_EXCLUSIVE_WELCOME: |
+    Bonjour [b]%s[/b],
+
+    Je suis ravi de voir que votre studio publie des jeux de qualité. Je viens pour parler de [b]%s[/b], ce jeu me semble prometteur, et je voudrais vous aider à faire de sa sortie un succès mondial! [b]%s[/b] sera mis en avant, et nous allons faire un pack de votre jeu avec notre console. En contrepartie, nous voulons que ce jeu soit une exclusivité [b]%s[/b]. [i](Tous les ports vers des consoles qui n'appartiennent pas à [b]%s[/b] seront annulés)[/i]
+    En plus de mettre votre jeu en avant, nous vous offrons la coquette somme de [b]%s$[/b]. C'est une affaire qui roule?
+  LABEL_CLOUDS: Afficher les nuages sur la carte
+  LABEL_AUTOSAVE: Sauvegarde automatique
+  LABEL_CONCURRENT_GAME_USING_ENGINE_TITLE: |
+    Un concurrent utilise votre moteur de jeu.
+  LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION: |
+    [b]%s[/b] a publié un jeu qui utilise votre moteur de jeu ([b]%s[/b]).
+  LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION_GAME: |
+    Grâce à [b]%s[/b], vous allez toucher [b]%d%%[/b] de royalties.
+  LABEL_PLATFORM_SELECT_OFFER: |
+    Personnaliser l'offre
+  LABEL_PLATFORM_MONEY_OFFER: |
+    Offre d'argent : [b]%s$[/b]
+  LABEL_PLATFORM_EXCLUSIVITY_DURATION: |
+    Durée d'exclusivité : [b]%s[/b] mois
+  LABEL_GAMEENGINE_DELETE_TITLE: Supprimer le moteur de jeu?
+  LABEL_GAMEENGINE_DELETE_DESCRIPTION: |
+    Vous êtes sur le point de supprimer [b]%s[/b].
+    Voulez-vous continuer ?
+  LABEL_PLATFORM_MANUFACTURER_MAIN: |
+    Que puis-je faire pour vous ?
+  LABEL_PLATFORM_MANUFACTURER_ANGRY: |
+    Ne me fais pas perdre mon temps, gamin !
+  LABEL_PLATFORM_CANNOT_PUBLISH_LOCKED: |
+    Vous ne pouvez pas publier de jeux sur cette plateforme
+    car vous devez d'abord négocier pour la débloquer.
+  LABEL_PLATFORM_CANNOT_PUBLISH_EXCLU: |
+    Vous ne pouvez pas publier de jeux sur cette plateforme
+    car vous avez un contrat d'exclusivité avec %s
+  LABEL_PLATFORM_CANNOT_SIGN_NEW_CONTRACT: |
+    Vous ne pouvez pas encore signer de nouveaux contrats car vous avez
+    un contrat d'exclusivité avec %s.
+  LABEL_PLATFORM_EXCLUSIVE_DURATION: |
+    Temps restant de l'exclusivité avec %s: %d mois
+  LABEL_PLATFORM_MANUFACTURER_CALL: |
+    Appeler %s pour négocier
+  LABEL_PLATFORM_MANUFACTURER_WELCOME: |
+    Bonjour,
+
+    Je suis [b]%s[/b], et je travaille pour [b]%s[/b].
+    Que puis-je faire pour vous?
+  LABEL_PLATFORM_MANUFACTURER_LICENSE_OFFER: |
+    Nous avons passé de nombreuses années pour développer la [b]%s[/b].
+    Je serai ravi de collaborer avec vous, cependant je me demande ce
+    que votre compagnie peut bien apporter à cette magnifique [b]%s[/b].
+  LABEL_PLATFORM_MANUFACTURER_PROJECTION_UNIT_SOLD: |
+    Projection du nombre d'unités vendues: [b]%s[/b]
+  LABEL_PLATFORM_MANUFACTURER_CHOICE: |
+    Je veux publier des jeux sur [b]%s[/b]
+  LABEL_PLATFORM_MANUFACTURER_ACCEPT_BUT_PLAYER_REFUSE: |
+    J'ai changé d'avis, on annule tout, aurevoir.
+  LABEL_PLATFORM_MANUFACTURER_ACCEPT: |
+    Cette proposition m'a l'air honnête, nous avons un accord!
+  LABEL_PLATFORM_MANUFACTURER_REFUSAL: |
+    Nous ne pouvons pas accepter cette proposition.
+  LABEL_PLATFORM_MANUFACTURER_COUNTEROFFER: |
+    Que dites-vous de ceci à la place?
+  LABEL_PLATFORM_MANUFACTURER_EXCLU: |
+    Un chèque de [b]%s$[/b] pour licence de [b]%s[/b] ainsi qu'un contrat d'exclusivité de [b]%s[/b] mois pour [b]%s[/b].
+    (Vous ne pourrez pas publier de jeux sur des consoles d'autres fabricants)
+  LABEL_PLATFORM_MANUFACTURER_LICENSE: |
+    Un chèque de [b]%s$[/b] pour license de [b]%s[/b]
+  LABEL_PLATFORM_MANUFACTURER_GIVEUP: |
+    Laissez tomber.
+  LABEL_PLATFORM_MANUFACTURER_GOODBYE: |
+    Merci pour votre temps.
+  LABEL_VIDEO_GAME_KRACH_1983_DESCRIPTION: |
+    Après les mauvais résultats enregistrés au dernier trimestre 1982 et au début de l'année 1983,
+    Wataggi annonce des résultats à la baisse sur le marché des consoles. Le leader des jeux vidéo
+    est loin d'atteindre ses objectifs en vendant quelques centaines de consoles et à peine quelque
+    2500 cassettes. Le bulletin de santé est aussi largement négatif en ce qui concerne les ordinateurs
+    domestiques, ce qui confirme les incertitudes qui caractérisent aujourd'hui ce marché.
+
+    Les grands acteurs du jeu vidéo s'attendent à des mois difficiles et rien aujourd'hui ne permet
+    de dire que les choses vont s'améliorer.
+  LABEL_VIDEO_GAME_KRACH_1983_TITLE: |
+    Le marché s'effondre
+  LABEL_VIDEO_GAME_PREKRACH_1983_DESCRIPTION: |
+    L'alerte a été chaude. En plein milieu de l'été, Wataggi, le leader du marché du jeu vidéo,
+    annonçait 356 millions de dollards de pertes. Plastics connaissait de très sérieuses difficultés
+    et se retirait du marché. La rumeur est là: le marché du jeu vidéo s'écroule pour laisser la
+    place à la micro-informatique.
+
+    En fait, les pertes de Wataggi et de Plastics, relayées par la chute des actions à la Bourse de New-York,
+    ont créé un mouvement de panique injustifiée. Avec 2 milliards de dollars de chiffre d'affaires annuel
+    aux États-unis, le jeu vidéo reste une industrie solide. Mais la spectaculaire croissance des deux
+    dernières années s'est quelque peu stabilisée. Le marché évolue à la fois vers le haut de gamme où la
+    console RobertoVision de Roberto industriesrivalise avec les micro-ordinateurs domestiques - et vers le
+    bas de gamme, pour des appareils de rapport qualité-prix satisfaisant.
+  LABEL_VIDEO_GAME_PREKRACH_1983_TITLE: |
+    Le marché se stabilise
+  LABEL_PLATFORM_TYPE: Type de plate-forme
+  LABEL_PLATFORM_OS: PC
+  LABEL_PLATFORM_CONSOLE: Console
+  LABEL_PLATFORM_HANDLED: Console portable
+  LABEL_WITHDRAW_EMPLOYEE: Retirer l'employé
+  TOOLTIP_GAME_UPDATE_EXPECTATION: |
+    Sélectionnez les fonctionnalités à mettre à jour
+    afin de combler les attentes des joueurs.
+  TOOLTIP_UPGRADE_OLD_GAMEENGINE: |
+    Une pénalité s'applique lorsqu'on met à jour un moteur de jeu.
+    Cela impact uniquement le nombre de points à produire.
+  LABEL_TOO_MUCH_TIME_SPENT: |
+    Soit votre équipe de développement n'est pas suffisament équilibrée,
+    soit vous avez passé beaucoup plus de temps sur le %s par rapport
+    aux autres étapes de développement
+  LABEL_NOT_ENOUGH_TIME_SPENT: |
+    Soit votre équipe de développement n'est pas suffisament équilibrée,
+    soit vous n'avez pas passé suffisament de temps sur le %s par rapport
+    aux autres étapes de développement
+  LABEL_WARNING_THEME_MISSING: Veuillez sélectionner un thème
+  LABEL_BUYABLE: Achetable
+  LABEL_IAP_NO_TEMPLATE_SELECTED: Pas de microtransactions
+  LABEL_IAP_ADD_MICROTRANSATION: >
+    Ajouter un nouvel achat par microtransaction en cliquant
+    sur la croix bleue.
+  LABEL_NUMBER_OF_NEW_PLAYERS: Nombre de nouveaux joueurs
+  LABEL_NUMBER_OF_RETURNING_PLAYERS: Nombre de joueurs qui reviennent
+  LABEL_NUMBER_OF_PLAYER_LOST: Nombre de joueurs perdus
+  LABEL_FEATURE_REQUIRED: >
+    Cette fonction nécessite les modules suivants du moteur de jeu:
+  LABEL_ESTIMATED_INCOME: Estimation des recettes
+  LABEL_ADS_WARNING: >
+    Faites attention lorsque vous utilisez des publicités.
+    Les publicités ont un impact sur la rétention des utilisateurs.
+  LABEL_IAP_WARNING: >
+    Les joueurs qui ont acheté un jeu n'aiment pas voir les publicités ou
+    dépenser de l'argent pour des microtransactions.
+  LABEL_IAP_NAME: Microtransactions
+  LABEL_IAP_PACK: "Bundle #%d"
+  LABEL_IAP_TYPE_POWER_BOOST: Boost de puissance
+  LABEL_IAP_POWER: Puissance
+  LABEL_IAP_TYPE_COSMETIC: Cosmétique
+  LABEL_IAP_TYPE_LOOTBOX: Lootbox
+  LABEL_IAP_LIST: Liste des articles
+  LABEL_IAP_RARITY: Rareté
+  LABEL_IAP_RARITY_UNCOMMON: Peu commun
+  LABEL_IAP_RARITY_RARE: Rare
+  LABEL_IAP_RARITY_EPIC: Épique
+  LABEL_IAP_RARITY_LEGENDARY: Légendaire
+  LABEL_FINANCIAL_DETAILS: Détails financiers
+  LABEL_AD_NAME: Publicité
+  LABEL_AD_POPUP: Popup publicitaire
+  LABEL_AD_BANNER: Bannière publicitaire
+  LABEL_NUMBER_OF_PLAYER: Nombre de joueurs
+  LABEL_GAME_ENGINE_LIST: Liste des moteurs de jeu
+  LABEL_THEME_LIST: Liste de thèmes
+  LABEL_GAME_ANNOUNCEMENT: Annonces des jeux
+  LABEL_CONVENTION_MESSAGE: Conventions
+  LABEL_NO_FILTER: Aucun filtre
+  LABEL_GAME_UPDATE_EXPECTED: En attente d'une mise à jour
+  LABEL_GAME_UPDATE_NOTEXPECTED: N'attendant pas de mise à jour
+  LABEL_MARKETING_CAMPAIGN_ACTIVE: Campagne de marketing active
+  LABEL_MARKETING_CAMPAIGN_INACTIVE: Aucune campagne de marketing active
+  LABEL_FANBASE_GAIN: Nombre de fans grandissant
+  LABEL_FANBASE_LOSS: Nombre de fans en déclin
+  LABEL_MONEY_MAKER: Rentable
+  LABEL_MONEY_LOSER: Pas rentable
+  LABEL_SELECT_ALL: Tout sélectionner
+  LABEL_SELECT_NONE: Ne rien sélectionner
+  LABEL_FREE_GAME: Gratuit
+  LABEL_SUBSCRIPTION_PRICE: Prix de l'abonnement
+  LABEL_GAME_PRICE: Prix du jeu
+  LABEL_UPDATE_PRICE: Prix de la mise à jour
+  LABEL_X_STUDIOS: "%d studios"
+  LABEL_RANDOM_SLIDER: Jauge de création de jeu aléatoire
+  LABEL_DISCOUNT: Organiser des soldes
+  LABEL_ORGANIZE_YEARLY: Organiser une convention annuelle
+  LABEL_YEARLY: Annuel
+  LABEL_GAME_UPDATE_REQUIREMENTS: Attentes des joueurs concernant la mise à jour
+  LABEL_GAME_UPDATE_HYPE: Attentes d'une mise à jour
+  LABEL_GAME_UPDATE: Publier une mise à jour
+  LABEL_GAME_FREE_UPDATE: Mise à jour gratuite
+  LABEL_GAME_PAID_UPDATE: Mise à jour payante
+  LABEL_REPAIR_ALL: Tout réparer
+  LABEL_UNIQUE: Unique
+  LABEL_DS_NO_PLATFORM_SUPPORTED: |
+    Pour activer le magasin dématérialisé,
+    vous devez supporter au moins une plate-forme
+  LABEL_NOT_AVAILABLE: Indisponible
+  LABEL_REQUIRED: Nécessaire
+  LABEL_REVIEW_GAMEENGINE_BAD: >
+    Ils auraient du plus exploiter les capacités de la console
+  LABEL_REVIEW_GAMEENGINE_GOOD: >
+    Ils ont su tirer le meilleur de la console    
+  LABEL_GAME_ENGINE: Moteur de jeu
+  LABEL_FEATURE_LIST: Liste des fonctionnalités
+  LABEL_DESIGN_CAPACITY: Points de design produits par semaine
+  LABEL_DEVELOPMENT_CAPACITY: Points de développement produits par semaine
+  LABEL_POLISH_CAPACITY: Points de polissage produits par semaine
+  LABEL_GAMEENGINE_MAKEFOSS: Rendez-le gratuit
+  LABEL_GAMEENGINE_PENALITY: >
+    En raison du code existant, la mise à jour d'un moteur de jeu coûte un peu plus cher.
+  LABEL_GAMEENGINE_READY: Moteur de jeu prêt
+  LABEL_GAMEENGINE_UPDATE: Mettre à jour ce moteur de jeu
+  LABEL_GAMEENGINE_LIST: >
+    Liste des moteurs de jeux disponibles sur le marché
+  LABEL_FOSS: Logiciels libres et open source
+  LABEL_PROPRIETARY: Propriétaire
+  LABEL_OWNER: Interne
+  LABEL_PLATFORM_GPU_CAPABILITY: Capacités graphiques
+  LABEL_PLATFORM_CPU_CAPABILITY: Capacités de calcul
+  LABEL_PLATFORM_GPU_COSTS: Coûts des graphiques
+  LABEL_PLATFORM_CPU_COSTS: Coûts des calculs
+  LABEL_GAMEENGINE_DONATION_TITLE: Avis de réception d'un don
+  LABEL_GAMEENGINE_DONATION_DESCRIPTION: |
+    Bonjour,
+
+    Cet email confirme que vous avez reçu un don de [b]%s$[/b]
+    pour le moteur de jeu [b]%s[/b]
+
+    Cordialement,
+    BinoPal
+  LABEL_GAMEENGINE_FEATURE_TITLE: Une fonctionnalité a été implementée
+  LABEL_GAMEENGINE_FEATURE_DESCRIPTION: |
+    Bonjour,
+
+    [b]%s[/b] est dans une communauté en pleine croissance.
+    Ils ont implémenté une nouvelle fonctionnalité:
+    [b]%s[/b]
+
+    C'est gratuit!
+  LABEL_GAME_ENGINE_TITLE: Nouvelle technologie disponible
+  LABEL_GAME_ENGINE_DESCRIPTION: >
+    Une nouvelle technologie est prête à être ajoutée à votre moteur de jeu :
+  LABEL_GAMEENGINE_DESCRIPTION_0: >
+    Vous pouvez maintenant créer vos propres moteurs de jeu.
+    Les moteurs de jeu augmentent le nombre de points générés par votre personnel. 
+  LABEL_GAME_ENGINE_OPEN_WORLD: Monde ouvert
+  LABEL_GAME_ENGINE_SANDBOX: Bac à sable
+  LABEL_GAME_ENGINE_GESTURE_CONTROL: Détection de mouvement avancé
+  LABEL_GAME_ENGINE_MOTION_CONTROL: Simple détection de mouvement
+  LABEL_GAME_ENGINE_FACIAL_RECOGNITION: Reconnaissance faciale
+  LABEL_GAME_ENGINE_SIMPLE_ANTICHEAT: Simple anti-triche
+  LABEL_GAME_ENGINE_AI_POWERED_ANTICHEAT: Anti-triche gérée par l'IA
+  LABEL_GAME_ENGINE_CROSS_PLAY: Multiplateforme
+  LABEL_GAME_ENGINE_AUDIO_RECOGNITION: Reconnaissance vocale
+  LABEL_GAME_ENGINE_LOW_LATENCY_SERVER: Serveur faible latence
+  LABEL_GAME_ENGINE_HIGH_DEF_DISPLAY: Haute Défition
+  LABEL_GAME_ENGINE_ULTRA_HIGH_DEF_DISPLAY: Très Haute Défition
+  LABEL_GAME_ENGINE_AR_32BITS: Réalité Augmentée
+  LABEL_GAME_ENGINE_AI_POWERED_DIFFICULTY: Difficulté gérer par IA
+  LABEL_GAME_ENGINE_REALISTIC_CHARACTER: Personnages réalistes
+  LABEL_GAME_ENGINE_ADS: Module de publicité
+  LABEL_GAME_ENGINE_IAP: Module de microtransactions
+  LABEL_GAME_ENGINE_2D_1BITCOLOR: Graphismes 2D monochrome
+  LABEL_GAME_ENGINE_2D_8BITCOLOR: Graphismes 2D couleurs 8 bits
+  LABEL_GAME_ENGINE_2D_16BITCOLOR: Graphismes 2D couleurs 16 bits
+  LABEL_GAME_ENGINE_2D_24BITCOLOR: Graphismes 2D couleurs 24 bits
+  LABEL_GAME_ENGINE_2D_32BITCOLOR: Graphismes 2D couleurs 32 bits
+  LABEL_GAME_ENGINE_3D_1BITCOLOR: Graphismes 3D monochrome
+  LABEL_GAME_ENGINE_3D_8BITCOLOR: Graphismes 3D couleurs 8 bits
+  LABEL_GAME_ENGINE_3D_16BITCOLOR: Graphismes 3D couleurs 16 bits
+  LABEL_GAME_ENGINE_3D_24BITCOLOR: Graphismes 3D couleurs 24 bits
+  LABEL_GAME_ENGINE_3D_32BITCOLOR: Graphismes 3D couleurs 32 bits
+  LABEL_GAME_ENGINE_VR_32BITCOLOR: Réalité virtuelle
+  LABEL_GAME_ENGINE_VOXEL_32BITCOLOR: Graphismes Voxel
+  LABEL_GAME_ENGINE_BASIC_DIALOG: Simples dialogues
+  LABEL_GAME_ENGINE_INTERACTIVE_DIALOG: Dialogues interactifs
+  LABEL_GAME_ENGINE_AI_GENERATED_DIALOG: Dialogues générés par une IA
+  LABEL_GAME_ENGINE_JOYSTICK: Support des joystick
+  LABEL_GAME_ENGINE_GAMEPAD: Support des manettes
+  LABEL_GAME_ENGINE_MOUSE: Support de la souris
+  LABEL_GAME_ENGINE_PREBUILT_CHARACTER: Personnages préconstruits
+  LABEL_GAME_ENGINE_CUSTOMIZABLE_CHARACTER: Personnages personnalisables
+  LABEL_GAME_ENGINE_DIFFICULTY: Difficulté
+  LABEL_GAME_ENGINE_DYNAMIC_DIFFICULTY: Difficulté auto-gérée
+  LABEL_GAME_ENGINE_MAP_EDITOR: Éditeur de carte
+  LABEL_GAME_ENGINE_MOD_SUPPORT: Support de mod
+  LABEL_GAME_ENGINE_MONO_SOUND: Son mono
+  LABEL_GAME_ENGINE_MIDI_SOUND: Son MIDI
+  LABEL_GAME_ENGINE_STEREO_SOUND: Son stéréo
+  LABEL_GAME_ENGINE_51_SOUND: Son surround
+  LABEL_GAME_ENGINE_BASIC_MUSIC: Musique simple
+  LABEL_GAME_ENGINE_ORCHESTRAL_MUSIC: Musique orchestrale
+  LABEL_GAME_ENGINE_INTERACTIVE_MUSIC: Musique interactive
+  LABEL_GAME_ENGINE_PASSWORD_SAVE: Sauvegarde par mot de passe
+  LABEL_GAME_ENGINE_BASIC_SAVE: Sauvegarde
+  LABEL_GAME_ENGINE_CLOUD_SAVE: Sauvegarde nuagique
+  LABEL_GAME_ENGINE_BASIC_PHYSICS: Physique basique
+  LABEL_GAME_ENGINE_ADVANCED_PHYSICS: Physique avancée
+  LABEL_GAME_ENGINE_REALISTIC_PHYSICS: Physique réaliste
+  LABEL_GAME_ENGINE_DEDICATED_SERVER: Serveur dédié
+  LABEL_GAME_ENGINE_SOCIAL_NETWORK_INTEGRATION: Intégration des réseaux sociaux
+  LABEL_GAME_ENGINE_SIMPLE_ANIMATION: Animations simples
+  LABEL_GAME_ENGINE_DYNAMIC_ANIMATION: Animations dynamiques
+  LABEL_GAME_ENGINE_AI_BASED_ANIMATION: Animations générées par une IA
+  LABEL_GAME_ENGINE_BASIC_TUTORIEL: Didacticiel
+  LABEL_GAME_ENGINE_INTERACTIVE_TUTORIEL: Didacticiel interactif
+  LABEL_GAME_ENGINE_LOADING_SCREEN: Écran de chargement
+  LABEL_GAME_ENGINE_BACKGROUND_LOADING: Chargement instantané
+  LABEL_GAME_ENGINE_SIMPLE_CINEMATIC: Cinématiques simples
+  LABEL_GAME_ENGINE_ADVANCED_CINEMATIC: Cinématiques avancées
+  LABEL_GAME_ENGINE_REALISTIC_CINEMATIC: Cinématiques réalistes
+  LABEL_GAME_ENGINE_LEADERBOARD: Classements des scores
+  LABEL_GAME_ENGINE_CLOUD_LEADERBOARD: Classements des scores nuagiques
+  LABEL_BUSY: Occupé
+  LABEL_AVAILABLE: Disponible
+  LABEL_AUTOATTEND_CONVENTION: Participer automatiquement à toutes les conventions.
+  LABEL_SERVER_CAPACITY: Capacité des serveurs
+  LABEL_SERVER_RENT_CAPACITY: Capacités des serveurs loués
+  LABEL_TOTAL_COST: Coûts totaux
+  LABEL_RENT_SERVER_COST: Coûts des serveurs loués
+  LABEL_SERVER_USAGE_THRESHOLD: >
+    Louer de nouveaux serveurs dès que la charge des serveurs
+    atteint:
+  LABEL_STEAM_NOT_DETECTED: |
+    Impossible de joindre Steam.
+
+    Merci de redémarrer Steam.
+    Si le problème persiste, veuillez contacter:
+    contact@binogure-studio.com
+  LABEL_ONLINE_GAMES: Jeux en ligne
+  LABEL_CLOUD_SERVER: >
+    C'est une véritable révolution, une compagnie vient de proposer ces services de location de serveur cloud
+  TOOLTIP_CLOUD_SERVERS: |
+    Plus besoin d'avoir d'énormes bâtiments pour héberger des centaines de serveurs
+  LABEL_RENT_SERVERS: Location de serveurs
+  LABEL_ENABLED: Activé
+  LABEL_DISABLED: Désactivé
+  LABEL_TOTAL_UNIT_SOLD: Nombre total d'unités vendues
+  LABEL_DS_PLATFORM_NOT_COMPATIBLE: Cette plateforme n'est pas supportée par votre magasin digital
+  LABEL_DISCONTINUE_PLATFORM_TITLE: Fin de support
+  LABEL_DISCONTINUE_PLATFORM_CONFIRMATION: |
+    Au moins un de vos jeux est toujours en vente sur %s' via le magasin dématérialisé.
+
+    Êtes-vous sûr de vouloir terminer le support de '%s'?
+  TOOLTIP_DS_SUPPORT_ALL_PLATFORMS: |
+    Pour pouvoir supporter plusieurs plateformes
+    vous devez avoir développer la fonctionnalité Multi-platforme
+    du magasin dématérialisé
+  LABEL_DS_SUPPORT_ALL_PLATFORMS: Supporter toutes les plateformes
+  LABEL_NUMBER_OF_PLATFORMS: Nombre de plateformes
+  LABEL_SERVER_LOAD: Charge des serveurs
+  LABEL_SALES_BONUS: Bonus de ventes
+  LABEL_SERVER_COST: Coûts de serveurs
+  LABEL_DS_SALES: Vente de jeux
+  LABEL_DS_PLATFORMCUT: La part du magasin numérique
+  LABEL_DS_CCU: Utilisateurs concurrents
+  LABEL_DS_CHAT_TITLE: Clavardage
+  LABEL_DS_CHAT_DESCRIPTION: |
+    Permet aux utilisateurs de discuter entre eux de manière instantanée
+  LABEL_DS_FORUM_TITLE: Forum
+  LABEL_DS_FORUM_DESCRIPTION: |
+    Permet aux utilisateurs de poster des messages sur le magasin dématérialisé
+  LABEL_DS_CROSSPLATFORM_TITLE: Multi-platforme
+  LABEL_DS_CROSSPLATFORM_DESCRIPTION: |
+    Permet au magasin digital de supporter plusieurs plateformes en même temps
+  LABEL_DS_BOTPROTECTION_TITLE: Anti-bot
+  LABEL_DS_BOTPROTECTION_DESCRIPTION: |
+    Protège vos serveurs des attaques de bots.
+  LABEL_DS_WORKSHOP_TITLE: Workshop
+  LABEL_DS_WORKSHOP_DESCRIPTION: |
+    Permet aux utilisateurs de partager des mods qu'ils ont créés.
+  LABEL_DS_SUPPORT_TITLE: Support technique
+  LABEL_DS_SUPPORT_DESCRIPTION: |
+    Permet aux utilisateurs de bénéficier d'une assistance technique.
+  LABEL_DS_REVIEW_TITLE: Revues
+  LABEL_DS_REVIEW_DESCRIPTION: |
+    Permet aux utilisateurs de donner leurs avis sur les jeux vidéo.
+  LABEL_DS_STORE_TITLE: Magasin
+  LABEL_DS_STORE_DESCRIPTION: |
+    Permet aux concurrents de vendre des jeux sur votre boutique numérique.
+  LABEL_DS_ANALYTICS_TITLE: Télémétrie
+  LABEL_DS_ANALYTICS_DESCRIPTION: |
+    Permet de recueillir les habitudes des utilisateurs.
+  LABEL_DS_INVENTORY_TITLE: Inventaire
+  LABEL_DS_INVENTORY_DESCRIPTION: |
+    Permet aux utilisateurs de posséder, d'échanger et de revendre des objets.
+  LABEL_DS_WISHLIST_TITLE: Liste de souhait
+  LABEL_DS_WISHLIST_DESCRIPTION: |
+    Permet aux utilisateurs de suivre un jeu vidéo.
+  LABEL_DS_ACHIEVEMENTS_TITLE: Succès
+  LABEL_DS_ACHIEVEMENTS_DESCRIPTION: |
+    Permet aux utilisateurs de suivre leur progression dans un jeu.
+  LABEL_DS_GIFTCARDS_TITLE: Carte d'achat
+  LABEL_DS_GIFTCARDS_DESCRIPTION: |
+    Ajout d'un nouveau moyen de paiement.
+  LABEL_DS_MARKETPLACE_TITLE: Marché digital
+  LABEL_DS_MARKETPLACE_DESCRIPTION: |
+    Permet aux utilisateurs de revendre leur jeu
+  LABEL_DS_SALES_TITLE: Soldes
+  LABEL_DS_SALES_DESCRIPTION: |
+    Permet de créer des soldes pour un jeu vidéo
+  LABEL_HIRING_COSTS: Prime d'embauche
+  LABEL_COMPLETE: Terminé
+  LABEL_DRAG_ICON_TO_DOWNLOAD: |
+    Cliquez sur l'icône
+    puis deplacez la vers la zone de droite
+    pour lancer le téléchargement
+  LABEL_CLOSE_POPUP: Fermez la popup pour continuer
+  LABEL_CLOSE_CAT_POPUP: |
+    Fermez les popup de chats
+    pour continuer le téléchargement
+  LABEL_SETTING_UP_FIREWALL: Mise en place du pare-feu
+  LABEL_PRESS_ANY_KEY: Appuyez sur n'importe quelle touche pour pirater
+  LABEL_HACKED: |
+    Piratage terminé.
+    Félicitations!
+  LABEL_HACKING_INTRODUCTION: |
+    Bienvenue dans ce simulateur de hack.
+    Pour commencer, cliquez sur 'Commencer'.
+  LABEL_OPEN_CONSOLE: Cliquez sur 'Commencer' pour pirater
+  LABEL_DOWNLOADING: Téléchargement
+  LABEL_TARGET_LOCALIZING: Intrusion détectée
+  LABEL_CONNECTION_LOST: Connexion perdue
+  LABEL_ACCESS_GRANTED: Accès autorisé
+  LABEL_CLICK_FOR_ACTION: Cliquez pour ouvrir le menu
+  LABEL_NO_GAME_INDEV: |
+    Il n'y a aucun jeu en cours de développement.
+  LABEL_ALREADY_REGISTERED: Inscrit
+  LABEL_NET_PROFITS: Bénéfices nets
+  LABEL_ENERGY: Énergie
+  LABEL_LOSE: Vous avez échoué
+  LABEL_MINIGAME_CRACK_DESCRIPTION: |
+    Pour cracker le jeu, vous devez décompiler le code binaire à l'aide des boutons qui se trouvent en bas de l'écran
+  LABEL_CANNOT_OPEN_FILE: "Impossible d'ouvrir le fichier"
+  LABEL_OPEN_FILE: Ouvrir un fichier
+  LABEL_KEEP_HINTS: Conserver les astuces
+  LABEL_SELECT_GAME_OF_THE_YEAR: Sélectionner le jeu à présenter
+  LABEL_PUBLISH_GAME_OF_THE_YEAR_EDITION: "Publier la version Jeu de l'année"
+  LABEL_GAME_OF_THE_YEAR: >
+    Cela fait des années que des magazines publient la liste des meilleurs jeux sortis
+    durant la dernière année. Une chose est sûre, cela impacte les ventes.
+  LABEL_RIGHT_CLICK_TO_CLOSE: Clic droit pour fermer
+  LABEL_STARTING_YEAR: Année de départ
+  LABEL_CURRENCY_UNLIMITED: Argent illimité
+  LABEL_ADVANCED_START: Départ avancé
+  LABEL_WORKING: Travailler
+  LABEL_DEFAULT: Défaut
+  LABEL_DEVELOPER: Développeur
+  LABEL_GAME_CAPACITY: Nombre de jeux
+  LABEL_BONUS_PRODUCTIVITY: Bonus de productivité
+  LABEL_MARKETING_MANAGER: Responsable marketing
+  LABEL_BONUS_HYPE: Bonus d'engouement
+  LABEL_ACCOUNTANT: Comptable
+  LABEL_BONUS_TAXES: Réduction de taxes
+  LABEL_NETWORK_ADMINISTRATOR: Admin. réseau
+  LABEL_BONUS_SERVER: Bonus de capacité des serveurs
+  LABEL_HUMAN_RESOURCE: Ressources humaines
+  LABEL_BONUS_HAPPINESS: Bonus de bonheur
+  LABEL_AMOUNT_OF_TIPS: Nombre d'indices
+  LABEL_REQUIRED_POINTS: Points requis
+  LABEL_STEP: Étape
+  LABEL_CONTRACT: Contrat
+  LABEL_BEST_GAME: Meilleur jeu
+  LABEL_AMOUNT_GAMEPORT: Nombre de ports de jeu
+  LABEL_AMOUNT_EDITED_GAME: Nombre de jeux publiés
+  LABEL_AMOUNT_STUDIO: Nombre de studios
+  LABEL_AMOUNT_POSTMORTEM: Nombre de rapports de jeux
+  LABEL_AMOUNT_ATTENDED_CONVENTION: Nombre de congrès auxquels vous avez assisté
+  LABEL_AMOUNT_DESK: Nombre de bureau
+  LABEL_MORTGAGE_NOT_INTERESTED: Vous ne possédez pas suffisament de bien pour pouvoir contracter un prêt
+  LABEL_THANKYOU_PURCHASING: |
+    Bonjour,
+
+    En achetant City Game Studio vous soutenez un développeur indépendant.
+    Sans votre soutien, il m'est impossible de continuer à développer City Game Studio.
+
+    Alors si vous aimez City Game Studio et si vous aimez les jeux indies, montrez votre soutien.
+
+    Binogure
+  LABEL_CREATE_POSTMORTEM: Faire le post-mortem
+  LABEL_VENDING_MACHINE: Distributeur
+  LABEL_GAME_SPEED: Vitesse de jeu
+  LABEL_SPEED_NORMAL: Normale
+  LABEL_SPEED_SLOW: Lente
+  LABEL_SPEED_SLOWEST: Très lente
+  LABEL_FIRE_UNASSIGNED_EMPLOYEE: Renvoyer tous les employés sans bureaux
+  LABEL_FURNISH_MOD: Meubler automatiquement
+  LABEL_AUTOFURNISH_WARNING_EMPTY_ONLY: Seuls les studios vides peuvent être meublés automatiquement
+  LABEL_HAPPINESS: Bonheur
+  LABEL_FILTER_BY: Filtrer par
+  LABEL_DOOR: Porte
+  LABEL_COGS: Coût des marchandises vendues
+  LABEL_TAXES: Impôts et taxes
+  LABEL_FIXED_COSTS: Coûts fixes
+  LABEL_OVERVIEW: Vue d'ensemble
+  LABEL_LOW_CONFIGURATION: Basse définition
+  LABEL_USE_MOUSE_TO_MOVE_SCREEN: >
+    Bouger l'écran avec la souris
+  LABEL_WEEK: Semaines
+  LABEL_TOOLS: Fait grâce
+  LABEL_SANDBOX: Mode bac à sable
+  LABEL_SAVING: Sauvegarde en cours
+  LABEL_PROPOSAL_MIN_NOTE_FAILED_TITLE: Dédommagements
+  LABEL_PROPOSAL_MIN_NOTE_FAILED_DESCRIPTION: |
+    À l'intention de [b]%s[/b],
+
+    Étant donné que [b]%s[/b] n'a pas rencontré le succès attendu, nous nous engageons à payer la pénalité de [b]%s$[/b] au plus vite.
+    Nous espérons que cet accroc ne nuira pas à nos futures coopérations.
+
+    Dans l'attente d'un nouveau contrat.
+
+    Respectueusement,
+    [b]%s[/b]
+  LABEL_CANT_PUBLISH_NEW_GAME: |
+    Vous ne pouvez pas encore publier une nouvelle offre d'édition
+  LABEL_EDIT_GAME: Publier une offre d'édition
+  LABEL_EDIT_GAME_ANNOUNCE: |
+    %s a été choisi pour développer leur prochain jeu %s
+  LABEL_EDIT_GAME_ANNOUNCE_BAD: |
+    Des rumeurs courent, et il parait que %s n'est pas satisfait du deal qu'ils ont passé avec %s
+  LABEL_REQUIRE_EMPLOYEE: |
+    Nécessite %d employés.
+    Nécessite %d producteur.
+  LABEL_STUDIO_NOT_BALANCED: >
+    Vérifier la composition de votre studio, il ne produit pas le même montant de Design/Developpement ou de Polissage.
+    Cela va se refléter sur la qualité des jeux.
+  LABEL_LAST_COMBO: "Dernière fois que vous avez fait le combo thème/genre"
+  LABEL_POINTRATIO_NOT_ENOUGH: |
+    [b]%s[/b] manque de [b]%s[/b]. 
+  LABEL_PLATFORM_NOT_EXPLOITED: |
+    Ils auraient dû exploiter davantage les capacités de la plateforme.
+  LABEL_POINTRATIO_TOO_MUCH: |
+    [b]%s[/b] a trop de [b]%s[/b].
+  LABEL_MARKETING_CAMPAIGN: Publicité
+  LABEL_CAMPAIGN_TYPE: Type de publicité
+  LABEL_WORKLOAD: Charge de travail
+  LABEL_WORKLOAD_DISTRIBUTION: Répartition de la charge de travail
+  LABEL_RELEASE_DATE: Date de sortie
+  LABEL_MANUFACTURER: Fabriquant
+  LABEL_EXPIRED: Expiré
+  LABEL_POINTRATIO_GOOD: |
+    Chez [b]%s[/b] ils savent gérer le [b]%s[/b]
+  LABEL_POINTRATIO_BAD: |
+    [b]%s[/b], c'est leur point faible. Leur équipe de production n'est pas suffisamment équilibrée.
+  LABEL_REVIEW_PLATFORM_GOOD: |
+    [b]%s[/b] a une super équipe, ils brillent sur tous les tableaux.
+  LABEL_REVIEW_PLATFORM_BAD: |
+    Il serait temps pour [b]%s[/b] d'embaucher plus de personnel.
+    Ils n'ont pas la main d'oeuvre nécessaire pour pouvoir publier des jeux [b]%s[/b] sur [b]%s[/b]
+  LABEL_REVIEW_GAME_BAD: |
+    [b]%s[/b] n'est pas à la hauteur de leur réputation. On en attendait plus, surtout après avoir fait un jeu comme [b]%s[/b]
+  LABEL_REVIEW_COMBO_GOOD: |
+    [b]%s[/b] tente de nouveaux combos, et ça leur réussi! C'est un excellent [b]%s[/b].
+  LABEL_REVIEW_COMBO_BAD: |
+    Il serait temps que [b]%s[/b] se renouvelle, ils ont encore publié un [b]%s[/b]!
+  LABEL_CRACKED: Cracké
+  LABEL_SELECT_COMPANY_SPECIALIZATION: Spécialisation dans le genre de jeu
+  LABEL_DISCORD_COMMUNITY: Communauté Discord
+  LABEL_LAST_MONTH: Durera %s mois
+  LABEL_SUCCESS_RATE: Probabilité de succès
+  LABEL_RISKS: Risques encourus
+  LABEL_SALES_HITS_TITLE: Rapport des ventes
+  LABEL_SALES_HITS_DESCRIPTION: |
+    Salut %s,
+
+    Je sais à quel point tu aimes mes courriels.
+    Alors voilà, puisqu'on peut observer de bonnes ventes, j'ai fait des calculs et aujourd'hui on va parler des ventes de %s
+
+    %s
+
+    Cordialement
+    Binogure.
+  LABEL_SALES_HITS_0: >
+    Les ventes [b]%s[/b] se portent bien, j'estime que cela devrait raporter un bonus de [b]%d%%[/b].
+  LABEL_SALES_HITS_1: >
+    [b]%s[/b] ne va pas trop mal ce mois-ci, d'après mes estimations cela va apporter un bonus de [b]%d%%[/b].
+  LABEL_SALES_HITS_2: >
+    Bon, on va parler de [b]%s[/b]. Les ventes sont excellentes, et je pense qu'il faut s'attendre à un bonus de [b]%d%%[/b].
+  LABEL_SALES_HITS_3: >
+    Avec [b]%s[/b] on va pouvoir voir grand, les ventes devraient avoir un bonus de [b]%d%%[/b].
+  LABEL_SALES_HITS_4: >
+    Aujourd'hui est un grand jour, [b]%s[/b] devrait obtenir un bonus de [b]%d%%[/b].
+  LABEL_SALES_HITS_5: >
+    Pour [b]%s[/b], il faut s'attendre à un bonus de [b]%d%%[/b]
+  LABEL_SALES_HITS_6: >
+    Félicitations avec les ventes de [b]%s[/b] on devrait atteindre un bonus de [b]%d%%[/b]
+  LABEL_CONVENTION_INCOMING: |
+    Bonjour %s,
+
+    C'est avec plaisir que nous vous annonçons [b]%s[/b] prévue pour le [b]%s[/b].
+
+    La convention durera 3 jours, et nous attendons [b]%s[/b] visiteurs.
+    Vous pouvez déjà louer un stand pour venir montrer vos plus belles créations. Dépêchez-vous les places sont limitées.
+
+    Cordialement,
+    Les organisateurs de %s
+  LABEL_REDCOUCH: Canapé rouge
+  LABEL_DARKCOUCH: Canapé foncé
+  LABEL_WHITECOUCH: Canapé blanc
+  LABEL_REDARMCHAIR: Fauteuil rouge
+  LABEL_DARKARMCHAIR: Fauteuil foncé
+  LABEL_WHITEARMCHAIR: Fauteuil blanc
+  LABEL_WHAT_WERE_YOU_DOING: Décrivez ce que vous faisiez lorsque le bogue s'est produit.
+  LABEL_VERSION: "Version: %s"
+  LABEL_NO_MESSAGE: Aucun courrier
+  LABEL_INBOX: Boîte de réception
+  LABEL_SPAM: Courrier indésirable
+  LABEL_TRASH: Poubelle
+  LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: |
+    Cette page vous permet de [b]débloquer de nouveaux genres de jeux[/b].
+
+    Pour débloquer un nouveau genre, [b]cliquer sur son icône[/b].
+    Si vous avez suffisamment de point, alors vous pourrez débloquer le nouveau genre.
+
+    Votre [b]nombre de point[/b] de genre est situé dans le [b]coin supérieur droit[/b] de l'écran.
+  LABEL_GAME_GENRE_DESCRIPTION: |
+    [img]%s[/img]
+    [b][u]%s[/u][/b]
+
+    [color=%s]%s[/color]
+  LABEL_SKILL_POINTS: Points de genre
+  LABEL_SKILL_POINT: "%s points de genre"
+  LABEL_UNLOCKED: "Débloqué"
+  LABEL_COST: Coûte %s points
+  LABEL_FANBASE_TRENDS: Évolution du nombre de fan
+  LABEL_YEAR: Années
+  LABEL_GAMEOVER_CONFIRM: Déclarer faillite
+  LABEL_GAMEOVER_DESCRIPTION: |
+    Déclarer faillite terminera la partie en cours.
+    Êtes-vous sûr de vouloir déclarer faillite?
+  LABEL_EXPENSES: Dépenses
+  LABEL_RENT: Loyer
+  LABEL_MARKETING: Marketing
+  LABEL_FINANCIAL_RESULT: Résultats financier
+  LABEL_PROPERTY_VALUE: Valeur immobilière
+  LABEL_FURNITURE_VALUE: Valeur des équipements
+  LABEL_CATALOG_VALUE: Valeur des jeux publiés
+  LABEL_TOTAL_VALUE: Valeur totale
+  LABEL_MORTGAGES: Hypothèques
+  LABEL_MORTGAGE: Hypothèque
+  LABEL_DURATION: Durée
+  LABEL_INTEREST: Taux d'intérêts
+  LABEL_MONTHLY: Mensualités
+  LABEL_COMPANY_WIDE: Toute la compagnie
+  LABEL_STUDIO_WIDE: Ce studio
+  LABEL_AUTO_ASSIGN_STAFF: Assigner les employés
+  LABEL_UPGRADE_COMPUTER: Mise à niveau des ordinateurs
+  LABEL_UPGRADE_SERVER: Mise à niveau des serveurs
+  LABEL_NO_STUDIO_TRADE_CAPABLE: >
+    Vous devez avoir au minimum 5 personnes pour pouvoir répondre à une offre d'édition.
+  LABEL_TRADE_GAME_CANCELED_TITLE: "%s annulé"
+  LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
+    À l'intention de [b]%s[/b] (%s),
+
+    Nous sommes particulièrement déçu du fait que vous ayez annulé le développement de [b]%s[/b].
+    Conformément au contrat dûment signé, page 453, alinéa 72d, paragraphe W, feuillet rose, vous devez payer la pénalité de [b]%s$[/b] et nous rembourser au plus vite.
+
+    Respectueusement,
+    Le bureau d'avocat honnête, [b]%s[/b]
+  LABEL_TRADE_GAME_MIN_NOTE_FAILED_TITLE: Contrat rompu
+  LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: |
+    À l'intention de [b]%s[/b] (%s),
+
+    [b]%s[/b] n'a pas rencontré le succès attendu, et nous nous devons d'appliquer le contrat signé à la lettre.
+    Ainsi, conformément à la page 5863, alinéa 99z, paragraphe K, feuillet marron, vous devez payer la pénalité de [b]%s$[/b] et nous rembourser au plus vite.
+
+    Respectueusement,
+    Le département des mauvaises ventes, [b]%s[/b]
+  LABEL_SELECT_GAME_PRESENT: Sélectionner les jeux à présenter
+  LABEL_ROYALTIES: Redevances
+  LABEL_PENALITY: Pénalité
+  LABEL_NOTE_MIN: Note min.
+  LABEL_MARKETING_GLOBAL_ITEM: Global
+  LABEL_MARKETING_MAGAZINE_ITEM: Magazine
+  LABEL_MARKETING_TV_ITEM: Télévision
+  LABEL_MARKETING_WEBSITE_ITEM: Site web
+  LABEL_MARKETING_ONLINEAD_ITEM: Publicité en ligne
+  LABEL_MARKETING_BILLBOARD_ITEM: Panneau publicitaire
+  LABEL_MARKETING_SOCIALNETWORK_ITEM: Réseaux sociaux
+  LABEL_MARKETING_MAILINGLIST_ITEM: Infolettre
+  LABEL_SELF_PUBLISH: Autopublication
+  LABEL_TRADE_PUBLISH: Édition traditionnelle
+  LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
+    Bonjour,
+    
+    Je me présente [b]%s[/b], j'adore [b]%s[/b] et je souhaiterais rejoindre votre équipe au plus vite.
+    Je saurais me montrer efficace et apporterais de nouvelles connaissances à vos équipes.
+
+    Merci pour votre temps,
+    [b]%s[/b]
+  LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: Candidature spontanée
+  LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
+    Bonjour,
+
+    Par la présente lettre, je démissionne de mon poste chez [b]%s[/b] dès aujourd'hui.
+    Mon départ s'explique par le fait que j'ai trouvé un nouvel emploi plus près de chez moi, et dans une entreprise plus attrayante.
+
+    J'ai beaucoup apprécié les années passées à travailler avec vous, vous me manquerez tous!
+
+    Cordialement
+    [b]%s[/b]
+  LABEL_FIRE_PERFECT_EMPLOYEE_TITLE: Démission
+  LABEL_NO_STUDIO_FOR_BIG_GAME: >
+    Vous ne possédez aucun studio permettant de créer un jeu de taille normale ou plus grande.
+  LABEL_NO_FAN_BIG_GAME: >
+    Pour créer un jeu de taille normale ou plus grande, il est recommandé d'avoir au minimum [b]%s[/b] de fans, sinon cela aura un impact sur les ventes
+  LABEL_CONCURRENT_AMOUNT: Nombre de concurrents
+  LABEL_YES: Oui
+  LABEL_NO: Non
+  LABEL_PRICE_MONTHLY: Coûts mensuels
+  LABEL_SERVER_MONITORING_REPORT: Statut des serveurs
+  LABEL_ONLINE_USAGE: Nombre de joueurs en ligne
+  LABEL_ONLINE_CAPACITY: Capacité de joueurs
+  LABEL_ONLINE_CAPACITY_TOOLTIP: Nombre de joueurs en ligne supporté
+  LABEL_SERVER: Serveur
+  LABEL_CAMPAIGN_NO_COST: Contacter la presse
+  LABEL_CAMPAIGN_DEMO: Publier une démo
+  LABEL_CAMPAIGN_FULL: Organiser une campagne publicitaire
+  LABEL_GAME_ANNOUNCED_DESCRIPTION: |
+    [b]%s[/b] vient juste d'annoncer la sortie prochaine de [b]%s[/b].
+    Le jeu sortira d'abord sur la plateforme [b]%s[/b].
+
+    %s
+
+    En tout cas, on leur souhaite bonne chance!
+  LABEL_GAME_ANNOUNCED_DESCRIPTION_EXCITED: |
+    Les fans ont hâte d'y être et nous aussi !
+  LABEL_GAME_ANNOUNCED_DESCRIPTION_DISAPPOINTED: |
+    Les fans sont mitigés, on peut déjà voir les plumes des critiques s'aiguiser.
+
+    Il faut dire qu'ils ont sorti un jeu similaire il n'y pas si longtemps que ça.
+  LABEL_GAME_ANNOUNCED_TITLE: "%s annoncé"
+  LABEL_TRENDING: Tendance
+  LABEL_CREATOR: Créé par
+  LABEL_PRODUCER: Producteur
+  LABEL_COMMUNITY_MANAGER: Responsable de la communication
+  LABEL_SOUND_COMPOSER: Compositeur sonore
+  LABEL_SPECIAL_THANKS: Remerciements
+  LABEL_VISITORS: "%d visiteurs"
+  LABEL_ATTENDANCE: Affluence
+  LABEL_NONE: Aucun
+  LABEL_NO_BUILDING: Aucun local disponible
+  LABEL_NO_CONVENTION: Aucune convention
+  LABEL_CONVENTION_LAST_DATE: Dernière convention
+  LABEL_DATE: Date d'échéance
+  LABEL_STANDSIZE: Taille du stand
+  LABEL_CONVENTION_NAME: Nom de la convention
+  LABEL_ATTEND: Participer
+  LABEL_ORGANIZE: Organiser
+  LABEL_INFORMATIONS: Détails
+  LABEL_GAME: Jeu
+  LABEL_GAMEPORT: Port d'un jeu
+  LABEL_CONVENTION: Centre d'exposition
+  LABEL_LAND_VALUE: Valeur du terrain
+  LABEL_SURFACE: Superficie
+  LABEL_HYPE: Battage publicitaire
+  LABEL_AI: Intelligence artificielle
+  LABEL_ANIMATION: Animation
+  LABEL_ANISOTROPIC_FILTER: Filtre anisotropique
+  LABEL_BUILDING_LEASE: Loyer
+  LABEL_TYPE_BUILDING: Type
+  LABEL_CHARACTERS: Personnages
+  LABEL_COMPANY_NAME: Nom de la compagnie
+  LABEL_CUTSCENES: Cinématiques
+  LABEL_CURRENCY: Argent
+  LABEL_DESIGN: Design
+  LABEL_DEVELOPMENT: Développement
+  LABEL_DIFFICULTY: Difficulté
+  LABEL_EVENT_TYPE: Type d'évènement
+  LABEL_UNIT_SOLD: Ventes
+  LABEL_FANBASE: Fans
+  LABEL_FULLSCREEN: Plein écran
+  LABEL_GAME_GENRE: Genre
+  LABEL_GAME_HISTORY: Portfolio
+  LABEL_GAME_NAME: Nom
+  LABEL_GAME_SIZE: Taille
+  LABEL_GAME_ONLINE_SHORT: Multi-joueurs en ligne
+  LABEL_PLATFORM_NOT_ONLINE: >
+    La plateforme sélectionnée ne supporte pas le mode en ligne
+  LABEL_GAMEPLAY: Gameplay
+  LABEL_GRAPHIC_SETTINGS: Paramètres graphiques
+  LABEL_GRAPHISM: Graphismes
+  LABEL_INCOME: Revenus
+  LABEL_INVALID_SAVE: Fichier corrompu
+  LABEL_KICKOFF: Kick off
+  LABEL_LOAD_GAME: Charger une partie
+  LABEL_MAP_SIZE: Taille de la carte
+  LABEL_MARKETING_MATERIAL: Matériel publicitaire
+  LABEL_MUSIC: Musique
+  LABEL_NETWORK: Réseau
+  LABEL_GRADE: Note
+  LABEL_OPTIMIZATION: Optimisation
+  LABEL_OUTCOME: Dépenses
+  LABEL_PHYSICS: Physique
+  LABEL_GAME_FINISHED: Félicitations, vous avez terminé City Game Studio
+  LABEL_PLANNING: Planning
+  LABEL_NO_PLATFORM_AVAILABLE: >
+    Aucune plate-forme disponible
+  LABEL_PLATFORM: Plateforme
+  LABEL_PLAYER_NAME: Nom du joueur
+  LABEL_PROFITS: Profits
+  LABEL_POLISH: Polissage
+  LABEL_PRICE: Prix
+  LABEL_RELEASE: Publier
+  LABEL_RESOLUTION: Résolution
+  LABEL_SCRIPTING: Scripting
+  LABEL_SOUND: Son
+  LABEL_SOUND_SETTINGS: Paramètres sonores
+  LABEL_SOUNDFX: Effets spéciaux
+  LABEL_SQUARE_FOOTAGE: Surface
+  LABEL_STAFF: Équipe
+  LABEL_STORY: Histoire
+  LABEL_STUDIO: Studio
+  LABEL_TARGETTED_AUDIENCE: Public visé
+  LABEL_THEME: Thème
+  LABEL_TUTORIEL: Tutoriel
+  LABEL_USERINTERFACE: Interface utilisateur
+  LABEL_NAME: Nom
+  LABEL_SALARY: Salaire
+  LABEL_NO_SCORE: Sois le premier à envoyer ton score
+
+  LABEL_CAPACITY_STORY_FEATURE: >
+    Après plusieurs jeux, vous vous rendez compte qu'un bon jeu a forcément une histoire!
+    Créer des jeux ne sera plus jamais pareil
+  LABEL_CAPACITY_USER_INTERFACE_FEATURE: >
+    Une ergonomie exceptionnelle, des animations sublimes, rien de tel qu'une belle interface utilisateur pour apprécier un jeu
+  LABEL_CAPACITY_NETWORK_FEATURE: >
+    Nous sommes à l'aube d'une nouvelle ère, l'industrie du jeu vidéo est sur le point de changer à jamais.
+    Il faut maintenant apprendre à gérer le réseau pour vos créations
+  LABEL_CAPACITY_MODDING_FEATURE: >
+    Avec l'explosion d'Internet, vos fans vont vouloir apporter des modifications aux jeux vidéo que vous créez, vous devez maintenant gérer le modding
+  LABEL_CAPACITY_CUTSCENES_FEATURE: >
+    Certains succès du monde des jeux vidéo viennent directement du monde du cinéma.
+    Afin d'être plus immersif, le monde du jeu vidéo veut désormais des scènes coupées
+  LABEL_CAPACITY_TUTORIEL_FEATURE: >
+    Jouer à un nouveau jeu, c'est aussi apprendre à jouer à un nouveau jeu.
+    Cela peut s'avérer ardu et c'est la tache qui vous ait confié, vous devez maintenant gérer les tutoriels pour vos créations
+  LABEL_THEME_MOVIE_ADAPTATION: Adaptation de film
+  LABEL_THEME_PREHISTORY: Préhistoire
+  LABEL_THEME_ARCHEOLOGY: Archéologie
+  LABEL_THEME_POSTAPOCALYPTIC: Post apocalypse
+  LABEL_THEME_ATLANTIS: Atlantide
+  LABEL_THEME_RELIGIOUS: Religieux
+  LABEL_THEME_ORGANIZED_CRIME: Crime organisé
+  LABEL_THEME_CROSSOVER: Cross-over
+  LABEL_THEME_DESERT: Désert
+  LABEL_THEME_COMEDY: Comédie
+  LABEL_THEME_DRAGON: Dragon
+  LABEL_THEME_EROTIC: Érotisme
+  LABEL_THEME_SPY: Espionnage
+  LABEL_THEME_FANTASY: Fantaisie
+  LABEL_THEME_GHOST: Fantôme
+  LABEL_THEME_HISTORY: Histoire
+  LABEL_THEME_HORROR: Horreur
+  LABEL_THEME_MEDICAL: Médecine
+  LABEL_THEME_OCEAN: Océan
+  LABEL_THEME_ARABIAN_NIGHTS: Mille et une nuit
+  LABEL_THEME_MYTHOLOGY: Mythologie
+  LABEL_THEME_NINJA: Ninja
+  LABEL_THEME_PARK: Parc et loisir
+  LABEL_THEME_PIRATES: Pirate
+  LABEL_THEME_SCIENCE_FICTION: Science-fiction
+  LABEL_THEME_SUPER_HEROS: Super héros
+  LABEL_THEME_VAMPIRE: Vampire
+  LABEL_THEME_TIME_TRAVEL: Voyage dans le temps
+  LABEL_THEME_WESTERN: Western
+  LABEL_THEME_ZOMBIE: Zombie
+  LABEL_THEME_MEDIEVAL: Médiéval
+  LABEL_THEME_GAMEDEV: Développement de jeux
+  LABEL_THEME_HACK: Hack
+  LABEL_THEME_HUNT: Chasse
+  LABEL_THEME_ANIME: Anime
+  LABEL_THEME_MILITARY: Militaire
+  LABEL_THEME_INDUSTRIALIZATION: Industrialisation
+  LABEL_THEME_PET: Animal domestique
+  LABEL_THEME_FOOTBALL: Rugby
+  LABEL_THEME_SOCCER: Football
+  LABEL_THEME_CARTOON: Cartoon
+  LABEL_THEME_COOK: Cuisine
+  LABEL_THEME_URBAN: Urbain
+  LABEL_THEME_KAIJU: Kaiju
+  LABEL_THEME_EVOLUTION: Évolution
+  LABEL_THEME_CYBERPUNK: Cyberpunk
+  LABEL_THEME_STEAMPUNK: Steampunk
+  LABEL_THEME_TRANSPORTATION: Transports
+  LABEL_THEME_MUSIC: Musique
+  LABEL_TYPE_RTT: RTT
+  LABEL_TYPE_4X: 4X
+  LABEL_TYPE_ACTION_ADVENTURE: Action aventure
+  LABEL_TYPE_ACTION: Action
+  LABEL_TYPE_BEAT_THEM_ALL: Beat-em-all
+  LABEL_TYPE_VERSUS_FIGHTING: Combat
+  LABEL_TYPE_PLATFORMS: Plates-formes
+  LABEL_TYPE_SHOOT: Tirs
+  LABEL_TYPE_SHOOT_EM_UP: Shoot'em up
+  LABEL_TYPE_FPS: FPS
+  LABEL_TYPE_TPS: TPS
+  LABEL_TYPE_HACK_N_SLASH: Hack'n'slash
+  LABEL_TYPE_OPEN_WORLD: Monde ouvert
+  LABEL_TYPE_HTA_LIKE: HTA-like
+  LABEL_TYPE_INFILTRATION: Infiltration
+  LABEL_TYPE_SURVIVAL: Survie
+  LABEL_TYPE_HORROR: Horreur
+  LABEL_TYPE_ADVENTURE: Aventure
+  LABEL_TYPE_INTERACTIVE_FICTION: Fiction interactive
+  LABEL_TYPE_INTERACTIVE_MOVIE: Film interactif
+  LABEL_TYPE_CHAT: Drague
+  LABEL_TYPE_BISHOJO: Bishojo
+  LABEL_TYPE_EROGE: Eroge
+  LABEL_TYPE_OTOME: Otome
+  LABEL_TYPE_VISUAL_NOVEL: Nouvelle Visuelle 
+  LABEL_TYPE_MYSTERY_LIKE: Mystery-like
+  LABEL_TYPE_RPG: RPG
+  LABEL_TYPE_ACTION_RPG: Action RPG
+  LABEL_TYPE_DUNGEON_CRAWLER: Dungeon crawler
+  LABEL_TYPE_MMORPG: MMO-RPG
+  LABEL_TYPE_DUNGEON: Dungeon
+  LABEL_TYPE_CROOK_LIKE: Crook-like
+  LABEL_TYPE_TACTICAL_RPG: RPG Tactique
+  LABEL_TYPE_REFLEXION: Réflexion
+  LABEL_TYPE_MAZE: Labyrinthe
+  LABEL_TYPE_HIDDEN_OBJECT: Objets cachés
+  LABEL_TYPE_PUZZLE: Casse-tête
+  LABEL_TYPE_SIMULATION: Simulation
+  LABEL_TYPE_ANIMALS: Animaux
+  LABEL_TYPE_GOD_GAME: God-game
+  LABEL_TYPE_FARMING: Élevage
+  LABEL_TYPE_LIVING_ORGANISM: Organisme vivant
+  LABEL_TYPE_SPORT: Sport
+  LABEL_TYPE_MANAGEMENT: Gestion
+  LABEL_TYPE_ECONOMY: Économie
+  LABEL_TYPE_CITY_BUILDER: City-builder
+  LABEL_TYPE_GOVERNMENT: Gouvernement
+  LABEL_TYPE_VEHICLE: Véhicule
+  LABEL_TYPE_RACING: Course
+  LABEL_TYPE_DRIVE: Conduite
+  LABEL_TYPE_FLY: Vol
+  LABEL_TYPE_SPACE: Espace
+  LABEL_TYPE_SUBMARINE: Sous-marin
+  LABEL_TYPE_TRAIN: Train
+  LABEL_TYPE_STRATEGY: Stratégie
+  LABEL_TYPE_RTS: RTS
+  LABEL_TYPE_MOBA_LIKE: Moba-like
+  LABEL_TYPE_TOWER_DEFENSE: Tower défense
+  LABEL_TYPE_TURN_BASED: Tour-par-tour
+  LABEL_TYPE_ARTILLERY: Artillerie
+  LABEL_TYPE_CASUAL: Casual
+  LABEL_TYPE_BREAKOUT: Casse-brique
+  LABEL_TYPE_RYTHM: Rythme
+  LABEL_TYPE_CLICKER_GAME: Clicker-game
+  LABEL_TARGETTED_AUDIENCE_YOUNG: Jeune
+  LABEL_TARGETTED_AUDIENCE_ALL: Tout public
+  LABEL_TARGETTED_AUDIENCE_MATURE: Mature
+  LABEL_GAME_SIZE_INDIE: Indie
+  LABEL_GAME_SIZE_NORMAL: Normal
+  LABEL_GAME_SIZE_BIG: Gros
+  LABEL_GAME_SIZE_AAA: AAA
+  LABEL_MAP_SIZE_TINY: Minuscule
+  LABEL_MAP_SIZE_SMALL: Petite
+  LABEL_MAP_SIZE_MEDIUM: Moyenne
+  LABEL_MAP_SIZE_LARGE: Grande
+  LABEL_MAP_SIZE_HUGE: Énorme
+  LABEL_DIFFICULTY_VERY_EASY: 1. Testeur d'assurance qualité (le plus facile)
+  LABEL_DIFFICULTY_EASY: 2. Développeur de jeux
+  LABEL_DIFFICULTY_NORMAL: 3. Développeur de moteurs
+  LABEL_DIFFICULTY_HARD: 4. Producteur
+  LABEL_DIFFICULTY_INSANE: 5. PDG (le plus difficile)
+  LABEL_PLATFORM_RELEASED_DESCRIPTION: >
+    [b]%s[/b] sort une nouvelle plateforme: [b]%s[/b]
+  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: >
+    [b]%s[/b] retire la très populaire plateforme [b]%s[/b], les fans sont en émois
+  LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: >
+    [b]%s[/b] va sortir une nouvelle plateforme dans quelques mois [b]%s[/b] elle devrait durer des années
+  LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: >
+    [b]%s[/b] va bientôt retirer la [b]%s[/b] du marché
+  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: >
+    Vous avez débloqué la licence pour [b]%s[/b], cela vous a coûté [b]%s$[/b]
+  LABEL_PLATFORM_RELEASED_TITLE: Nouvelle plateforme
+  LABEL_PLATFORM_DISCONTINUED_TITLE: Fin de vie
+  LABEL_UPCOMING_PLATFORM_RELEASED_TITLE: Plateforme annoncée
+  LABEL_UPCOMING_PLATFORM_DISCONTINUED_TITLE: Fin de vie annoncée
+  LABEL_PLATFORM_UNLOCKED_TITLE: Plateforme achetée
+  LABEL_CLICK_TO_CLOSE: Cliquer pour fermer
+  LABEL_SHOP_UI: Boutique
+  LABEL_DESK: Bureau
+  LABEL_PLANT: Plante
+  LABEL_BOOKSHELF: Étagère
+  LABEL_WASTEBASKET: Corbeille
+  LABEL_ASSIGN_EMPLOYEE: Liste des employés
+  LABEL_NEW_GAME: Nouvelle partie
+  LABEL_MODDING: Mods
+  LABEL_ARTWORK: Illustrations
+  LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: >
+    Votre récente expérience dans le développement de jeux vidéo vous a permis de débloquer le genre [b]%s[/b]
+  LABEL_UNLOCK_GAME_TYPE_TITLE: "Thème débloqué: %s"
+  LABEL_MAGAZINE_0: Console Moins
+  LABEL_MAGAZINE_1: Cochon PC
+  LABEL_MAGAZINE_2: Play Game
+  LABEL_MAGAZINE_3: Jeux Vidéales
+  LABEL_MAGAZINE_4: Geek Hub
+  LABEL_MAGAZINE_5: Amal Game
+  LABEL_MAGAZINE_6: ZQSD
+  LABEL_MAGAZINE_7: Wiki Player
+  LABEL_MAGAZINE_8: Godot Mania
+  LABEL_GAME_OVER: Game over
+  LABEL_SCORE: Score
+  LABEL_WAGE_INCREASES_TITLE: Augmentations de salaires
+  LABEL_WAGE_INCREASES_DESCRIPTION: >
+    Liste des employés qui ont gagné au moins un niveau dans un ou plusieurs domaines de compétence et qui ont eu une augmentation de salaire:
+  LABEL_PRESS_KEY: Appuyez sur
+  LABEL_WORD_OR: ou
+  LABEL_INPUT_ACTION_UI_ROTATE: pour pivoter l'objet
+  LABEL_INPUT_ACTION_UI_DELETE: pour vendre l'objet
+  LABEL_INPUT_ACTION_UI_PAUSE: pour mettre/enlever la pause
+  LABEL_INPUT_ACTION_UI_CANCEL: pour annuler
+  LABEL_INPUT_ACTION_UI_REPEAT: pour poser plusieurs objets à la suite
+  LABEL_CATCHPHRASE_1_0: Une perte de temps
+  LABEL_CATCHPHRASE_1_1: Ils ont tout mis dans le trailer
+  LABEL_CATCHPHRASE_1_2: Ne l'achetez pas
+  LABEL_CATCHPHRASE_1_3: Un manque de créativité flagrant
+  LABEL_CATCHPHRASE_1_4: La médiocrité à son paroxysme
+  LABEL_CATCHPHRASE_1_5: On ne peut pas mettre moins
+  LABEL_CATCHPHRASE_2_0: Une déception que l'on n'avait pas vu venir
+  LABEL_CATCHPHRASE_2_1: Quelqu'un a dit médiocre?
+  LABEL_CATCHPHRASE_2_2: Quelqu'un a dit mauvais?
+  LABEL_CATCHPHRASE_2_3: Une expérience décevante
+  LABEL_CATCHPHRASE_2_4: En un mot, vide
+  LABEL_CATCHPHRASE_2_5: Ils auraient dû le faire annuler
+  LABEL_CATCHPHRASE_3_0: Droit dans le mur
+  LABEL_CATCHPHRASE_3_1: Une déception à la hauteur de ses ambitions
+  LABEL_CATCHPHRASE_3_2: Ils ont tout donné, mais ils n'avaient pas grand chose
+  LABEL_CATCHPHRASE_3_3: Si seulement ils avaient fait un jeu
+  LABEL_CATCHPHRASE_3_4: Une expérience affligeante
+  LABEL_CATCHPHRASE_3_5: On a vu pire, mais on a surtout vu mieux !
+  LABEL_CATCHPHRASE_4_0: Trop de maladresses pour quelques bonnes idées
+  LABEL_CATCHPHRASE_4_1: Un jeu pas si indispensable que ça
+  LABEL_CATCHPHRASE_4_2: Une bonne idée mal réalisée
+  LABEL_CATCHPHRASE_4_3: Le jeu qui se voulait innovant...
+  LABEL_CATCHPHRASE_4_4: Sur un malentendu, on pourrait y rejouer
+  LABEL_CATCHPHRASE_4_5: Le meilleur moment ? C'est quand que ça s'arrête !
+  LABEL_CATCHPHRASE_5_0: Le service minimum
+  LABEL_CATCHPHRASE_5_1: Un melting pot peu savoureux
+  LABEL_CATCHPHRASE_5_2: Un constat très mitigé
+  LABEL_CATCHPHRASE_5_3: On a vu mieux, mais on a surtout vu pire!
+  LABEL_CATCHPHRASE_5_4: C'est sûr, ce n’est pas le jeu de l'année
+  LABEL_CATCHPHRASE_5_5: Un jeu creux avec une durée de vie limité
+  LABEL_CATCHPHRASE_6_0: Sans panache
+  LABEL_CATCHPHRASE_6_1: Un jeu simpliste mais redondant
+  LABEL_CATCHPHRASE_6_2: Modeste mais intéressant
+  LABEL_CATCHPHRASE_6_3: Fun mais peu profond
+  LABEL_CATCHPHRASE_6_4: Un concept intéressant gâché par un hasard omniprésent
+  LABEL_CATCHPHRASE_6_5: A de bons moments, sans plus
+  LABEL_CATCHPHRASE_7_0: Sobriété et efficacité
+  LABEL_CATCHPHRASE_7_1: Un contenu riche plombé par une réalisation médiocre
+  LABEL_CATCHPHRASE_7_2: Une esthétique superbe, des mécanismes perfectibles
+  LABEL_CATCHPHRASE_7_3: Un excellent concept au contenu limité
+  LABEL_CATCHPHRASE_7_4: Une compilation satisfaisante?
+  LABEL_CATCHPHRASE_7_5: Nous ne sommes pas loin d'une pépite
+  LABEL_CATCHPHRASE_8_0: Du fun à l'état pur
+  LABEL_CATCHPHRASE_8_1: Un souffle de fraîcheur
+  LABEL_CATCHPHRASE_8_2: L'incontournable des soirées entre amis
+  LABEL_CATCHPHRASE_8_3: Un opus vraiment à part
+  LABEL_CATCHPHRASE_8_4: La beauté masquée
+  LABEL_CATCHPHRASE_8_5: Plaisant et intense
+  LABEL_CATCHPHRASE_9_0: Un des meilleurs jeux de l'année
+  LABEL_CATCHPHRASE_9_1: Le jeu ultime ?
+  LABEL_CATCHPHRASE_9_2: Une mécanique parfaitement huilée
+  LABEL_CATCHPHRASE_9_3: Ça envoie du lourd
+  LABEL_CATCHPHRASE_9_4: Une excellente expérience
+  LABEL_CATCHPHRASE_9_5: Le travail accompli est quasi impeccable
+  LABEL_CATCHPHRASE_10_0: Une pépite de gameplay
+  LABEL_CATCHPHRASE_10_1: Un chef d'oeuvre de mise en scène, tout simplement
+  LABEL_CATCHPHRASE_10_2: Un must-have
+  LABEL_CATCHPHRASE_10_3: Un des meilleurs jeux de ces dernières années
+  LABEL_CATCHPHRASE_10_4: Des heures de jeu, que des bons moments
+  LABEL_CATCHPHRASE_10_5: Ce jeu va marquer les esprits
+  LABEL_CATCHPHRASE_11_0: Une claque artistique
+  LABEL_CATCHPHRASE_11_1: La perle rare
+  LABEL_CATCHPHRASE_11_2: Un hommage aux jeux vidéo
+  LABEL_CATCHPHRASE_11_3: Un opus qui redonne ses lettres de noblesses aux jeux vidéo
+  LABEL_CATCHPHRASE_11_4: Si la perfection avait un nom
+  LABEL_CATCHPHRASE_11_5: La XXième merveille mondiale
+  LABEL_CREATE_SEQUEL: Créer une suite
+  LABEL_NEW_IP: Nouvelle franchise
+  LABEL_POSTMORTEM: Post-mortem
+  LABEL_EMPTY_STUDIO: Attention le studio sélectionné ne contient aucun poste de travail équipé d'un ordinateur!
+  LABEL_MATCH_EXCELLENT: Excellente association
+  LABEL_MATCH_GOOD: Bonne association
+  LABEL_MATCH_OK: Association moyenne
+  LABEL_MATCH_POOR: Mauvaise association
+  LABEL_POSTMORTEM_TITLE: Post-mortem (%s)
+  LABEL_POSTMORTEM_DESCRIPTION_EMPTY: "[b]%s[/b] ne nous a rien appris de neuf"
+  LABEL_POSTMORTEM_DESCRIPTION_LIST: "Voici ce que nous avons pu apprendre de [b]%s[/b]:%s"
+  LABEL_POSTMORTEM_MATCH: "[ul]- Le rapport [i]%s[/i]/[i]%s[/i] est une [b]%s[/b][/ul]"
+  LABEL_POSTMORTEM_CAPACITY: "[ul]- [b]%s[/b] est [b]%s[/b] pour un jeu de type [b]%s[/b][/ul]"
+  LABEL_POSTMORTEM_MARGINAL: négligeable
+  LABEL_POSTMORTEM_INSIGNIFICANT: peu important
+  LABEL_POSTMORTEM_RELATIVELY_IMPORTANT: relativement important
+  LABEL_POSTMORTEM_VERY_IMPORTANT: très important
+  LABEL_POSTMORTEM_ESSENTIAL: essentiel
+  LABEL_MARKET_SHARE: Parts de marché
+  LABEL_LICENSE_COST: Licence
+  LABEL_OWNED: Possédée
+  LABEL_WEEK_COST: Coûts de développement
+  LABEL_PLATFORM_DEV_COSTS: |
+    Frais de démarrage liés à la console
+  LABEL_CATALOG_SIZE: Taille du catalogue de jeu
+  LABEL_PLATFORM_LIST: Liste des plateformes
+  LABEL_IDLE: Inactif
+  LABEL_ADOPT_CAT_DESCRIPTION: >
+    Les employés du studio [b]%s[/b] ont trouvé un chat errant caché derrière une poubelle.
+    L'animal semble câlin et vos employés lui ont déjà donné un nom. Qu'allez vous faire?
+  LABEL_ADOPT_CAT_TITLE: Chat errant
+  LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: >
+    Deux frères du studio bleu viennent de sortir un jeu qui redéfinit les règles du gameplay.
+    Ils viennent de créer le Mystery-like
+  LABEL_UNLOCK_MYSTERY_LIKE_TITLE: Mystery-like a été inventé
+  LABEL_UNLOCK_HTA_LIKE_DESCRIPTION: >
+    Une compagnie connue sous le nom de DustStar vient de sortir un nouveau jeu qui révolutionne le genre.
+    Elle vient d'engendrer le HTA-like
+  LABEL_UNLOCK_HTA_LIKE_TITLE: HTA-like a été inventé
+  LABEL_UNLOCK_CROOK_LIKE_TYPE_DESCRIPTION: >
+    3 mecs dans un garage ont créé un nouveau jeu.
+    Il est tellement populaire qu'il vient d'engendrer un nouveau genre le Crook-like
+  LABEL_UNLOCK_CROOK_LIKE_TYPE_TITLE: Crook-like a été inventé
+  LABEL_UNLOCK_MOBA_LIKE_DESCRIPTION: >
+    3 designers américains ont travaillé sur un mod de jeu qui vient de changer les lois du jeu vidéo.
+    Le MOBA-like vient de naitre
+  LABEL_UNLOCK_MOBA_LIKE_TITLE: Moba-like a été inventé
+  LABEL_BROKEN_COFFEEMAKER_TITLE: La machine à café est brisée
+  LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: >
+    Vos employées du studio [b]%s[/b] ont une dépendance forte au café.
+    Cependant, cette dernière vient de servir sa dernière tasse tout à l'heure ...
+    Qu'allons nous faire ?
+  LABEL_RABBIT_INVASION_DESCRIPTION: >
+    Des lapins, partout. Ils courent, mangent et font de tout petits bruits...
+    C'est que ça galope ces bêtes là.
+    Et pourtant, tout est calme et les gens continuent de se rendre au travail...
+  LABEL_RABBIT_INVASION_TITLE: Invasion de lapins
+  LABEL_TARGETTED_AUDIENCE_FEATURE: >
+    Des experts ont découvert que les jeux pouvaient s'adresser à un certain public.
+    Il se dégage trois genres de publics différents: public jeune, tout public, public mature
+  LABEL_VIRUS_UNLEASHED_DESCRIPTION: >
+    Un virus vient d'émerger. Il s'attaque uniquement aux machines des développeurs de jeux vidéo.
+    Son effet est curieux, les pointeurs de souris sont ralentis et bougent tout seuls. Parfois la machine redémarre.
+    Une chose est sûre, cela va impacter la productivité de vos employés. Un seul studio semble être touché [b]%s[/b]
+  LABEL_VIRUS_UNLEASHED_TITLE: Virus détecté
+  LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: >
+    Les smitties, célèbrent pour leurs critiques de jeux vidéo, viennent de publier une nouvelle vidéo. Et cette fois, elle traite de l'un de vos jeux: %s.
+    Cela aura un impact sur vos ventes, c'est sûr!
+  LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_TITLE: Publicité gratuite
+  LABEL_LOAN_TITLE: Prêt de dernier recours
+  LABEL_LOAN_DESCRIPTION: >
+    Votre compagnie semble être en difficulté. Nous vous offrons l'opportunité de contracter un prêt à hauteur de [b]%s$[/b] pour le taux modique de [b]%s%%[/b].
+    De plus, vous aurez [b]%s[/b] semaines pour nous rembourser, soit une vie entière pour une compagnie de votre envergure!
+    Nous sommes votre dernier recours, laissez-vous tenter!
+  LABEL_BURNING_SERVER_DESCRIPTION: |
+    Les serveurs sont utilisés à pleine capacité. De nombreux joueurs sont mécontents et quittent le navire.
+    Il est urgent d'acheter de nouveaux serveurs, le manque à gagner est important.
+  LABEL_BURNING_SERVER_TITLE: Les serveurs sont surchargés!
+  LABEL_SMOKING_SERVER_DESCRIPTION: |
+    Vos jeux ont du succès et ça se voit. La plupart de vos serveurs
+    sont utilisés à plus de 90%% de leur capacité.
+    Il faudrait envisager de monter plus de serveurs
+  LABEL_SMOKING_SERVER_TITLE: Les serveurs atteignent leur limite
+  LABEL_PAYLOAN_TITLE: Rembourser un prêt
+  LABEL_PAYLOAN_DESCRIPTION: L'échéancier arrive à son terme. Vous devez rembourser la totalité des sommes empruntées, soit [b]%s$[/b]
+  LABEL_SELL_STUDIO_TITLE: Vendre un studio
+  LABEL_SELL_STUDIO_DESCRIPTION: Vous êtes sur le point de vendre le studio [b]%s[/b], êtes-vous sûr de vouloir continuer?
+  LABEL_CANT_SELL_STUDIO_DESCRIPTION: |
+    Vous ne pouvez pas vendre le studio %s, il est soit votre
+    dernier studio, soit occupé sur un projet
+  LABEL_BUILDING_AREA: Surface %sm2
+  LABEL_BUILDING_BUY: Prix
+  LABEL_BUILDING_RENT: Loyer
+  LABEL_BUILDING_CONVENTION: Centre d'exposition
+  LABEL_BUILDING_TYPE: Bâtiment
+  LABEL_BUILDING_ROAD: Route
+  LABEL_BUILDING_STREET: Rue
+  LABEL_BUILDING_APARTMENT: Appartement
+  LABEL_BUILDING_HOTEL: Hôtel
+  LABEL_BUILDING_THEATER: Théâtre
+  LABEL_BUILDING_TOWER: Tour
+  LABEL_BUILDING_STUDIO: Studio
+  LABEL_BUILDING_BIGSTUDIO: Grand studio
+  LABEL_BUILDING_BUILDING: Résidence
+  LABEL_BUILDING_GRASS: Terrain
+  LABEL_BUILDING_SQUARE: Place
+  LABEL_BUILDING_CAFE: Café
+  LABEL_BUILDING_RESTAURANT: Restaurant
+  LABEL_BUILDING_PIZZERIA: Pizzeria
+  LABEL_BUILDING_GYM: Gym
+  LABEL_BUILDING_OFFICE: Bureau
+  LABEL_BUILDING_UNIVERSITY: Université
+  LABEL_NO_GAME_AVAILABLE: Aucun jeu disponible
+  LABEL_NO_MONEY: Trop cher
+  LABEL_COMPUTER: Ordinateur
+  LABEL_TABLEPLANT: Table
+  LABEL_PRINTER: Imprimante
+  LABEL_COFFEEMACHINE: Machine à café
+  LABEL_DARKMETALTABLEDESK: Bureau en métal sombre
+  LABEL_METALDESK: Bureau en métal
+  LABEL_METALLARGEDESK: Grand bureau en métal
+  LABEL_METALTABLEDESK: Bureau en métal
+  LABEL_WOODDESK: Bureau en bois
+  LABEL_WOODLARGEDESK: Grand bureau en bois
+  LABEL_WOODTABLEDESK: Bureau en bois
+  LABEL_WATERTANK: Fontaine
+  LABEL_WHITEBOARD: Tableau blanc
+  LABEL_WOODBOOKSHELF: Bibliothèque en bois
+  LABEL_METALBOOKSHELF: Bibliothèque en métal
+  LABEL_HOLIDAY: Vacances
+  LABEL_NO_COMPUTER: Pas d'ordinateur
+  LABEL_NO_STUDIO: Aucun studio
+  LABEL_EMPLOYEE_CAPACITY: Prod.
+  LABEL_STUDIO_CAPACITY: Prod. du studio
+  LABEL_EMPLOYEE_TOOLTIP: La productivité (Prod.) améliore l'efficacité de l'employé
+  LABEL_STUDIO_TOOLTIP: La productivité (Prod.) améliore l'efficacité des employés du studio
+  LABEL_BUILD_STUDIO: Editer le studio
+  LABEL_WALL: Mur
+  LABEL_PILLAR: Pilier
+  LABEL_FLOOR: Sol
+  LABEL_HIRING_DATE: Date d'embauche
+  LABEL_WORK: Occupation
+  LABEL_NUMBER_OF_GAME_PRODUCED: Nombre de jeux produits
+  LABEL_DESIGN_POINT_PRODUCED: Nombre de points de design produits
+  LABEL_DEVELOPMENT_POINT_PRODUCED: Nombre de points de développement produits
+  LABEL_POLISH_POINT_PRODUCED: Nombre de points de polissage produits
+  LABEL_PRODUCTIVITY: Productivité
+  LABEL_MONEY_EFFICIENCY: Coût de production
+  LABEL_SKILLS: Compétences
+  LABEL_HOME: Maison
+  LABEL_MONTH: Mois
+  LABEL_ORDER_BY: Trier par
+  LABEL_BUY_PRICE: Prix d'achat
+  LABEL_RENT_PRICE: Prix de location
+  LABEL_NO_STUDIO_AVAILABLE: Aucun studio disponible
+  LABEL_REAL_ESTATE: Petites annonces
+  LABEL_STAFF_SIZE: Nombre d'employés
+  LABEL_CREATION_DATE: Date de création
+  LABEL_STUDIO_LIST: Liste des studios
+  LABEL_NO_STUDIO_FOUND: Aucun studio possédé
+  LABEL_PRODUCTIVITY_BONUS: Bonus de productivité
+  LABEL_SKILLS_AVERAGE: Compétences (moyenne)
+  LABEL_VSYNC: Sync. verticale
+  LABEL_BORDERLESS_WINDOW: Fenêtre sans bord
+  LABEL_GAME_UPDATE_FEATURE: >
+    Publiez des mises à jour et créez de nouveaux contenus pour vos jeux. Mises à jour gratuites ou payantes ? C'est à vous de décider.
+  LABEL_GAMEEDITION_SUBMIT: >
+    Vous avez un sacré nombre de fans. Vous êtes suffisamment connu pour éditer des jeux
+  LABEL_GAMEEDITION_RECEIVE: >
+    Suite à vos récents succès, les éditeurs vont rapidement vous contacter pour vous faire des offres d'éditions
+  LABEL_WORLDMAP: >
+    Vous relevez la tête, il y a un monde qui vous attend dehors
+  LABEL_MARKETING_CAMPAIGN_MAGAZINE: >
+    Les premiers magazines de jeux vidéo paraissent, voulez-vous y faire de la publicité pour un de vos jeux?
+  LABEL_MARKETING_CAMPAIGN_TV: >
+    Il est temps de faire connaître vos jeux via des publicités télévisuelles
+  LABEL_MARKETING_CAMPAIGN_INTERNET: >
+    L'ère Internet débute, vous pouvez atteindre des millions de personnes avec une simple bannière publicitaire.
+  LABEL_CONCURRENT_STUDIOS_LIST: >
+    Votre studio prend de l'ampleur, il est temps d'étudier le marché et de voir vos concurrents
+  LABEL_CONCURRENT_STUDIOS_BUY: >
+    Vos caisses sont pleines, peut-être serait-il temps d'acheter les studios concurrents ?
+  LABEL_FURNITURES_COMMON_BUY: >
+    Il est temps d'aménager votre studio avec classe
+  LABEL_EMPLOYEES_HIRE: >
+    Votre studio prend de l'ampleur, produit plus de jeux, de meilleure qualité. Mais d'abord il faut recruter
+  LABEL_STUDIO_RENT: >
+    On se sent à l'étroit dans ce petit studio. Allez prendre possession de votre prochain local
+  LABEL_STUDIO_BUILD: >
+    Vos succès vous permettent de construire vos propres studios
+  LABEL_CONVENTION_ORGANIZE: >
+    Avec cent milles personnes derrière vous, vous êtes prêts pour organiser vos propres conventions
+  LABEL_CONVENTION_PARTICIPATE: >
+    Votre catalogue de jeu mérite d'être vu, participer à des conventions peut vous aider à améliorer votre visibilité
+  LABEL_STUDIO_CUSTOMIZE: >
+    Les murs ternes de votre studio vous sapent le moral? Il est temps de les changer
+  LABEL_GAME_ONLINE: >
+    Comment garder vos joueurs rivés à leurs écrans... INTERNET, faites des jeux en ligne et vous verrez ils ne décrocheront plus!
+  LABEL_FURNITURES_SERVERS_BUY: >
+    Plus de bureau, plus de chaise, plus d'ordinateur, plus de tableau blanc, plus plus plus!
+  LABEL_DIGITAL_STORE: >
+    Dématérialisé, vous commencez à entendre parler de ce nouveau terme et déjà vous savez que c'est l'avenir.
+  LABEL_POSTMORTEM_FEATURE: >
+    Félicitations vous avez réalisé votre premier jeu.
+    Vous pouvez maintenant faire un post-mortem, cela vous aidera à jauger le développement, le design et le polissage
+  LABEL_NEW_GAME_FEATURE: >
+    Prêt à revivre l'épopée des jeux vidéo depuis son commencement? Bienvenue dans City Game Studio.
+    Lancez-vous et créez votre premier jeu
+  LABEL_LOADING: Chargement
+  LABEL_MARKETING_CAMPAIGN_SOCIALNETWORK: >
+    Jacquie et Michel exposent leurs vies privées, et tout le monde s'y met!
+    Les réseaux sociaux sont là pour durer, et vous pouvez vous en servir pour
+    augmenter la visibilité de vos produits!
+  LABEL_MARKETING_CAMPAIGN_MAILINGLIST: >
+    Une récente étude démontre qu'envoyer des courriels non-sollicités
+    peut sensiblement augmenter la visibilité de vos produits!
+    Vous pouvez désormais spammer tous le monde grâce aux mailing-list
+  LABEL_GAMEPORT_FEATURE: >
+    Vous en aviez rêvé et maintenant c'est fait. Une nouvelle console de jeu vient de sortir.
+    Et vous pouvez dorénavant porter vos jeux sur plusieurs plateformes.
+    Allez-y, essayez-pour voir!
+  LABEL_GAME_CREATION: Ajuster la jauge pour estimer la charge de travail nécessaire sur chacune des parties du jeu
+  LABEL_GAMEEDITION_RECEIVE_DESCRIPTION_0: >
+    Vous pouvez désormais faire appel à des publishers. Cela va vous permettre de devenir populaire rapidement et de pouvoir publier des plus gros jeux.
+  LABEL_WORLDMAP_DESCRIPTION_0: >
+    Vous pouvez désormais visiter la ville, regarder l'emplacement de votre studio et observer la concurrence.
+  LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_0: >
+    Permet d'organiser une campagne marketing au travers de nombreux magazines spécialisés. Cela va augmenter la visibilité de vos jeux.
+  LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_1: >
+    Vous permet de louer des panneaux publicitaires pour y placer des affiches de vos jeux actuellement en vente.
+  LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_2: >
+    Les responsables marketing vont vous aider à mieux vendre vos succès! Ils coûtent chers, mais ils peuvent rapporter gros.
+  LABEL_MARKETING_CAMPAIGN_TV_DESCRIPTION_0: >
+    Vous permet d'organiser des campagnes publicitaires télévisuelles. C'est coûteux, mais qui ne regarde pas la télévision de nos jours?!
+  LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_0: >
+    Vous pouvez désormais afficher un encart publicitaire sur des sites webs. C'est peu coûteux, et ça vous rapporte plus de joueurs.
+  LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_1: >
+    Il est maintenant possible de créer une vitrine sur le World Wide Web afin de montrer au monde entier que vos jeux existent.
+  LABEL_GAME_ONLINE_DESCRIPTION_1: >
+    Vous pouvez engager des administrateurs réseaux pour soulager votre infrastructure réseau.
+  LABEL_CONCURRENT_STUDIOS_LIST_DESCRIPTION_0: >
+    Vous pouviez voir vos compétiteurs grâce à la carte de la ville, désormais il vous est possible de les observer.
+  LABEL_CONCURRENT_STUDIOS_BUY_DESCRIPTION_0: >
+    Racheter vos concurrents est un moyen facile de gagner beaucoup de fans, ainsi que d'agrandir sa compagnie.
+  LABEL_FURNITURES_COMMON_BUY_DESCRIPTION_0: >
+    Allez voir un de vos studios, vous pouvez maintenant personnaliser son intérieur.
+  LABEL_EMPLOYEES_HIRE_DESCRIPTION_0: >
+    Gardez à l'esprit que les meilleurs jeux sont produits par des équipes aussi forte en design, qu'en développement ainsi qu'en polissage.
+  LABEL_EMPLOYEES_HIRE_DESCRIPTION_1: >
+    Vous pouvez embaucher des producteurs de jeux vidéo. Cela vous permettre de faire des AAA et de booster la productivité.
+  LABEL_EMPLOYEES_HIRE_DESCRIPTION_2: >
+    Les ressources humaines vous permettent de booster le bonheur de vos employés mais aussi de gérer leurs emplois du temps
+  LABEL_EMPLOYEES_HIRE_DESCRIPTION_3: >
+    Trop de taxes? Le comptable va pouvoir vous faire sauver quelques pièces. Faites-en bon usage!
+  LABEL_STUDIO_RENT_DESCRIPTION_0: >
+    Vous permet de louer de nouveaux bâtiments. Ça va vous permettre de travailler sur plusieurs projets en même temps.
+  LABEL_STUDIO_BUILD_DESCRIPTION_0: >
+    Vous permet de construire de nouveaux studios. Ça coûte cher, c'est un des seuls moyens de continuer à s'agrandir indéfiniment.
+  LABEL_STUDIO_BUILD_DESCRIPTION_1: >
+    En plus de pouvoir construire des studios, vous pouvez construire des centres de conférences, ceux-ci sont nécessaires pour organiser des conférences.
+  LABEL_STUDIO_BUILD_DESCRIPTION_2: >
+    Construisez des universités pour former vos employés. Ils vont pouvoir atteindre la perfection!
+  LABEL_CONVENTION_ORGANIZE_DESCRIPTION_0: >
+    Si vous avez des centres de conférences, alors, vous pourrez organiser des conférences.
+  LABEL_CONVENTION_PARTICIPATE_DESCRIPTION_0: >
+    Vous pouvez participer à des conventions, cela va augmenter la visibilité de vos jeux ponctuellement.
+  LABEL_STUDIO_CUSTOMIZE_DESCRIPTION_0: >
+    Vous pouvez repeindre les murs, changer les poteaux et refaire les sols de vos studios.
+  LABEL_FURNITURES_SERVERS_BUY_DESCRIPTION_0: >
+    Achetez des serveurs va vous permettre de créer des jeux en ligne mais aussi un portail en ligne.
+  LABEL_GAME_ONLINE_DESCRIPTION_0: >
+    Vous pouvez créer des jeux en ligne. Ils sont normalement moins coûteux, mais les joueurs doivent payer un abonnement mensuel.
+  LABEL_DIGITAL_STORE_DESCRIPTION_0: >
+    Vous pouvez créer un magasin de vente de jeux dématérialisé, enfin une première version alpha qu'il va falloir améliorer.
+  LABEL_GAMEEDITION_SUBMIT_DESCRIPTION_0: >
+    Devenez éditeur et engagez d'autres compagnies pour qu'elles créent vos jeux.
+  LABEL_POSTMORTEM_FEATURE_DESCRIPTION_0: >
+    Un post-mortem est un compte rendu de ce qui s'est bien ou mal passé durant le développement du jeu, ça vous donne des indices.
+  LABEL_NEW_GAME_FEATURE_DESCRIPTION_0: >
+    Créer un bon jeu vous permet d'avancer dans City Game Studio, gagner de l'argent, des fans et de l'expérience.
+  LABEL_TARGETTED_AUDIENCE_FEATURE_DESCRIPTION_0: >
+    Lors de la création d'un jeu vous pouvez désormais choisir le public cible, cela a une influence sur la note finale et les ventes du jeu.
+  LABEL_CAPACITY_STORY_FEATURE_DESCRIPTION_0: >
+    Vous avez une nouvelle jauge de design lors de la création d'un jeu
+  LABEL_CAPACITY_USER_INTERFACE_FEATURE_DESCRIPTION_0: >
+    Vous avez une nouvelle jauge de design lors de la création d'un jeu
+  LABEL_CAPACITY_NETWORK_FEATURE_DESCRIPTION_0: >
+    Vous avez une nouvelle jauge de développement lors de la création d'un jeu
+  LABEL_CAPACITY_MODDING_FEATURE_DESCRIPTION_0: >
+    Vous avez une nouvelle jauge de développement lors de la création d'un jeu
+  LABEL_CAPACITY_CUTSCENES_FEATURE_DESCRIPTION_0: >
+    Vous avez une nouvelle jauge de polissage lors de la création d'un jeu
+  LABEL_CAPACITY_TUTORIEL_FEATURE_DESCRIPTION_0: >
+    Vous avez une nouvelle jauge de polissage lors de la création d'un jeu
+  LABEL_MARKETING_CAMPAIGN_SOCIALNETWORK_DESCRIPTION_0: >
+    Vous pouvez faire de la publicité sur les réseaux sociaux, c'est très ciblé, cher et très efficace
+  LABEL_MARKETING_CAMPAIGN_MAILINGLIST_DESCRIPTION_0: >
+    Envoyez des emails ne vous coûtera presque rien et cela influencera les ventes de vos jeux
+  LABEL_GAMEPORT_FEATURE_DESCRIPTION_0: >
+    Vous pouvez porter vos jeux sur de nouvelles plateformes.
+  LABEL_UNLOCK_GAMEGENRE: Vous avez acquis de l'expérience en faisant des jeux, vous vous sentez prêt à développer de nouvelles mécaniques de jeu
+  LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_0: >
+    Vous pouvez désormais débloquer des nouveaux genres de jeux. Pour gagner des points d'expériences, il vous suffit de publier des jeux
+  LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_1: >
+    Les contrats sont maintenant accessibles. Les contrats vous permettent de gagner de l'argent, de l'expérience mais aussi à faire des jeux.
+
+  # Placeholder used for forms
+  LABEL_TEAM_BALANCED: L'équipe est bien équilibrée
+  LABEL_TEAM_NOT_BALANCED: L'équipe est déséquilibrée
+  PLACEHOLDER_COMPANY_NAME: Nom de la compagnie
+  PLACEHOLDER_GAME_GENRE: Genre du jeu
+  PLACEHOLDER_GAME_NAME: Nom du jeu
+  PLACEHOLDER_PLAYER_NAME: Votre nom
+
+  LABEL_VERSION_BETA: Version bêta
+  LABEL_BREAK_LAW: |
+    Vous êtes sur le point de violer la loi.
+    Êtes-vous sûr de vouloir continuer?
+  LABEL_SUCCESS: Succès
+  LABEL_FAILURE: Échec
+  LABEL_CANNOT_INTERACT: Vous ne pourrez plus communiquer avec %s jusqu'au %s
+  LABEL_FAN_LOST: Cela a nuit à votre popularité, vous perdez %s fans
+  LABEL_PENALTY_COST: La justice a tranché, vous devez payer %s$
+  LABEL_EMPLOYEE_HIRED: Vous avez engagé %s
+  LABEL_GAME_CRACKED: |
+    Les revenus générés par %s sont divisés par 3
+    et il n'est plus en compétition avec vos jeux vidéo. 
+  LABEL_GENRE_STOLEN: Vous avez appris %s
+  LABEL_STUDIO_SOLD: Ils ont vendu %s
+  LABEL_GENRE_UNIQ_ALREADY_UNLOCKED: |
+    Le genre n'est plus unique car il a déjà été inventé par une autre compagnie.
+
+  # Tutoriel labels
+  TOOLTIP_REMAKE_MISSING_FEATURE_NO_ALTERNATIVE: |
+    Cette fonctionnalité n'est pas disponible,
+    mais elle était présente dans le jeu original.
+  TOOLTIP_REMAKE_MISSING_FEATURE_ALTERNATIVE: |
+    Cette fonctionnalité n'est pas disponible,
+    mais une alternative est disponible, il est
+    recommandé de l'utiliser.
+  TOOLTIP_REMAKE_CAPACITIES_NOT_ENOUGH: |
+    Ce remake n'exploite pas suffisamment les
+    capacitiés de la console.
+  TOOLTIP_REMAKE_ENGINE_FEATURE_NOT_VALID: |
+    Certaines fonctionnalités ne sont pas
+    disponibles, veuillez en selectionner d'autres.
+  TOOLTIP_POSTMORTEM_ALREADY_DONE: |
+    Le rapport de jeu a déjà été fait.
+  TOOLTIP_POSTMORTEM_AUTOMATICALLY: |
+    Faire automatiquement le rapport de jeu.
+  TUTORIEL_CREATE_GAME: |
+    Cliquez sur ce bouton pour ouvrir le panneau de création des jeux.
+  TUTORIEL_GAME_ENGINE_TOO_EXPENSIVE: |
+    Les coûts pour mettre à jour ce moteur de jeu sont plus élevés.
+    En effet, le moteur de jeu commence a dater, cela peut faire exploser les coûts de développement.
+
+    Vous pourriez créer un nouveau moteur de jeu, sans mettre à jour celui-ci pour éviter cette pénalité.
+  TUTORIEL_PLATFORM_MAKING_COSTS: |
+    Attention, les coûts de fabrications de la console sont plus élevés que
+    son prix. Si les ventes explosent vous pourriez bien faire faillite.
+
+    Vous devriez augmenter le prix de la console pour éviter de perdre de l'argent.
+  TUTORIEL_CREATE_GAME_OBSOLETE: |
+    Les autres éditeurs de jeux ne parviennent pas a vendre leur jeu sur cette console.
+    Il est fort probable que vous aussi, vous ne vendiez pas beaucoup de copies de votre jeu
+    sur cette console.
+
+    Vous devriez sélectionner une autre console pour éviter de faire un flop.
+  TUTORIEL_CREATE_NORMAL_GAME: |
+    Comme vous n'avez pas assez de fan pour pouvoir vendre des jeux de cette taille,
+    il va falloir que vous ayiez une note supérieure a 90% pour qu'il se vende bien.
+
+    Vous devriez faire un jeu un petit peu moins grand pour mieux le vendre.
+    Pour faire grandir le nombre de fan, vous pouvez aussi répondre aux offres de publications
+    des autres studios.
+  LABEL_RELATIONSHIP: Rapport
+  LABEL_RELATIONSHIP_FRIENDLY: Amical
+  LABEL_RELATIONSHIP_NEUTRAL: Neutre
+  LABEL_RELATIONSHIP_UNFRIENDLY: Hostile
+  LABEL_ARCADE_SNEAK_IN: Arcade Sneak In
+  LABEL_FOOSBALL: Babyfoot
+  LABEL_HOOVERBALL: Air Hockey
+  LABEL_TV: Telévision
+  LABEL_ARCADE_CITY_GAME_STUDIO: Arcade City Game Studio
+
+  # Tutoriel labels
+  TOOLTIP_BONUS_HYPE: |
+    C'est lorsque vous présentez vos jeux lors de conventions que vous générez un engouement supplémentaire.
+  TOOLTIP_CUSTOM_PLATFORM_RELEASE: |
+    Félicitations, vous venez de développer votre console !
+
+    Avant de publier votre console, il est important de constituer un bon catalogue de jeux.
+    Pour ça, vous pouvez faire des signer des contrats d'exclusivités avec vos concurrents.
+    Ou alors vous pouvez publier un tas de petits jeux vous vous-même.
+    Il y a toujours l'option d'agir comme un éditeur d'engager des petits studios indépendants pour faire des jeux pour vous.
+
+    L'un dans l'autre, il est préférable d'avoir au moins 15 jeux avant de publier votre première console.
+  TOOLTIP_UNIVERSITY_TRAINING: |
+    Les universités permettent de former vos employés au-delà de leurs capacités normales.
+    Cependant, former vos employés au-delà de leurs capacités normales va considérablement augmenter leur salaire.
+  TOOLTIP_GAME_GENRE_MAX_2_GENRES: |
+    Maximum 2 genres par jeu.
+
+    Certains genres de jeux sont déjà des combinaisons de genres,
+    et ne peuvent pas être combiné avec d'autres genres de jeux.
+  TOOLTIP_GAME_GENRE_LOCKED: |
+    Ce genre est verrouillé pour le moment.
+  TOOLTIP_GAME_TYPE_SELECT_ONE: |
+    Vous devez sélectionner au moins un genre de jeu pour pouvoir créer un jeu.
+  TOOLTIP_RANDOM_SLIDER: |
+    Lors de la création d'un jeu, la valeur attendue des jauges des étapes de développement, de design et de polissage deviennent aléatoires.
+  TOOLTIP_REQUIRE_GAME: |
+    Vous devez posséder %s pour débloquer cet objet.
+  TOOLTIP_RELATIONSHIP: |
+    Une bonne relation permet d'avoir des offres plus avantageuses.
+    A l'inverse avoir une mauvaise relation rendra les négociations plus hardues.
+
+    Votre relation s'améliore lorsque vous publiez des jeux sur leur console.
+    Ou lorsque vous acceptez des contrats d'exclusivités, ou achetez une license.
+
+    Votre relation se dégrade lorsque vous refusez un contrat d'exclusivité,
+    ou lorsque vous entamez une discussion sans acheter de license.
+  TOOLTIP_TIPS_CAPACITY: |
+    Vous obtenez plus d'indices en faisant des contrats ou des rapports de jeu.
+    Plus d'indices signifie une jauge bleue plus précise.
+  TOOLTIP_CANCEL_EXCLUSIVE_GAME: |
+    Vous avez signé une offre exclusivité.
+    Vous ne pouvez pas porter ce jeu sur une autre console, et ce jeu doit rester en vente pour une durée minimale de un an.
+    Passé ce délai, vous pourrez l'annuler.
+  TOOLTIP_KEEP_HINT: |
+    En cochant cette case vous conserverez toutes les connaissances que vous avez acquises avec les rapports
+    de jeu de vos parties précédentes.
+  TOOLTIP_CONCURRENT_PAY_TO: >
+    Étant donné que le jeu %s n'a pas répondu aux attentes de %s, vous allez devoir payer une pénalité de %s$.
+    Comme vous n'avez que %s$ en poche, vous feriez mieux de prendre une hypothèque pour évier la faillite.
+  TOOLTIP_EMPLOYEE_BETTER_STUDIO_FURNISHING: |
+    Ajoutez des machines à café, des distributeurs automatiques ou des plantes pour améliorer l'espace de travail
+
+  TOOLTIP_EMPLOYEE_BORED_GENRE: |
+    Votre employé veut essayer un nouveau genre de jeu. Votre employé ne veut pas travailler sur un genre de jeu comme :
+    
+  TOOLTIP_GAME_ENGINE_WHY: |
+    Faites votre propre moteur de jeu.
+
+    En créant votre propre moteur vous pouvez le vendre avec une license propriétaire.
+    Ou alors le rendre libre de droit, et une communauté se formera autour de votre moteur pour l'améliorer.
+    Ou le garder en interne pour ne pas avantager vos concurrents.
+  TOOLTIP_TRADE_PUBLISH_WHY: |
+    Développez les jeux de vos concurrents.
+
+    Ça va vous permettre de gagner beaucoup de fans rapidement.
+    Parcontre vos concurrents grandiront d'autant plus rapidement.
+  TOOLTIP_PUBLISH_GAME_WHY: |
+    Devenez un éditeur de jeux.
+
+    Ça coûte beaucoup moins cher que de développer un jeu vous-même, mais ça rapport pas mal d'argent.
+    Cependant vous ne gagnerez aucun fan.
+  TOOLTIP_ROYALTY_GET: |
+    Il s'agit du pourcentage que vous allez toucher sur les revenus
+    générés.
+  TOOLTIP_ROYALTY_GIVE: |
+    Il s'agit du pourcentage que vous allez verser sur les revenus
+    générés
+  TOOLTIP_SERVER_BURNING: |
+    Attention les serveurs ne parviennent pas à gérer autant de joueurs.
+
+    Les joueurs ayant acheté le jeu seront comptés comme des ventes, mais ils seront remboursés aussitôt car ils ne peuvent pas se connecter.
+    C'est un manque à gagner considérable.
+
+    Il est temps d'augmenter la capacité des serveurs.
+  TOOLTIP_FIRST_CUSTOM_CONSOLE: |
+    Félicitations, vous avez commencé à travailler sur votre première console.
+
+    Pour créer de la hype autour de votre console, vous avez besoin d'un grand catalogue
+    de jeux. Envoyer des devkits à vos concurrents les encourage à créer des jeux
+    pour votre console.
+
+    Cliquez sur ce bouton pour envoyer des devkits.
+  TOOLTIP_GAME_PRICE_TAG: |
+    Permet de basculer entre un jeu payant et un jeu gratuit.
+
+    Pour faire un jeu gratuit vous devez soit faire un jeu en
+    ligne avec un abonnement mensuel, soit avoir activé les
+    modules publicitaires ou de microtransactions.
+  TOOLTIP_TRADE_DELAY_BETWEEN_ORDER_EXECUTION: |
+    Regroupe les ordres d'achats et de ventes
+    émit durant l'écoulement de ce minuteur.
+  TOOLTIP_TRADE_CHART: |
+    Le fonctionnement est basique, chaque bougie peut être rouge ou bleue,
+    elle sera rouge lorsque le prix d'une action a baissé, par contre elle
+    sera bleue si le prix a augmenté par rapport au début de la même bougie.
+
+    Le rectangle est le corps de la bougie, il indique la variation de
+    l'ouverture à la fermeture et une ligne qui le traverse indique
+    le maximum et le minimum. 
+  TOOLTIP_GAME_SIZE: |
+    La taille d'un jeu influence le nombre de point requis,
+    la durée de developpement d'un jeu et son coûts de production.
+
+    Il est plus difficile d'avoir une note au dessus de 90 avec un petit jeu qu'avec un grand jeu.
+  TOOLTIP_THEME_TREND: |
+    La tendance des thèmes influence les ventes.
+  TOOLTIP_HAPPY_EMPLOYEE: |
+    Votre employé est heureux
+  TOOLTIP_EMPLOYEE_HAPPINESS: |
+    Plus un employé est heureux moins souvent il partira en vacances.
+    Et plus un employé est malheureux plus souvent il partira en vacances.
+  TOOLTIP_EMPLOYEE_PRODUCTIVITY: |
+    Plus la productivité d'un employé est élevée, plus il produira de points.
+  TOOLTIP_GAME_PRICE: |
+    Plus le prix d'un jeu est élevé plus les bénéfices sont grands.
+    Mais baisser le prix d'un jeu permet de gagner plus de fans.
+  TOOLTIP_TOO_HARD: |
+    Ce mode de difficulté est challengeant.
+    Il est préférable d'avoir terminé le jeu en difficulté 1 ou 2 avant. 
+
+    En essayant un mode trop difficile vous prenez le risque de ne pas apprécier le jeu, voir de penser que ce qui vous arrive est injuste ou qu'il n'est pas bien équilibré.
+  TOOLTIP_REQUIRED_POINTS: |
+    Ceci représente le nombre de point a produire pour faire un bon jeu.
+
+    Plus la taille du jeu est grande, plus le nombre de points requis est élevé.
+    Cela prend aussi en compte les autres jeux similaires qui ont été faits durant les 4 dernières années.
+  TOOLTIP_NO_MONEY: |
+    Les caisses sont vides.
+
+    Pour pouvoir continuer a subsister, vous devriez revoir vos dépenses à la baisse.
+    Mais à l'heure actuelle il vous faut de quoi renflouer la compagnie.
+
+    Le mieux reste de contracter une hypothèque la plus importante et la plus longue possible.
+  TOOLTIP_GAME_UPDATE_BUTTON: >
+    Cliquez là pour mettre à jour vos jeux, créer des DLC ou consulter les détails financiers
+  TOOLTIP_GAMECREATION_HELP: >
+    Liste les jeux du même genre que vous avez créé. C'est fort utile pour ajuster les jauges
+  TOOLTIP_GAMEENGINE_CREATE: >
+    Choisissez les fonctionnalités a ajouter à votre moteur de jeu
+  TOOLTIP_TIRED_GAME_GENRE: >
+    Vos employés veulent essayer de nouveaux genre de jeu,
+    ils sont fatigués des faire des jeux de type: 
+  TOOLTIP_MARKETSEARCH_SELECT_PLATFORM_OR_THEME: |
+    Veuillez sélectionner thèmes/plateformes pour l'étude de marché
+  TOOLTIP_MARKETSEARCH_SELECT_GENRE: |
+    Veuillez sélectionner le genre qui sera étudié dans l'étude de marché
+  TOOLTIP_MARKETSEARCH_SELECT_GENRE_OR_TARGETTED_AUDIENCE: |
+    Veuillez sélectionner genres/audience cibles pour l'étude de marché
+  TOOLTIP_MARKETSEARCH_SELECT_PLATFORM: |
+    Veuillez sélectionner la plateforme qui sera étudiée dans l'étude de marché
+  TOOLTIP_MARKETSEARCH_MATCH_ALREADY_KNOWN: |
+    Cet élément est déjà connu, il n'est pas nécessaire de l'intégrer dans l'étude de marché
+  TOOLTIP_UNIVERSITY_TRAINING_TYPE: |
+    Formez vos employés jusqu'à ce qu'ils deviennent parfaits
+    ou pour une durée déterminée.
+  TOOLTIP_UNIVERSITY_AUTOTRAINING: |
+    Envoie automatiquement les employés en formation jusqu'à ce qu'ils
+    soient parfaits ou jusqu'à ce qu'il y ait un travail à faire.
+
+    Nécessite un RH.
+  TOOLTIP_UNIVERSITY_GLOBAL_TRAINING: |
+    Forme le personnel à tous les aspects du développement de jeux vidéo.
+  TOOLTIP_UNIVERSITY_SPECIFIC_TRAINING: |
+    Forme le personnel à un aspect spécifique du développement de jeux vidéo.
+  TOOLTIP_PLATFORM_MARKETING: |
+    Une fois activée, la campagne marketing débutera
+    dès que la console sera publiée.
+  TOOLTIP_MENU_CREATE_GAME: |
+    Créer un nouveau jeu, un moteur de jeu, un contrat,
+    un rapport de jeu ou pour porter un jeu
+  TOOLTIP_MENU_CREATE_CONSOLE: |
+    Créer et gérer un magasin numérique ou
+    créer une nouvelle console
+  TOOLTIP_GAME_CREATION_BALANCING: |
+    Ce compteur illustre la charge de travail distribuée à vos employés.
+    Une charge de travail trop élevée ou trop faible nuira à la qualité des jeux
+    produits.
+
+    Pour obtenir une note optimale il faut conserver la charge de travail
+    dans la zone blanche.
+  TOOLTIP_GAME_UPDATE: |
+    Publier une mise à jour gratuite permet de relancer les ventes d'un jeu.
+    Une mise à jour payante va générer des revenus par rapport
+    au nombre de copies vendues du jeu original.
+  TOOLTIP_MATCH_EXCELLENT: Excellente association
+  TOOLTIP_MATCH_GOOD: Bonne association
+  TOOLTIP_MATCH_OK: Association moyenne
+  TOOLTIP_MATCH_POOR: Mauvaise association
+  TOOTIP_STUDIO_HAPPINESS: |
+    Quels genres de jeux le studio sélectionné aime
+  TOOLTIP_TOPSALES: |
+    Les meilleures ventes en jeux vidéo
+  TOOLTIP_GAME_OF_THE_YEAR: |
+    Tous les ans, un nouveau jeu est sélectionné
+    pour devenir LE jeu de l'année.
+  TOOLTIP_CONVENTION_LIST: |
+    Participe à ces conventions
+  TOOLTIP_FORCE_STUDIO: |
+    Vous devez sélectionner le studio dont vous voulez forcer la vente
+  TOOLTIP_CRACK_GAME: |
+    Vous devez sélectionner le jeu que vous voulez pirater
+  TOOLTIP_HIRE_STAFF: |
+    Vous devez sélectionner l'employé que vous souhaitez débaucher
+  TOOLTIP_CONCURRENT_LOCKED: |
+    Vous pourrez de nouveau tenter une action contre %s à partir du %s
+  TOOLTIP_TUTORIEL: |
+    Vous devez avoir %s pour débloquer %s
+  TOOLTIP_EMAIL: |
+    Contient les dernières actualités ainsi que votre courrier
+  TOOLTIP_UNLOCK_GAME_GENRE: |
+    Permet de débloquer de nouveaux genres de jeu.
+  TOOLTIP_MANAGE_STUDIO: |
+    Permet de gérer vos studios, mettre à jour les ordinateurs, assigner les employés...
+  TOOLTIP_GAMEPORT: Porter un de vos jeux sur une autre plateforme
+  TOOLTIP_POSTMORTEM: |
+    Faire un post-mortem
+    Un post-mortem vous permet de mieux
+    jauger les jeux que vous voulez créer
+  TOOLTIP_CREATE_GAME: Créer un nouveau jeu
+  TOOLTIP_STAFF: Consulter la liste de vos employés
+  TOOLTIP_RECRUIT: |
+    Lister les candidats potentiels
+    disponibles sur le marché
+  TOOLTIP_PORTFOLIO: |
+    Lister les jeux que
+    vous avez publié depuis la
+    création de votre studio
+  TOOLTIP_OPTION: Paramètres et options
+  TOOLTIP_EXIT: Retourner sur le bureau
+  TOOLTIP_STUDIOS: Lister vos studios
+  TOOLTIP_STUDIOLIST: Lister les bureaux disponibles sur le marché
+  TOOLTIP_CONSTRUCT: |
+    Construire un bâtiment pour en faire un
+    studio ou encore une salle de conférence
+  TOOLTIP_CONFERENCE: Participer ou organiser des conférences
+  TOOLTIP_MARKETING: Organiser des campagnes publicitaires
+  TOOLTIP_SELL: Vendre votre studio
+  TOOLTIP_SHOP: Acheter des meubles et autres fournitures
+  TOOLTIP_BUILDMOD: |
+    Refaire la peinture,
+    les sols et embellir votre studio
+  TOOLTIP_ASSIGN: Assigner un employé
+  TOOLTIP_STUDIO_SELECT: Sélectionner des studios
+  TOOLTIP_ANNOUNCE_GAME: |
+    Annoncer le jeu au grand public.
+    Génère de l'engouement.
+  TOOLTIP_CONCURRENT: |
+    Liste les compagnies de jeux vidéo
+  TOOLTIP_STUDIO_COST: |
+    Coût total des studios. Cela inclut le prix du loyer ainsi que
+    le coût d'entretien du matériel (pour les serveurs par exemple)
+  TOOLTIP_MARKETING_COST: |
+    Coûts des campagnes marketing actuellement en cours
+  TOOLTIP_SALARY_COST: |
+    Salaire de chaque employé
+  TOOLTIP_STEAM_MODS: |
+    Mod du workshop de Steam
+  TOOLTIP_HUMANRESOURCE: |
+    Désignez un responsable des ressources humaines pour gérer les horaires
+    et les augmentations de salaire de vos employés
+  TOOLTIP_DESK_REPLACE: |
+    Remplacer les bureaux et mettre à jour les ordinateurs
+  TOOLTIP_POSTMORTEM_RED_ZONE: |
+    La zone bleue correspond à ce que vous avez appris en faisant des post-mortems.
+    En sortant de la zone bleue vous prenez le risque d'avoir un jeu qui n'est pas équilibré,
+    et d'avoir de mauvaises revues.
+
+  # Showd when game is loading
+  LOADING_SCREEN_TIP_0: >
+    Une note secrète est attribuée a votre compagnie basée sur la qualité des jeux que vous avez produits durant les quatre dernières années
+  LOADING_SCREEN_TIP_1: >
+    Des employés exceptionnels, ayant toutes les qualités, peuvent postuler spontanément pour venir renforcer vos équipes de production
+  LOADING_SCREEN_TIP_2: >
+    L'écran de chargement n'est là que pour vous faire patienter, en vrai il s'agit d'un sleep(random(50)) qui tourne en boucle
+  LOADING_SCREEN_TIP_3: >
+    Découvrir un nouveau genre de jeu vous donne un avantage considérable sur les concurrents
+  LOADING_SCREEN_TIP_4: >
+    Le meilleur moyen de devenir connu reste encore de produire des jeux avec vos concurrents
+  LOADING_SCREEN_TIP_5: >
+    Vous pouvez organisez des conventions dans des bâtiments vous appartenant, attention cependant à les espacer d'au moins une année.
+  LOADING_SCREEN_TIP_6: >
+    Le département des mauvaises ventes a toujours raison
+  LOADING_SCREEN_TIP_7: >
+    Les jeux en lignes ont besoin de serveurs, doivent se vendre moins chers, mais les joueurs doivent payer tous les mois pour continuer à y jouer
+  LOADING_SCREEN_TIP_8: >
+    Einstein, notre mascotte, a aboyé 65.13 fois durant le développement de City Game Studio
+  LOADING_SCREEN_TIP_9: >
+    12654 musiques de noëls ont été jouées durant le développement de City Game Studio
+  LOADING_SCREEN_TIP_10: >
+    Les parts de marchés ne font pas tout, il faut également regarder le nombre de jeu publié sur une plateforme
+  LOADING_SCREEN_TIP_11: >
+    Vous pouvez contribuer à améliorer les traductions de City Game Studio en allant sur https://discord.gg/citygamestudio
+  LOADING_SCREEN_TIP_12: >
+    Quand les lumières de vos serveurs brillent en rouge, cela signifie qu'ils sont en surcharge
+  LOADING_SCREEN_TIP_13: >
+    N'oubliez pas de prendre des pauses café régulièrement... Ah, la machine à café est encore brisée
+  LOADING_SCREEN_TIP_14: >
+    Le crunchtime n'est pas une marque de céréale, mais bel et bien une pratique de management répandue
+  LOADING_SCREEN_TIP_15: >
+    Le meilleur moyen de gagner de l'argent est de sortir sans cesse de nouveaux jeux
+  LOADING_SCREEN_TIP_16: >
+    N'oubliez pas de faire des post-mortems, ils vous permettent d'en apprendre plus sur les jeux que vous avez produits
+  LOADING_SCREEN_TIP_17: >
+    Selon une étude récente, près de 1 chien sur 625,3 aboie quand il pleut, et les autres se moquent de lui
+  LOADING_SCREEN_TIP_18: >
+    Ne vous fiez pas à tout ce que vous pouvez lire sur les écrans de chargement
+  LOADING_SCREEN_TIP_19: >
+    Ne laissez jamais un chat dans une gouttière, adoptez-le ! Votre équipe vous le rendra.
+  LOADING_SCREEN_TIP_20: >
+    Si les compétences d'un studio ne sont pas équivalentes, alors les jeux qu'ils produiront seront de moins bonnes qualités
+  LOADING_SCREEN_TIP_21: >
+    Appuyez sur F1 pour ouvrir la console du jeu
+
+  GAME_UPDATE: Mise à jour de jeu
+  GAMEENGINE: Moteurs de jeu
+  GAMEEDITION_SUBMIT: Émettre des offres d'éditions
+  GAMEEDITION_RECEIVE: Recevoir des offres d'éditions
+  WORLDMAP: Carte de la ville
+  MARKETING_CAMPAIGN_MAGAZINE: Campagne publicitaire dans la presse
+  MARKETING_CAMPAIGN_TV: Campagne publicitaire télévisuelle
+  MARKETING_CAMPAIGN_INTERNET: Campagne publicitaire en ligne
+  CONCURRENT_STUDIOS_LIST: Lister les compétiteurs
+  CONCURRENT_STUDIOS_BUY: Racheter les compétiteurs
+  FURNITURES_COMMON_BUY: Acheter des meubles
+  EMPLOYEES_HIRE: Engager du personnel
+  STUDIO_RENT: Louer un studio
+  STUDIO_BUILD: Construire un studio
+  CONVENTION_ORGANIZE: Organiser une convention
+  CONVENTION_PARTICIPATE: Participer à une convention
+  STUDIO_CUSTOMIZE: Rénover vos studios
+  FURNITURES_SERVERS_BUY: Acheter des serveurs
+  GAME_ONLINE: Publier des jeux en ligne
+  DIGITAL_STORE: Magasin dématérialisé
+  POSTMORTEM: Rapport de jeu
+  NEW_GAME: Nouveau jeu
+  TARGETTED_AUDIENCE: Audience ciblée
+  STORY: Histoire
+  USERINTERFACE: Interface utilisateur
+  NETWORK: Réseau
+  MODDING: Modding
+  CUTSCENES: Scènes coupées
+  TUTORIEL: Tutoriels
+  MARKETING_CAMPAIGN_SOCIALNETWORK: Campagne publicitaire ciblée
+  MARKETING_CAMPAIGN_MAILINGLIST: Campagne publicitaire par courriel
+  GAMEPORT: Porter un jeu
+  UNLOCK_GAMEGENRE: Débloquer un genre de jeu
+  UNLOCK_HUMANRESOURCE: Ressources humaines
+  UNLOCK_GAME_OF_THE_YEAR: Jeu de l'année
+  UNLOCK_CLOUD_SERVER: Serveurs Cloud
+  REMASTER_AND_REMAKE: Remake et Remaster
