@@ -59,3 +59,6 @@ http://pollly.orson.io/ is a great static website that will help you to translat
 
 If you have questions about contributing [contact us](https://www.city-game-studio.com)
 or send an email to contact@binogure-studio.com.
+
+
+This is patch have Ukraine Language 
